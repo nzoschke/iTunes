@@ -11,28 +11,468 @@
 	<key>Library Persistent ID</key><string>44BDE854901FAF25</string>
 	<key>Tracks</key>
 	<dict>
+		<key>190</key>
+		<dict>
+			<key>Track ID</key><integer>190</integer>
+			<key>Name</key><string>Voyager</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7145509</integer>
+			<key>Total Time</key><integer>227918</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:22Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3F417E1A0B44C76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/10%20-%20Daft%20Punk%20-%20Voyager.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>197</key>
+		<dict>
+			<key>Track ID</key><integer>197</integer>
+			<key>Name</key><string>Short Circuit</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5730758</integer>
+			<key>Total Time</key><integer>206915</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:22Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A11DC05095C54BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/12%20-%20Daft%20Punk%20-%20Short%20Circuit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>202</key>
+		<dict>
+			<key>Track ID</key><integer>202</integer>
+			<key>Name</key><string>Face To Face</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7371432</integer>
+			<key>Total Time</key><integer>240222</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:22Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E388916F4198A1C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/13%20-%20Daft%20Punk%20-%20Face%20To%20Face.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>207</key>
+		<dict>
+			<key>Track ID</key><integer>207</integer>
+			<key>Name</key><string>Veridis Quo</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9657667</integer>
+			<key>Total Time</key><integer>344946</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:22Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A58029F0F0650170</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/11%20-%20Daft%20Punk%20-%20Veridis%20Quo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>212</key>
+		<dict>
+			<key>Track ID</key><integer>212</integer>
+			<key>Name</key><string>Superheroes</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7563117</integer>
+			<key>Total Time</key><integer>237844</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A933913E7BD72020</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/07%20-%20Daft%20Punk%20-%20Superheroes.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>217</key>
+		<dict>
+			<key>Track ID</key><integer>217</integer>
+			<key>Name</key><string>Something About Us</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6729774</integer>
+			<key>Total Time</key><integer>231131</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D08EB7E95FFB1E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/09%20-%20Daft%20Punk%20-%20Something%20About%20Us.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>222</key>
+		<dict>
+			<key>Track ID</key><integer>222</integer>
+			<key>Name</key><string>Harder, Better, Faster, Stronger</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7211300</integer>
+			<key>Total Time</key><integer>224339</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59B087187533D669</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/04%20-%20Daft%20Punk%20-%20Harder,%20Better,%20Faster,%20Stronger.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>227</key>
+		<dict>
+			<key>Track ID</key><integer>227</integer>
+			<key>Name</key><string>Too Long</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18917645</integer>
+			<key>Total Time</key><integer>600346</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>251</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F22445390B595D3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/14%20-%20Daft%20Punk%20-%20Too%20Long.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>232</key>
+		<dict>
+			<key>Track ID</key><integer>232</integer>
+			<key>Name</key><string>One More Time</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8772875</integer>
+			<key>Total Time</key><integer>320888</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:58Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20C7BA699A430030</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/01%20-%20Daft%20Punk%20-%20One%20More%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>237</key>
+		<dict>
+			<key>Track ID</key><integer>237</integer>
+			<key>Name</key><string>Digital Love</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9458718</integer>
+			<key>Total Time</key><integer>298396</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69AF74104D2F640B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/03%20-%20Daft%20Punk%20-%20Digital%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>242</key>
+		<dict>
+			<key>Track ID</key><integer>242</integer>
+			<key>Name</key><string>Nightvision</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3105192</integer>
+			<key>Total Time</key><integer>104515</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21A160282668213C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/06%20-%20Daft%20Punk%20-%20Nightvision.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>247</key>
+		<dict>
+			<key>Track ID</key><integer>247</integer>
+			<key>Name</key><string>Aerodynamic</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5901845</integer>
+			<key>Total Time</key><integer>207595</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:23Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C6082065482F022</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/02%20-%20Daft%20Punk%20-%20Aerodynamic.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>252</key>
+		<dict>
+			<key>Track ID</key><integer>252</integer>
+			<key>Name</key><string>Crescendolls</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7249225</integer>
+			<key>Total Time</key><integer>211696</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:24Z</date>
+			<key>Bit Rate</key><integer>272</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE26516275752F45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/05%20-%20Daft%20Punk%20-%20Crescendolls.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>257</key>
+		<dict>
+			<key>Track ID</key><integer>257</integer>
+			<key>Name</key><string>High Life</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6446351</integer>
+			<key>Total Time</key><integer>201848</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2010-10-08T15:43:59Z</date>
+			<key>Date Added</key><date>2010-10-10T17:26:24Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F418D8AAB3FCD7C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Network/Music/Daft%20Punk%20-%20Discovery%20(2001)/08%20-%20Daft%20Punk%20-%20High%20Life.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Library</string>
 			<key>Master</key><true/>
-			<key>Playlist ID</key><integer>65</integer>
+			<key>Playlist ID</key><integer>66</integer>
 			<key>Playlist Persistent ID</key><string>E0BE7EDABFFC9A25</string>
 			<key>Visible</key><false/>
 			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>Name</key><string>Music</string>
-			<key>Playlist ID</key><integer>121</integer>
+			<key>Playlist ID</key><integer>103</integer>
 			<key>Playlist Persistent ID</key><string>35484A7B706C7DE5</string>
 			<key>Distinguished Kind</key><integer>4</integer>
 			<key>Music</key><true/>
 			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>Name</key><string>Movies</string>
-			<key>Playlist ID</key><integer>124</integer>
+			<key>Playlist ID</key><integer>106</integer>
 			<key>Playlist Persistent ID</key><string>86CC67C122FAEF1F</string>
 			<key>Distinguished Kind</key><integer>2</integer>
 			<key>Movies</key><true/>
@@ -40,7 +480,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>TV Shows</string>
-			<key>Playlist ID</key><integer>127</integer>
+			<key>Playlist ID</key><integer>109</integer>
 			<key>Playlist Persistent ID</key><string>975D44FAB091ED98</string>
 			<key>Distinguished Kind</key><integer>3</integer>
 			<key>TV Shows</key><true/>
@@ -48,7 +488,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>Podcasts</string>
-			<key>Playlist ID</key><integer>115</integer>
+			<key>Playlist ID</key><integer>93</integer>
 			<key>Playlist Persistent ID</key><string>7ED173536D30C2B1</string>
 			<key>Distinguished Kind</key><integer>10</integer>
 			<key>Podcasts</key><true/>
@@ -56,14 +496,14 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>Genius</string>
-			<key>Playlist ID</key><integer>139</integer>
+			<key>Playlist ID</key><integer>121</integer>
 			<key>Playlist Persistent ID</key><string>2B98769471FF702E</string>
 			<key>Distinguished Kind</key><integer>26</integer>
 			<key>All Items</key><true/>
 		</dict>
 		<dict>
 			<key>Name</key><string>iTunes DJ</string>
-			<key>Playlist ID</key><integer>108</integer>
+			<key>Playlist ID</key><integer>90</integer>
 			<key>Playlist Persistent ID</key><string>23858AE00BCD25DA</string>
 			<key>Distinguished Kind</key><integer>22</integer>
 			<key>Party Shuffle</key><true/>
@@ -71,7 +511,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>90’s Music</string>
-			<key>Playlist ID</key><integer>68</integer>
+			<key>Playlist ID</key><integer>69</integer>
 			<key>Playlist Persistent ID</key><string>400E9A8B5D6B5DB2</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
@@ -99,7 +539,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>Classical Music</string>
-			<key>Playlist ID</key><integer>86</integer>
+			<key>Playlist ID</key><integer>87</integer>
 			<key>Playlist Persistent ID</key><string>84A5016A0DD8F3A6</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
@@ -138,7 +578,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>Music Videos</string>
-			<key>Playlist ID</key><integer>83</integer>
+			<key>Playlist ID</key><integer>84</integer>
 			<key>Playlist Persistent ID</key><string>477CA7058E605955</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
@@ -158,7 +598,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>My Top Rated</string>
-			<key>Playlist ID</key><integer>71</integer>
+			<key>Playlist ID</key><integer>72</integer>
 			<key>Playlist Persistent ID</key><string>F3B7D5F1E58657A6</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
@@ -178,7 +618,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>Recently Added</string>
-			<key>Playlist ID</key><integer>80</integer>
+			<key>Playlist ID</key><integer>81</integer>
 			<key>Playlist Persistent ID</key><string>6DC653D1EA9CDEBA</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
@@ -198,10 +638,55 @@
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
 			AAAAAAAA
 			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>202</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>Name</key><string>Recently Played</string>
-			<key>Playlist ID</key><integer>77</integer>
+			<key>Playlist ID</key><integer>78</integer>
 			<key>Playlist Persistent ID</key><string>385F80380279B915</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
@@ -224,7 +709,7 @@
 		</dict>
 		<dict>
 			<key>Name</key><string>Top 25 Most Played</string>
-			<key>Playlist ID</key><integer>74</integer>
+			<key>Playlist ID</key><integer>75</integer>
 			<key>Playlist Persistent ID</key><string>4AB5DA71F90385EE</string>
 			<key>All Items</key><true/>
 			<key>Smart Info</key>
