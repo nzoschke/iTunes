@@ -1,0 +1,347 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="12" name="allObjects">
+    <object class="IBCarbonBevelButton" id="618">
+      <int name="controlID">101</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="contentResID">671</int>
+      <int name="graphicAlignment">2</int>
+      <int name="textPlacement">2</int>
+      <int name="textAlignment">-2</int>
+      <int name="textOffset">5</int>
+      <string name="title">Se på lydbøker i iTunes Store</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1214</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">115 279 234 16 </string>
+      <string name="bounds">324 145 340 379 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="611">
+      <string name="title">Last ned iBooks</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1212</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">495 181 146 20 </string>
+      <string name="bounds">226 525 246 671 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="570">
+      <int name="controlID">1</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 860 439 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonHIView" id="589">
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>crtr</string>
+              <string>crtr</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>9200</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">30 45 800 350 </string>
+          <array count="9" name="subviews">
+            <object class="IBCarbonStaticText" id="574">
+              <string name="title">Bøker</string>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1210</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 30 289 48 </string>
+              <string name="bounds">75 70 123 359 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="571">
+              <string name="title">Bøker og lydbøker du legger til i iTunes, vises under Bøker i iTunes-biblioteket. Hvis du vil høre på en lydbok, dobbeltklikker du på den. Hvis du vil lese en bok, synkroniserer du med en iPad-enhet.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1211</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 88 720 76 </string>
+              <string name="bounds">133 70 209 790 </string>
+            </object>
+            <object class="IBCarbonHIView" id="596">
+              <ostype name="controlSignature">PShf</ostype>
+              <int name="controlID">5</int>
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9290</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 184 60 60 </string>
+              <string name="bounds">229 70 289 130 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="597">
+              <string name="title">Last ned lydbøker.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1212</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">115 181 190 20 </string>
+              <string name="bounds">226 145 246 335 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="599">
+              <string name="title">Last ned de nyeste bestselgerne som lydbøker fra iTunes Store. Hør utdrag av, kjøp og last ned favorittene dine når som helst.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1213</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">115 205 265 70 </string>
+              <string name="bounds">250 145 320 410 </string>
+            </object>
+            <reference idRef="618"/>
+            <object class="IBCarbonHIView" id="610">
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9291</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">420 184 60 60 </string>
+              <string name="bounds">229 450 289 510 </string>
+            </object>
+            <reference idRef="611"/>
+            <object class="IBCarbonStaticText" id="612">
+              <string name="title">iBooks er en fantastisk måte å lese og kjøpe bøker på. Les utdrag, kjøp, og last ned klassikere og bestselgere fra innebygde iBookstore.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1213</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">495 205 265 70 </string>
+              <string name="bounds">250 525 320 790 </string>
+            </object>
+          </array>
+          <string name="bounds">45 30 395 830 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="617">
+          <int name="fontStyle">-2</int>
+          <string name="title">Lydbøker er tilgjengelig på iTunes Store i utvalgte land.</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>crtr</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1215</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">30 409 349 16 </string>
+          <string name="bounds">409 30 425 379 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 439 860 </string>
+    </object>
+    <reference idRef="612"/>
+    <reference idRef="571"/>
+    <reference idRef="589"/>
+    <reference idRef="596"/>
+    <reference idRef="574"/>
+    <reference idRef="617"/>
+    <reference idRef="597"/>
+    <reference idRef="610"/>
+    <reference idRef="599"/>
+  </array>
+  <array count="12" name="allParents">
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="1"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">621</unsigned_int>
+</object>

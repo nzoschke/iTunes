@@ -1,0 +1,346 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="13" name="allObjects">
+    <object class="IBCarbonStaticText" id="6355">
+      <int name="controlID">1501</int>
+      <string name="title">有聲書</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 153 375 23 </string>
+      <string name="bounds">153 40 176 415 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="6351">
+      <int name="controlID">1502</int>
+      <int name="fontStyle">105</int>
+      <boolean name="autoToggle">FALSE</boolean>
+      <string name="title">同步有聲書</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3001</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 22 375 23 </string>
+      <string name="bounds">22 40 45 415 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6368">
+      <int name="controlID">1507</int>
+      <string name="classID">com.apple.itunes.CheckListView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>audiobook parts</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">422 182 388 332 </string>
+      <string name="bounds">182 442 514 830 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6352">
+      <int name="controlID">1505</int>
+      <string name="classID">com.apple.itunes.CheckListView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>audiobooks</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 182 388 332 </string>
+      <string name="bounds">182 40 514 428 </string>
+    </object>
+    <object class="IBCarbonRadioButton" id="6364">
+      <int name="controlID">1504</int>
+      <boolean name="enabled">FALSE</boolean>
+      <string name="title">所選的有聲書</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>sync selected audiobooks</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">19 38 241 18 </string>
+      <string name="bounds">90 59 108 300 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6371">
+      <int name="controlID">1515</int>
+      <string name="classID">com.apple.itunes.CheckListView</string>
+      <string name="viewFrame">20 568 388 332 </string>
+      <string name="bounds">568 40 900 428 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6370">
+      <int name="controlID">1514</int>
+      <string name="title">包含播放列表的有聲書</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 539 388 23 </string>
+      <string name="bounds">539 40 562 428 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6356">
+      <int name="controlID">1512</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>bcol</string>
+          <string>fsqr</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>f7f7f7</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 52 790 76 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonRadioButton" id="6363">
+          <int name="controlID">1503</int>
+          <boolean name="enabled">FALSE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">所有有聲書</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>sync all audiobooks</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">19 16 201 18 </string>
+          <string name="bounds">68 59 86 260 </string>
+        </object>
+        <reference idRef="6364"/>
+      </array>
+      <string name="bounds">52 40 128 830 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6369">
+      <int name="controlID">1506</int>
+      <string name="title">有聲書的部份</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">422 153 375 23 </string>
+      <string name="bounds">153 442 176 817 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6365">
+      <int name="controlID">1511</int>
+      <int name="justification">-1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3015</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">547 22 263 23 </string>
+      <string name="bounds">22 567 45 830 </string>
+    </object>
+    <reference idRef="6363"/>
+    <object class="IBCarbonUserPane" id="6350">
+      <int name="controlID">1510</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 919 </string>
+      <array count="9" name="subviews">
+        <reference idRef="6351"/>
+        <reference idRef="6365"/>
+        <reference idRef="6356"/>
+        <reference idRef="6355"/>
+        <reference idRef="6352"/>
+        <reference idRef="6369"/>
+        <reference idRef="6368"/>
+        <reference idRef="6370"/>
+        <reference idRef="6371"/>
+      </array>
+      <string name="bounds">0 20 919 850 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6348">
+      <int name="controlID">1509</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1510</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 919 </string>
+      <array count="1" name="subviews">
+        <reference idRef="6350"/>
+      </array>
+      <string name="bounds">0 0 919 870 </string>
+    </object>
+  </array>
+  <array count="13" name="allParents">
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6356"/>
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6350"/>
+    <reference idRef="6356"/>
+    <reference idRef="6348"/>
+    <reference idRef="1"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="6348"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">6372</unsigned_int>
+</object>

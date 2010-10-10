@@ -1,0 +1,198 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="6" name="allObjects">
+    <object class="IBCarbonCheckBox" id="405">
+      <int name="controlID">3141</int>
+      <ostype name="command">DnAS</ostype>
+      <string name="title">Autoriser les téléchargements simultanés</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>545</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">14 15 315 18 </string>
+      <string name="bounds">15 14 33 329 </string>
+    </object>
+    <object class="IBCarbonHIView" id="402">
+      <int name="controlID">3145</int>
+      <ostype name="command">SCDN</ostype>
+      <string name="classID">ITButton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>724</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">344 12 32 22 </string>
+      <string name="bounds">12 344 34 376 </string>
+    </object>
+    <object class="IBCarbonHIView" id="400">
+      <int name="controlID">3140</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>1034</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 600 46 </string>
+      <array count="5" name="subviews">
+        <reference idRef="405"/>
+        <object class="IBCarbonStaticText" id="401">
+          <int name="controlID">3144</int>
+          <int name="fontStyle">-2</int>
+          <ostype name="command">SCDN</ostype>
+          <int name="justification">-1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>545</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">236 15 102 14 </string>
+          <string name="bounds">15 236 29 338 </string>
+        </object>
+        <reference idRef="402"/>
+        <object class="IBCarbonBevelButton" id="404">
+          <int name="controlID">3142</int>
+          <ostype name="command">DnPa</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Tout interrompre</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">381 12 105 22 </string>
+          <string name="bounds">12 381 34 486 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="403">
+          <int name="controlID">3143</int>
+          <ostype name="command">DnRs</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Tout reprendre</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">492 12 98 22 </string>
+          <string name="bounds">12 492 34 590 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 46 600 </string>
+    </object>
+    <reference idRef="401"/>
+    <reference idRef="403"/>
+    <reference idRef="404"/>
+  </array>
+  <array count="6" name="allParents">
+    <reference idRef="400"/>
+    <reference idRef="400"/>
+    <reference idRef="1"/>
+    <reference idRef="400"/>
+    <reference idRef="400"/>
+    <reference idRef="400"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="400"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">406</unsigned_int>
+</object>

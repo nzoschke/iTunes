@@ -1,0 +1,238 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="12" name="allObjects">
+    <object class="IBCarbonHIView" id="5390">
+      <int name="controlID">11</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>12</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 16 810 630 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5391">
+          <int name="controlID">12</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">15 4 780 616 </string>
+          <array count="9" name="subviews">
+            <object class="IBCarbonStaticText" id="5403">
+              <int name="controlID">31</int>
+              <string name="title">Ota iPod käyttöön</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3005</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">1 30 600 27 </string>
+              <string name="bounds">50 16 77 616 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5397">
+              <int name="controlID">34</int>
+              <string name="title">iPodin ohjelmistolisenssisopimus</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3005</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">1 30 600 27 </string>
+              <string name="bounds">50 16 77 616 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5399">
+              <int name="controlID">35</int>
+              <string name="title">Tervetuloa uuteen iPodiin</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3005</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">1 30 600 27 </string>
+              <string name="bounds">50 16 77 616 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5398">
+              <int name="controlID">47</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">Älä rekisteröi koskaan</string>
+              <string name="viewFrame">1 597 168 22 </string>
+              <string name="bounds">617 16 639 184 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5394">
+              <int name="controlID">45</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">Tallenna</string>
+              <string name="viewFrame">109 597 98 22 </string>
+              <string name="bounds">617 124 639 222 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5401">
+              <int name="controlID">44</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">Kumoa</string>
+              <string name="viewFrame">1 597 98 22 </string>
+              <string name="bounds">617 16 639 114 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5393">
+              <int name="controlID">46</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">Rekisteröi myöhemmin</string>
+              <string name="viewFrame">496 597 177 22 </string>
+              <string name="bounds">617 511 639 688 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5395">
+              <int name="controlID">41</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">Jatka</string>
+              <string name="viewFrame">681 597 98 22 </string>
+              <string name="bounds">617 696 639 794 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5402">
+              <int name="controlID">40</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">Valmis</string>
+              <string name="viewFrame">681 597 98 22 </string>
+              <string name="bounds">617 696 639 794 </string>
+            </object>
+          </array>
+          <string name="bounds">20 15 636 795 </string>
+        </object>
+      </array>
+      <string name="bounds">16 0 646 810 </string>
+    </object>
+    <reference idRef="5393"/>
+    <reference idRef="5394"/>
+    <object class="IBCarbonUserPane" id="5389">
+      <int name="controlID">10</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 810 650 </string>
+      <array count="1" name="subviews">
+        <reference idRef="5390"/>
+      </array>
+      <string name="bounds">0 0 650 810 </string>
+    </object>
+    <reference idRef="5403"/>
+    <reference idRef="5391"/>
+    <reference idRef="5399"/>
+    <reference idRef="5398"/>
+    <reference idRef="5402"/>
+    <reference idRef="5397"/>
+    <reference idRef="5395"/>
+    <reference idRef="5401"/>
+  </array>
+  <array count="12" name="allParents">
+    <reference idRef="5389"/>
+    <reference idRef="5391"/>
+    <reference idRef="5391"/>
+    <reference idRef="1"/>
+    <reference idRef="5391"/>
+    <reference idRef="5390"/>
+    <reference idRef="5391"/>
+    <reference idRef="5391"/>
+    <reference idRef="5391"/>
+    <reference idRef="5391"/>
+    <reference idRef="5391"/>
+    <reference idRef="5391"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5389"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5405</unsigned_int>
+</object>

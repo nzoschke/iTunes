@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="4" name="allObjects">
+    <object class="IBCarbonBevelButton" id="2879">
+      <int name="controlID">571</int>
+      <int name="fontStyle">5</int>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">Applica</string>
+      <string name="viewFrame">563 54 132 22 </string>
+      <string name="bounds">54 563 76 695 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="2878">
+      <int name="controlID">573</int>
+      <boolean name="enabled">FALSE</boolean>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">5</int>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">Sincronizza</string>
+      <string name="viewFrame">563 37 132 22 </string>
+      <string name="bounds">37 563 59 695 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="2880">
+      <int name="controlID">572</int>
+      <int name="fontStyle">5</int>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">Ripristina originale</string>
+      <string name="viewFrame">563 20 132 22 </string>
+      <string name="bounds">20 563 42 695 </string>
+    </object>
+    <object class="IBCarbonHIView" id="2877">
+      <int name="controlID">522</int>
+      <string name="classID">com.apple.itunes.iPodDiskUsageView</string>
+      <dictionary count="3" name="parameters">
+        <string>names</string>
+        <array count="5">
+          <string>vstr</string>
+          <string>pstr</string>
+          <string>astr</string>
+          <string>ostr</string>
+          <string>fstr</string>
+        </array>
+        <string>types</string>
+        <array count="5">
+          <string>cfst</string>
+          <string>cfst</string>
+          <string>cfst</string>
+          <string>cfst</string>
+          <string>cfst</string>
+        </array>
+        <string>values</string>
+        <array count="5">
+          <string>Video</string>
+          <string>Photos</string>
+          <string>Audio</string>
+          <string>Other</string>
+          <string>Free Space</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 700 96 </string>
+      <array count="3" name="subviews">
+        <reference idRef="2880"/>
+        <reference idRef="2878"/>
+        <reference idRef="2879"/>
+      </array>
+      <string name="bounds">0 0 96 700 </string>
+    </object>
+  </array>
+  <array count="4" name="allParents">
+    <reference idRef="2877"/>
+    <reference idRef="2877"/>
+    <reference idRef="2877"/>
+    <reference idRef="1"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="2877"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">2881</unsigned_int>
+</object>

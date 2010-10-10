@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="14" name="allObjects">
+    <object class="IBCarbonCheckBox" id="659">
+      <int name="controlID">8</int>
+      <ostype name="command">AFHR</ostype>
+      <string name="title">Mostra sottotitoli per non udenti (CC) se disponibili</string>
+      <string name="viewFrame">123 180 262 38 </string>
+      <string name="bounds">180 123 218 385 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="658">
+      <int name="controlID">12</int>
+      <string name="title">Udito:</string>
+      <int name="justification">-1</int>
+      <string name="viewFrame">36 163 82 16 </string>
+      <string name="bounds">163 36 179 118 </string>
+    </object>
+    <object class="IBCarbonWindow" id="651">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="hasCloseBox">FALSE</boolean>
+      <boolean name="hasCollapseBox">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="carbonWindowClass">4</int>
+      <int name="windowPosition">7</int>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Accesso Universale</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="652">
+        <string name="viewFrame">0 0 437 266 </string>
+        <array count="12" name="subviews">
+          <object class="IBCarbonStaticText" id="670">
+            <int name="controlID">11</int>
+            <string name="title">Vista:</string>
+            <int name="justification">-1</int>
+            <string name="viewFrame">36 21 82 16 </string>
+            <string name="bounds">21 36 37 118 </string>
+          </object>
+          <object class="IBCarbonRadioButton" id="667">
+            <int name="controlID">3</int>
+            <string name="title">VoiceOver</string>
+            <string name="viewFrame">123 20 110 19 </string>
+            <string name="bounds">20 123 39 233 </string>
+          </object>
+          <object class="IBCarbonRadioButton" id="668">
+            <int name="controlID">4</int>
+            <string name="title">Zoom</string>
+            <string name="viewFrame">123 40 110 19 </string>
+            <string name="bounds">40 123 59 233 </string>
+          </object>
+          <object class="IBCarbonRadioButton" id="669">
+            <int name="controlID">5</int>
+            <int name="initialState">1</int>
+            <string name="title">Nessuna</string>
+            <string name="viewFrame">123 60 110 19 </string>
+            <string name="bounds">60 123 79 233 </string>
+          </object>
+          <object class="IBCarbonCheckBox" id="663">
+            <int name="controlID">6</int>
+            <ostype name="command">AFRe</ostype>
+            <string name="title">Usa bianco su schermo nero </string>
+            <string name="viewFrame">123 94 259 18 </string>
+            <string name="bounds">94 123 112 382 </string>
+          </object>
+          <object class="IBCarbonCheckBox" id="656">
+            <int name="controlID">7</int>
+            <ostype name="command">AFRn</ostype>
+            <string name="title">Pronuncia testo auto</string>
+            <string name="viewFrame">123 122 259 18 </string>
+            <string name="bounds">122 123 140 382 </string>
+          </object>
+          <reference idRef="658"/>
+          <object class="IBCarbonCheckBox" id="666">
+            <int name="controlID">9</int>
+            <ostype name="command">AFHR</ostype>
+            <string name="title">Usa audio mono</string>
+            <string name="viewFrame">123 163 262 18 </string>
+            <string name="bounds">163 123 181 385 </string>
+          </object>
+          <reference idRef="659"/>
+          <object class="IBCarbonButton" id="653">
+            <int name="controlID">1</int>
+            <ostype name="command">ok  </ostype>
+            <int name="buttonType">1</int>
+            <string name="title">OK</string>
+            <string name="viewFrame">331 226 86 20 </string>
+            <string name="bounds">226 331 246 417 </string>
+          </object>
+          <object class="IBCarbonButton" id="654">
+            <int name="controlID">2</int>
+            <ostype name="command">not!</ostype>
+            <int name="buttonType">2</int>
+            <string name="title">Annulla</string>
+            <string name="viewFrame">233 226 86 20 </string>
+            <string name="bounds">226 233 246 319 </string>
+          </object>
+          <object class="IBCarbonRoundButton" id="660">
+            <int name="controlID">10</int>
+            <string name="viewFrame">18 224 25 25 </string>
+            <string name="bounds">224 18 249 43 </string>
+            <int name="contentType">132</int>
+            <int name="iconCreator">1835098995</int>
+            <int name="iconType">1751477360</int>
+          </object>
+        </array>
+        <string name="bounds">0 0 266 437 </string>
+      </object>
+      <string name="windowRect">162 454 428 891 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="656"/>
+    <reference idRef="666"/>
+    <reference idRef="660"/>
+    <reference idRef="653"/>
+    <reference idRef="654"/>
+    <reference idRef="667"/>
+    <reference idRef="652"/>
+    <reference idRef="669"/>
+    <reference idRef="668"/>
+    <reference idRef="663"/>
+    <reference idRef="670"/>
+  </array>
+  <array count="14" name="allParents">
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="1"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="651"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+    <reference idRef="652"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Universal Access Modal</string>
+    <reference idRef="651"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">671</unsigned_int>
+</object>

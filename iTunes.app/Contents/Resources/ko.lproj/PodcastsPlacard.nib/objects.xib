@@ -1,0 +1,212 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="6" name="allObjects">
+    <object class="IBCarbonBevelButton" id="243">
+      <int name="controlID">3226</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="contentResID">649</int>
+      <int name="graphicAlignment">2</int>
+      <int name="textPlacement">2</int>
+      <int name="textAlignment">-1</int>
+      <int name="textOffset">5</int>
+      <string name="title">Podcast 디렉토리</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>544</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">367 15 113 16 </string>
+      <string name="bounds">15 367 31 480 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="239">
+      <int name="controlID">3221</int>
+      <ostype name="command">PCSB</ostype>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">구독 취소</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>301</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 12 88 22 </string>
+      <string name="bounds">12 20 34 108 </string>
+    </object>
+    <object class="IBCarbonHIView" id="233">
+      <int name="controlID">3220</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1034</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 594 46 </string>
+      <array count="5" name="subviews">
+        <reference idRef="239"/>
+        <object class="IBCarbonBevelButton" id="240">
+          <int name="controlID">3222</int>
+          <ostype name="command">PCSe</ostype>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">설정…</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">118 12 80 22 </string>
+          <string name="bounds">12 118 34 198 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="242">
+          <int name="controlID">3224</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="contentResID">649</int>
+          <int name="graphicAlignment">2</int>
+          <int name="textPlacement">2</int>
+          <int name="textAlignment">-1</int>
+          <int name="textOffset">5</int>
+          <string name="title">의견 보내기</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>544</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">237 15 110 16 </string>
+          <string name="bounds">15 237 31 347 </string>
+        </object>
+        <reference idRef="243"/>
+        <object class="IBCarbonBevelButton" id="235">
+          <int name="controlID">3227</int>
+          <ostype name="command">PCRB</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">재설정</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">500 12 76 22 </string>
+          <string name="bounds">12 500 34 576 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 46 594 </string>
+    </object>
+    <reference idRef="235"/>
+    <reference idRef="240"/>
+    <reference idRef="242"/>
+  </array>
+  <array count="6" name="allParents">
+    <reference idRef="233"/>
+    <reference idRef="233"/>
+    <reference idRef="1"/>
+    <reference idRef="233"/>
+    <reference idRef="233"/>
+    <reference idRef="233"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="233"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">244</unsigned_int>
+</object>

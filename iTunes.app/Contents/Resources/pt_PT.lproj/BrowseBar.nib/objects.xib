@@ -1,0 +1,192 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonRadioButton" id="417">
+      <ostype name="controlSignature">BBBt</ostype>
+      <int name="controlID">3</int>
+      <ostype name="command">????</ostype>
+      <string name="title">Esquerda</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>biid</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>720</string>
+          <string>1551</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 99 23 </string>
+      <string name="bounds">0 165 23 264 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="409">
+      <ostype name="controlSignature">BBBt</ostype>
+      <int name="controlID">12</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">165 0 264 23 </string>
+      <array count="1" name="subviews">
+        <reference idRef="417"/>
+      </array>
+      <string name="bounds">0 165 23 429 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="408">
+      <ostype name="controlSignature">BBBt</ostype>
+      <int name="controlID">18</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">495 -3 153 29 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="413">
+          <ostype name="controlSignature">BBBt</ostype>
+          <int name="controlID">15</int>
+          <ostype name="command">BBZS</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <string name="classID">ITButton</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1556</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 10 9 10 </string>
+          <string name="bounds">7 495 17 504 </string>
+        </object>
+        <object class="IBCarbonSlider" id="415">
+          <ostype name="controlSignature">BBBt</ostype>
+          <int name="controlID">17</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingRightKind">2</int>
+          </object>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="orientation">2</int>
+          <int name="initialValue">50</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTh</string>
+              <string>SlTr</string>
+              <string>SlTo</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>1555</string>
+              <string>1554</string>
+              <string>2</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">13 7 123 16 </string>
+          <string name="bounds">4 508 20 631 </string>
+        </object>
+        <object class="IBCarbonHIView" id="414">
+          <ostype name="controlSignature">BBBt</ostype>
+          <int name="controlID">16</int>
+          <ostype name="command">BBZL</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <string name="classID">ITButton</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1557</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">140 8 13 14 </string>
+          <string name="bounds">5 635 19 648 </string>
+        </object>
+      </array>
+      <string name="bounds">-3 495 26 648 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="407">
+      <ostype name="controlSignature">BBBt</ostype>
+      <int name="controlID">1000</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 762 23 </string>
+      <array count="2" name="subviews">
+        <reference idRef="409"/>
+        <reference idRef="408"/>
+      </array>
+      <string name="bounds">0 0 23 762 </string>
+    </object>
+    <reference idRef="413"/>
+    <reference idRef="415"/>
+    <reference idRef="414"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="409"/>
+    <reference idRef="407"/>
+    <reference idRef="407"/>
+    <reference idRef="1"/>
+    <reference idRef="408"/>
+    <reference idRef="408"/>
+    <reference idRef="408"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>Browse Bar View</string>
+    <reference idRef="407"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">418</unsigned_int>
+</object>

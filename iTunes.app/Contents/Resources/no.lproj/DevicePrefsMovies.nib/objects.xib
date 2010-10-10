@@ -1,0 +1,473 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="34" name="allObjects">
+    <object class="IBCarbonStaticText" id="5130">
+      <int name="controlID">4018</int>
+      <int name="justification">-1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3015</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">629 22 181 23 </string>
+      <string name="bounds">22 649 45 830 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="5122">
+      <string name="title">-(</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenu" id="5112">
+      <string name="title">Lokalmeny</string>
+      <array count="15" name="items">
+        <object class="IBCarbonMenuItem" id="5113">
+          <string name="title">alle</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">all </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5127">
+          <string name="title">den nyeste</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mr1 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5126">
+          <string name="title">de 3 nyeste</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mr3 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5119">
+          <string name="title">de 5 nyeste</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mr5 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5117">
+          <string name="title">de 10 nyeste</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mr10</ostype>
+        </object>
+        <reference idRef="5122"/>
+        <object class="IBCarbonMenuItem" id="5120">
+          <string name="title">alle de usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">allu</ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5121">
+          <string name="title">den nyeste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mu1 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5116">
+          <string name="title">de 3 nyeste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mu3 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5123">
+          <string name="title">de 5 nyeste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mu5 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5114">
+          <string name="title">de 10 nyeste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">mu10</ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5115">
+          <string name="title">den eldste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">lu1 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5125">
+          <string name="title">de 3 eldste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">lu3 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5118">
+          <string name="title">de 5 eldste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">lu5 </ostype>
+        </object>
+        <object class="IBCarbonMenuItem" id="5124">
+          <string name="title">de 10 eldste usette</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <ostype name="command">lu10</ostype>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonHIView" id="5132">
+      <int name="controlID">4007</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>bcol</string>
+          <string>fsqr</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>f7f7f7</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 52 790 73 </string>
+      <array count="5" name="subviews">
+        <object class="IBCarbonCheckBox" id="5101">
+          <int name="controlID">4014</int>
+          <string name="title">Inkluder automatisk</string>
+          <string name="viewFrame">20 16 153 18 </string>
+          <string name="bounds">68 60 86 213 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="5100">
+          <int name="controlID">4005</int>
+          <boolean name="enabled">FALSE</boolean>
+          <reference name="menu" idRef="5112"/>
+          <string name="viewFrame">172 15 190 20 </string>
+          <string name="bounds">67 212 87 402 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5105">
+          <int name="controlID">4006</int>
+          <boolean name="enabled">FALSE</boolean>
+          <string name="title">filmene sammen med de markerte filmene</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">369 16 401 18 </string>
+          <string name="bounds">68 409 86 810 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="5134">
+          <int name="controlID">4008</int>
+          <boolean name="enabled">FALSE</boolean>
+          <int name="selectedItem">2</int>
+          <object name="menu" class="IBCarbonMenu" id="5135">
+            <string name="title">Lokalmeny</string>
+            <array count="2" name="items">
+              <object class="IBCarbonMenuItem" id="5136">
+                <string name="title">filmene</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">sadm</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5150">
+                <string name="title">spillelistene</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">sadp</ostype>
+              </object>
+            </array>
+          </object>
+          <int name="titleJustification">-2</int>
+          <string name="viewFrame">639 15 140 20 </string>
+          <string name="bounds">67 679 87 819 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5151">
+          <int name="controlID">4019</int>
+          <string name="title">Inkluder iTunes Extras-innhold</string>
+          <string name="viewFrame">20 38 315 18 </string>
+          <string name="bounds">90 60 108 375 </string>
+        </object>
+      </array>
+      <string name="bounds">52 40 125 830 </string>
+    </object>
+    <reference idRef="5101"/>
+    <object class="IBCarbonUserPane" id="5099">
+      <int name="controlID">4011</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 832 </string>
+      <array count="8" name="subviews">
+        <object class="IBCarbonCheckBox" id="5128">
+          <int name="controlID">4001</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Synkroniser filmer</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3001</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 22 357 23 </string>
+          <string name="bounds">22 40 45 397 </string>
+        </object>
+        <reference idRef="5130"/>
+        <reference idRef="5132"/>
+        <object class="IBCarbonStaticText" id="5129">
+          <int name="controlID">4002</int>
+          <string name="title">Filmer</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>3001</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 146 350 26 </string>
+          <string name="bounds">146 40 172 390 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5131">
+          <int name="controlID">4017</int>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">622 145 192 31 </string>
+          <string name="bounds">145 642 176 834 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5104">
+          <int name="controlID">4009</int>
+          <string name="classID">com.apple.itunes.CheckListView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>movies</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 179 790 394 </string>
+          <string name="bounds">179 40 573 830 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5133">
+          <int name="controlID">4015</int>
+          <string name="title">Inkluder filmer fra spillelister</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>3001</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 595 408 26 </string>
+          <string name="bounds">595 40 621 448 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5108">
+          <int name="controlID">4012</int>
+          <string name="classID">com.apple.itunes.CheckListView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>movies from playlists</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 627 408 178 </string>
+          <string name="bounds">627 40 805 448 </string>
+        </object>
+      </array>
+      <string name="bounds">0 20 832 850 </string>
+    </object>
+    <reference idRef="5133"/>
+    <reference idRef="5135"/>
+    <reference idRef="5136"/>
+    <reference idRef="5105"/>
+    <reference idRef="5108"/>
+    <reference idRef="5128"/>
+    <reference idRef="5126"/>
+    <reference idRef="5121"/>
+    <reference idRef="5118"/>
+    <reference idRef="5131"/>
+    <reference idRef="5150"/>
+    <reference idRef="5134"/>
+    <reference idRef="5129"/>
+    <reference idRef="5120"/>
+    <reference idRef="5100"/>
+    <reference idRef="5124"/>
+    <reference idRef="5123"/>
+    <reference idRef="5116"/>
+    <reference idRef="5117"/>
+    <reference idRef="5115"/>
+    <reference idRef="5104"/>
+    <reference idRef="5114"/>
+    <object class="IBCarbonHIView" id="5097">
+      <int name="controlID">4010</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>4011</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 894 </string>
+      <array count="1" name="subviews">
+        <reference idRef="5099"/>
+      </array>
+      <string name="bounds">0 0 894 870 </string>
+    </object>
+    <reference idRef="5113"/>
+    <reference idRef="5125"/>
+    <reference idRef="5151"/>
+    <reference idRef="5119"/>
+    <reference idRef="5127"/>
+  </array>
+  <array count="34" name="allParents">
+    <reference idRef="5099"/>
+    <reference idRef="5112"/>
+    <reference idRef="5100"/>
+    <reference idRef="5099"/>
+    <reference idRef="5132"/>
+    <reference idRef="5097"/>
+    <reference idRef="5099"/>
+    <reference idRef="5134"/>
+    <reference idRef="5135"/>
+    <reference idRef="5132"/>
+    <reference idRef="5099"/>
+    <reference idRef="5099"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5099"/>
+    <reference idRef="5135"/>
+    <reference idRef="5132"/>
+    <reference idRef="5099"/>
+    <reference idRef="5112"/>
+    <reference idRef="5132"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5099"/>
+    <reference idRef="5112"/>
+    <reference idRef="1"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+    <reference idRef="5132"/>
+    <reference idRef="5112"/>
+    <reference idRef="5112"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5097"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5152</unsigned_int>
+</object>

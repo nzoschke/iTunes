@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>InternetUtilities</string>
+	<key>CFBundleGetInfoString</key>
+	<string>iTunes 8.2.1, © 2000-2009 Apple Inc. All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.iTunes.internetutilities</string>
+	<key>CFBundleName</key>
+	<string>InternetUtilities</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>8.2.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>8.2.1</string>
+</dict>
+</plist>

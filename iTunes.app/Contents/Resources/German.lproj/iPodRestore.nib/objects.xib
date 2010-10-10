@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="10" name="allObjects">
+    <object class="IBCarbonMenu" id="4578">
+      <string name="title">Einblendmenü</string>
+      <array count="1" name="items">
+        <object class="IBCarbonMenuItem" id="4579">
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonStaticText" id="4576">
+      <int name="controlID">222</int>
+      <int name="fontStyle">4</int>
+      <string name="title">Letzter Sync:</string>
+      <int name="justification">-1</int>
+      <string name="viewFrame">249 142 126 20 </string>
+      <string name="bounds">142 249 162 375 </string>
+    </object>
+    <object class="IBCarbonRadioButton" id="4577">
+      <int name="controlID">212</int>
+      <string name="title">Als neuen iPod konfigurieren</string>
+      <string name="viewFrame">244 76 379 19 </string>
+      <string name="bounds">76 244 95 623 </string>
+    </object>
+    <reference idRef="4579"/>
+    <object class="IBCarbonPicture" id="4571">
+      <int name="controlID">210</int>
+      <int name="contentResID">0</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">78 48 128 128 </string>
+      <string name="bounds">48 78 176 206 </string>
+    </object>
+    <object class="IBCarbonPopupButton" id="4574">
+      <int name="controlID">214</int>
+      <reference name="menu" idRef="4578"/>
+      <string name="viewFrame">523 100 200 20 </string>
+      <string name="bounds">100 523 120 723 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4572">
+      <int name="controlID">223</int>
+      <string name="viewFrame">385 142 209 20 </string>
+      <string name="bounds">142 385 162 594 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4570">
+      <int name="controlID">200</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="7" name="subviews">
+        <reference idRef="4571"/>
+        <object class="IBCarbonStaticText" id="4573">
+          <int name="controlID">211</int>
+          <string name="title">Ein iPod wurde kürzlich mit diesem Computer synchronisiert.</string>
+          <string name="viewFrame">244 48 460 20 </string>
+          <string name="bounds">48 244 68 704 </string>
+        </object>
+        <reference idRef="4577"/>
+        <object class="IBCarbonRadioButton" id="4575">
+          <int name="controlID">213</int>
+          <int name="initialState">1</int>
+          <string name="title">Aus folgendem Backup wiederherstellen:</string>
+          <string name="viewFrame">244 101 379 19 </string>
+          <string name="bounds">101 244 120 623 </string>
+        </object>
+        <reference idRef="4574"/>
+        <reference idRef="4576"/>
+        <reference idRef="4572"/>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="4573"/>
+    <reference idRef="4575"/>
+  </array>
+  <array count="10" name="allParents">
+    <reference idRef="4574"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4578"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="1"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">4580</unsigned_int>
+</object>

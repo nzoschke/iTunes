@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="5" name="allObjects">
+    <object class="IBCarbonUserPane" id="401">
+      <ostype name="controlSignature">Summ</ostype>
+      <int name="controlID">1000</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 595 28 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonButton" id="409">
+          <ostype name="controlSignature">Summ</ostype>
+          <int name="controlID">15</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <int name="iconPosition">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>734</string>
+              <string>1559</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">10 5 44 20 </string>
+          <string name="bounds">5 10 25 54 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="403">
+          <ostype name="controlSignature">Summ</ostype>
+          <int name="controlID">16</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingRightKind">2</int>
+          </object>
+          <string name="title">Test</string>
+          <int name="justification">1</int>
+          <string name="viewFrame">74 5 441 20 </string>
+          <string name="bounds">5 74 25 515 </string>
+        </object>
+        <object class="IBCarbonButton" id="410">
+          <ostype name="controlSignature">Summ</ostype>
+          <int name="controlID">10</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="iconPosition">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1560</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">536 5 25 20 </string>
+          <string name="bounds">5 536 25 561 </string>
+        </object>
+        <object class="IBCarbonButton" id="411">
+          <ostype name="controlSignature">Summ</ostype>
+          <int name="controlID">11</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="iconPosition">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1561</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">561 5 24 20 </string>
+          <string name="bounds">5 561 25 585 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 28 595 </string>
+    </object>
+    <reference idRef="409"/>
+    <reference idRef="410"/>
+    <reference idRef="403"/>
+    <reference idRef="411"/>
+  </array>
+  <array count="5" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="401"/>
+    <reference idRef="401"/>
+    <reference idRef="401"/>
+    <reference idRef="401"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Sumary Bar View</string>
+    <reference idRef="401"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">412</unsigned_int>
+</object>

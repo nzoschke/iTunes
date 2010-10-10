@@ -1,0 +1,347 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="12" name="allObjects">
+    <object class="IBCarbonStaticText" id="597">
+      <string name="title">Télécharger des livres audio.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1212</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">115 181 297 20 </string>
+      <string name="bounds">226 145 246 442 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="611">
+      <string name="title">Obtenir iBooks</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1212</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">495 181 265 20 </string>
+      <string name="bounds">226 525 246 790 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="618">
+      <int name="controlID">101</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="contentResID">671</int>
+      <int name="graphicAlignment">2</int>
+      <int name="textPlacement">2</int>
+      <int name="textAlignment">-2</int>
+      <int name="textOffset">5</int>
+      <string name="title">Acheter des livres audio dans l’iTunes Store</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1214</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">115 309 254 16 </string>
+      <string name="bounds">354 145 370 399 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="570">
+      <int name="controlID">1</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 860 439 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonHIView" id="589">
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>crtr</string>
+              <string>crtr</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>9200</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">30 45 800 350 </string>
+          <array count="9" name="subviews">
+            <object class="IBCarbonStaticText" id="574">
+              <string name="title">Livres</string>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1210</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 30 515 48 </string>
+              <string name="bounds">75 70 123 585 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="571">
+              <string name="title">Les livres et les livres audio que vous ajoutez dans iTunes apparaissent dans la section Livres de votre bibliothèque iTunes. Pour écouter un livre audio, il suffit de double-cliquer dessus. Pour lire un livre, synchronisez-le avec un iPad.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1211</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 88 720 88 </string>
+              <string name="bounds">133 70 221 790 </string>
+            </object>
+            <object class="IBCarbonHIView" id="596">
+              <ostype name="controlSignature">PShf</ostype>
+              <int name="controlID">5</int>
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9290</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 184 60 60 </string>
+              <string name="bounds">229 70 289 130 </string>
+            </object>
+            <reference idRef="597"/>
+            <object class="IBCarbonStaticText" id="599">
+              <string name="title">Procurez-vous les livres audio les mieux vendus sur l’iTunes Store. Écoutez des extraits, achetez et téléchargez vos livres favoris, quelle que soit l’heure du jour ou de la nuit.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1213</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">115 205 297 90 </string>
+              <string name="bounds">250 145 340 442 </string>
+            </object>
+            <reference idRef="618"/>
+            <object class="IBCarbonHIView" id="610">
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9291</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">420 184 60 60 </string>
+              <string name="bounds">229 450 289 510 </string>
+            </object>
+            <reference idRef="611"/>
+            <object class="IBCarbonStaticText" id="612">
+              <string name="title">iBooks est un excellent moyen de lire et d’acheter des livres. Lisez des extraits, achetez et téléchargez des grands classiques ou des best-sellers via l’iBookstore intégré.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1213</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">495 205 265 90 </string>
+              <string name="bounds">250 525 340 790 </string>
+            </object>
+          </array>
+          <string name="bounds">45 30 395 830 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="617">
+          <int name="fontStyle">-2</int>
+          <string name="title">Les livres audio sont disponibles dans l’iTunes Store dans certains pays uniquement.</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>crtr</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1215</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">30 409 550 16 </string>
+          <string name="bounds">409 30 425 580 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 439 860 </string>
+    </object>
+    <reference idRef="571"/>
+    <reference idRef="599"/>
+    <reference idRef="610"/>
+    <reference idRef="612"/>
+    <reference idRef="617"/>
+    <reference idRef="596"/>
+    <reference idRef="574"/>
+    <reference idRef="589"/>
+  </array>
+  <array count="12" name="allParents">
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="1"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">621</unsigned_int>
+</object>

@@ -1,0 +1,233 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="10" name="allObjects">
+    <object class="IBCarbonHIView" id="402623">
+      <int name="controlID">823</int>
+      <string name="classID">ITButton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>148</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">152 38 32 32 </string>
+      <string name="bounds">38 152 70 184 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="402629">
+      <int name="controlID">822</int>
+      <string name="title">Rajoita äänenvoimakkuutta</string>
+      <string name="viewFrame">120 11 335 18 </string>
+      <string name="bounds">11 120 29 455 </string>
+    </object>
+    <object class="IBCarbonHIView" id="402628">
+      <int name="controlID">827</int>
+      <string name="classID">ITButton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>142</string>
+          <string>lock parental changes</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">112 96 33 33 </string>
+      <string name="bounds">96 112 129 145 </string>
+    </object>
+    <object class="IBCarbonSlider" id="402627">
+      <int name="controlID">824</int>
+      <boolean name="enabled">FALSE</boolean>
+      <boolean name="isLive">TRUE</boolean>
+      <int name="orientation">2</int>
+      <int name="initialValue">256</int>
+      <int name="maximumValue">256</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>SlTr</string>
+          <string>SlTh</string>
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>6</string>
+          <string>6</string>
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>3200</string>
+          <string>3202</string>
+          <string>shuffle listening volume</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">191 48 275 16 </string>
+      <string name="bounds">48 191 64 466 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="402631">
+      <int name="controlID">828</int>
+      <boolean name="hidden">TRUE</boolean>
+      <string name="title">Estä enimmäisäänenvoimakkuuden muuttaminen osoittamalla lukkoa.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">159 105 390 32 </string>
+      <string name="bounds">105 159 137 549 </string>
+    </object>
+    <object class="IBCarbonHIView" id="402625">
+      <int name="controlID">825</int>
+      <string name="classID">ITButton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>149</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">475 38 32 32 </string>
+      <string name="bounds">38 475 70 507 </string>
+    </object>
+    <object class="IBCarbonSeparator" id="402626">
+      <int name="controlID">821</int>
+      <string name="viewFrame">112 2 427 1 </string>
+      <string name="bounds">2 112 3 539 </string>
+    </object>
+    <object class="IBCarbonHIView" id="402622">
+      <int name="controlID">2508</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>bcol</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>1</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>f7f7f7</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 559 141 </string>
+      <array count="9" name="subviews">
+        <reference idRef="402626"/>
+        <reference idRef="402629"/>
+        <reference idRef="402623"/>
+        <reference idRef="402627"/>
+        <reference idRef="402625"/>
+        <object class="IBCarbonStaticText" id="402624">
+          <int name="controlID">826</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Nykyinen iPod shufflen kuunteluvoimakkuus</string>
+          <int name="justification">1</int>
+          <string name="viewFrame">191 69 275 16 </string>
+          <string name="bounds">69 191 85 466 </string>
+        </object>
+        <reference idRef="402628"/>
+        <object class="IBCarbonStaticText" id="402630">
+          <int name="controlID">829</int>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="title">Muuta enimmäisäänenvoimakkuutta osoittamalla lukkoa.</string>
+          <string name="viewFrame">159 105 390 16 </string>
+          <string name="bounds">105 159 121 549 </string>
+        </object>
+        <reference idRef="402631"/>
+      </array>
+      <string name="bounds">0 0 141 559 </string>
+    </object>
+    <reference idRef="402630"/>
+    <reference idRef="402624"/>
+  </array>
+  <array count="10" name="allParents">
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+    <reference idRef="1"/>
+    <reference idRef="402622"/>
+    <reference idRef="402622"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="402622"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">402633</unsigned_int>
+</object>

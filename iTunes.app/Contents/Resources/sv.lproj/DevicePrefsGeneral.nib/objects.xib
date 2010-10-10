@@ -1,0 +1,609 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="45" name="allObjects">
+    <object class="IBCarbonCheckBox" id="2202796">
+      <int name="controlID">2003</int>
+      <string name="title">Öppna iTunes när denna iPod ansluts</string>
+      <string name="viewFrame">211 16 522 18 </string>
+      <string name="bounds">295 251 313 773 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="2202813">
+      <int name="controlID">2501</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 227 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonStaticText" id="2202815">
+          <int name="controlID">501</int>
+          <string name="title">iPod</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3001</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 22 220 23 </string>
+          <string name="bounds">22 40 45 260 </string>
+        </object>
+        <object class="IBCarbonHIView" id="2202814">
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>bcol</string>
+              <string>fsqr</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>f7f7f7</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 52 790 173 </string>
+          <array count="11" name="subviews">
+            <object class="IBCarbonPicture" id="2202823">
+              <int name="controlID">508</int>
+              <int name="contentResID">0</int>
+              <string name="viewFrame">92 24 128 128 </string>
+              <string name="bounds">76 132 204 260 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202822">
+              <int name="controlID">510</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Namn:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 35 170 16 </string>
+              <string name="bounds">87 262 103 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202826">
+              <int name="controlID">503</int>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>MTLN</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>false</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">400 35 370 20 </string>
+              <string name="bounds">87 440 107 810 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202821">
+              <int name="controlID">511</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Kapacitet:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 56 170 16 </string>
+              <string name="bounds">108 262 124 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202820">
+              <int name="controlID">504</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 56 370 16 </string>
+              <string name="bounds">108 440 124 810 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202818">
+              <int name="controlID">512</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Programversion:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 77 170 16 </string>
+              <string name="bounds">129 262 145 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202819">
+              <int name="controlID">505</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 77 370 16 </string>
+              <string name="bounds">129 440 145 810 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202825">
+              <int name="controlID">513</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Serienummer:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 98 170 16 </string>
+              <string name="bounds">150 262 166 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202824">
+              <int name="controlID">506</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 98 370 16 </string>
+              <string name="bounds">150 440 166 810 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202817">
+              <int name="controlID">514</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Format:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 119 170 16 </string>
+              <string name="bounds">171 262 187 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202816">
+              <int name="controlID">507</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 119 370 16 </string>
+              <string name="bounds">171 440 187 810 </string>
+            </object>
+          </array>
+          <string name="bounds">52 40 225 830 </string>
+        </object>
+      </array>
+      <string name="bounds">0 20 227 850 </string>
+    </object>
+    <object class="IBCarbonSeparator" id="2202804">
+      <int name="controlID">2014</int>
+      <string name="viewFrame">112 3 427 1 </string>
+      <string name="bounds">604 243 605 670 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="2202793">
+      <int name="controlID">2007</int>
+      <string name="title">Aktivera tillgång till talbara menyer</string>
+      <string name="viewFrame">211 208 522 18 </string>
+      <string name="bounds">487 251 505 773 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="2202801">
+      <int name="controlID">2006</int>
+      <string name="title">Synkronisera endast markerade låtar och videor</string>
+      <string name="viewFrame">211 40 522 18 </string>
+      <string name="bounds">319 251 337 773 </string>
+    </object>
+    <reference idRef="2202823"/>
+    <reference idRef="2202824"/>
+    <object class="IBCarbonMenu" id="2202811">
+      <string name="title">Popup</string>
+      <array count="1" name="items">
+        <object class="IBCarbonMenuItem" id="2202812">
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonStaticText" id="2202787">
+      <int name="controlID">2002</int>
+      <string name="title">Alternativ</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3001</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 22 100 23 </string>
+      <string name="bounds">249 40 272 140 </string>
+    </object>
+    <reference idRef="2202821"/>
+    <object class="IBCarbonStaticText" id="2202805">
+      <int name="controlID">2025</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">Välj språk för statusmeddelanden och spellistor. VoiceOver kommer automatiskt att välja språk för låtar och artister.</string>
+      <string name="viewFrame">156 85 401 30 </string>
+      <string name="bounds">686 287 716 688 </string>
+    </object>
+    <object class="IBCarbonHIView" id="2202786">
+      <int name="controlID">2030</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>bcol</string>
+          <string>fsqr</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>f7f7f7</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 52 790 451 </string>
+      <array count="14" name="subviews">
+        <reference idRef="2202796"/>
+        <reference idRef="2202801"/>
+        <object class="IBCarbonCheckBox" id="2202788">
+          <int name="controlID">2023</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="viewFrame">211 64 522 18 </string>
+          <string name="bounds">343 251 361 773 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="2202789">
+          <int name="controlID">2009</int>
+          <string name="title">Välj SD-video om möjligt</string>
+          <string name="viewFrame">211 88 522 18 </string>
+          <string name="bounds">367 251 385 773 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="2202791">
+          <int name="controlID">2011</int>
+          <string name="title">Aktivera ljudkontroll</string>
+          <string name="viewFrame">211 112 522 18 </string>
+          <string name="bounds">391 251 409 773 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="2202790">
+          <int name="controlID">2010</int>
+          <string name="title">Konvertera låtar med högre bithastigheter till 128 kbit/s AAC</string>
+          <string name="viewFrame">211 136 522 18 </string>
+          <string name="bounds">415 251 433 773 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="2202800">
+          <int name="controlID">2004</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Hantera musik och videor manuellt</string>
+          <string name="viewFrame">211 160 522 18 </string>
+          <string name="bounds">439 251 457 773 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="2202792">
+          <int name="controlID">2005</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Använd som extern enhet</string>
+          <string name="viewFrame">211 184 522 18 </string>
+          <string name="bounds">463 251 481 773 </string>
+        </object>
+        <reference idRef="2202793"/>
+        <object class="IBCarbonStaticText" id="2202794">
+          <int name="controlID">2008</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Ändra systemröst under Tal i Systeminställningar.</string>
+          <string name="viewFrame">229 232 439 18 </string>
+          <string name="bounds">511 269 529 708 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="2202795">
+          <int name="controlID">2021</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Kryptera iPod-säkerhetskopian</string>
+          <string name="viewFrame">211 256 216 18 </string>
+          <string name="bounds">535 251 553 467 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="2202797">
+          <int name="controlID">2022</int>
+          <int name="fontStyle">5</int>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Ändra lösenord…</string>
+          <string name="viewFrame">433 255 150 22 </string>
+          <string name="bounds">534 473 556 623 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="2202798">
+          <int name="controlID">2027</int>
+          <int name="fontStyle">5</int>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Ställ in Hjälpmedel…</string>
+          <string name="viewFrame">211 290 200 22 </string>
+          <string name="bounds">569 251 591 451 </string>
+        </object>
+        <object class="IBCarbonUserPane" id="2202799">
+          <int name="controlID">2020</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">91 322 580 120 </string>
+          <array count="9" name="subviews">
+            <reference idRef="2202804"/>
+            <object class="IBCarbonStaticText" id="2202802">
+              <int name="controlID">2015</int>
+              <string name="title">Röst-feedback</string>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>MTLN</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>false</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">120 13 205 16 </string>
+              <string name="bounds">614 251 630 456 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="2202803">
+              <int name="controlID">2012</int>
+              <boolean name="autoToggle">FALSE</boolean>
+              <string name="title">Aktivera VoiceOver</string>
+              <string name="viewFrame">120 36 232 18 </string>
+              <string name="bounds">637 251 655 483 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="2202806">
+              <int name="controlID">2013</int>
+              <boolean name="autoToggle">FALSE</boolean>
+              <string name="title">Aktivera VoiceOver</string>
+              <string name="viewFrame">120 36 219 18 </string>
+              <string name="bounds">637 251 655 470 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="2202807">
+              <int name="controlID">2018</int>
+              <boolean name="autoToggle">FALSE</boolean>
+              <string name="title">Aktivera talbara menyer</string>
+              <string name="viewFrame">120 59 219 18 </string>
+              <string name="bounds">660 251 678 470 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="2202810">
+              <int name="controlID">2016</int>
+              <string name="title">Språk:</string>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>MTLN</string>
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>2</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>false</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">138 60 70 18 </string>
+              <string name="bounds">661 269 679 339 </string>
+            </object>
+            <object class="IBCarbonPopupButton" id="2202809">
+              <int name="controlID">2017</int>
+              <reference name="menu" idRef="2202811"/>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>AXDS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>0</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>language</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">191 59 183 20 </string>
+              <string name="bounds">660 322 680 505 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="2202808">
+              <int name="controlID">2019</int>
+              <boolean name="autoToggle">FALSE</boolean>
+              <string name="title">Använd systemröst istället för röst från VoiceOver</string>
+              <string name="viewFrame">120 83 446 18 </string>
+              <string name="bounds">684 251 702 697 </string>
+            </object>
+            <reference idRef="2202805"/>
+          </array>
+          <string name="bounds">601 131 721 711 </string>
+        </object>
+      </array>
+      <string name="bounds">279 40 730 830 </string>
+    </object>
+    <reference idRef="2202799"/>
+    <reference idRef="2202791"/>
+    <reference idRef="2202808"/>
+    <object class="IBCarbonHIView" id="2202784">
+      <int name="controlID">2502</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>2503</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 227 870 533 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="2202785">
+          <int name="controlID">2503</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 533 </string>
+          <array count="2" name="subviews">
+            <reference idRef="2202787"/>
+            <reference idRef="2202786"/>
+          </array>
+          <string name="bounds">227 20 760 850 </string>
+        </object>
+      </array>
+      <string name="bounds">227 0 760 870 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="2202782">
+      <int name="controlID">100</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 870 760 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonHIView" id="2202783">
+          <int name="controlID">2500</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2501</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 0 870 227 </string>
+          <array count="1" name="subviews">
+            <reference idRef="2202813"/>
+          </array>
+          <string name="bounds">0 0 227 870 </string>
+        </object>
+        <reference idRef="2202784"/>
+      </array>
+      <string name="bounds">0 0 760 870 </string>
+    </object>
+    <reference idRef="2202798"/>
+    <reference idRef="2202819"/>
+    <reference idRef="2202789"/>
+    <reference idRef="2202797"/>
+    <reference idRef="2202795"/>
+    <reference idRef="2202785"/>
+    <reference idRef="2202818"/>
+    <reference idRef="2202810"/>
+    <reference idRef="2202806"/>
+    <reference idRef="2202800"/>
+    <reference idRef="2202816"/>
+    <reference idRef="2202817"/>
+    <reference idRef="2202803"/>
+    <reference idRef="2202825"/>
+    <reference idRef="2202790"/>
+    <reference idRef="2202822"/>
+    <reference idRef="2202788"/>
+    <reference idRef="2202820"/>
+    <reference idRef="2202809"/>
+    <reference idRef="2202812"/>
+    <reference idRef="2202783"/>
+    <reference idRef="2202807"/>
+    <reference idRef="2202802"/>
+    <reference idRef="2202815"/>
+    <reference idRef="2202826"/>
+    <reference idRef="2202794"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202792"/>
+  </array>
+  <array count="45" name="allParents">
+    <reference idRef="2202786"/>
+    <reference idRef="2202783"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202809"/>
+    <reference idRef="2202785"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202785"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202782"/>
+    <reference idRef="1"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202784"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202811"/>
+    <reference idRef="2202782"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202799"/>
+    <reference idRef="2202813"/>
+    <reference idRef="2202814"/>
+    <reference idRef="2202786"/>
+    <reference idRef="2202813"/>
+    <reference idRef="2202786"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="2202782"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">2202827</unsigned_int>
+</object>

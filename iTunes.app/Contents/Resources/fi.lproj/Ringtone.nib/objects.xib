@@ -1,0 +1,440 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="25" name="allObjects">
+    <object class="IBCarbonScrollBar" id="3938">
+      <int name="controlID">1125</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <boolean name="isLive">TRUE</boolean>
+      <string name="viewFrame">0 112 798 15 </string>
+      <string name="bounds">113 0 128 798 </string>
+    </object>
+    <object class="IBCarbonMenu" id="3950">
+      <string name="title">Ponnahdusvalikko</string>
+      <array count="6" name="items">
+        <object class="IBCarbonMenuItem" id="3951">
+          <string name="title">0,5 sekunnin väli</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <object class="IBCarbonMenuItem" id="3955">
+          <string name="title">1 sekunnin välein</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <object class="IBCarbonMenuItem" id="3953">
+          <string name="title">2 sekunnin välein</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <object class="IBCarbonMenuItem" id="3954">
+          <string name="title">3 sekunnin välein</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <object class="IBCarbonMenuItem" id="3952">
+          <string name="title">4 sekunnin välein</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <object class="IBCarbonMenuItem" id="3956">
+          <string name="title">5 sekunnin välein</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonStaticText" id="3958">
+      <int name="controlID">1603</int>
+      <int name="fontStyle">1</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="title">Albumi</string>
+      <string name="foreColor">64466 64466 64466 </string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>MTLN</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>false</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">71 36 200 14 </string>
+      <string name="bounds">164 71 178 271 </string>
+    </object>
+    <object class="IBCarbonHIView" id="3838">
+      <int name="controlID">6008</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>bcol</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>1</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>#7f7f7f</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 798 210 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonHIView" id="3917">
+          <int name="controlID">1490</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingBottomKind">1</int>
+          </object>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>btco</string>
+              <string>bbco</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>1</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>#d5d5d5</string>
+              <string>#b9b9b9</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 1 798 209 </string>
+          <array count="4" name="subviews">
+            <object class="IBCarbonHIView" id="3937">
+              <int name="controlID">1000</int>
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingTopKind">1</int>
+                <int name="bindingLeftKind">1</int>
+                <int name="bindingBottomKind">1</int>
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">com.apple.itunes.audioEditor</string>
+              <string name="viewFrame">0 1 798 111 </string>
+              <string name="bounds">2 0 113 798 </string>
+            </object>
+            <reference idRef="3938"/>
+            <object class="IBCarbonHIView" id="3939">
+              <int name="controlID">1500</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>13200</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">0 127 798 82 </string>
+              <array count="10" name="subviews">
+                <object class="IBCarbonStaticText" id="3946">
+                  <int name="controlID">1601</int>
+                  <int name="fontStyle">4</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingTopKind">1</int>
+                    <int name="bindingLeftKind">1</int>
+                  </object>
+                  <string name="title">Kappaleen nimi</string>
+                  <string name="foreColor">65535 65535 65535 </string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>MTLN</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>false</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">71 17 200 32 </string>
+                  <string name="bounds">145 71 177 271 </string>
+                </object>
+                <object class="IBCarbonPicture" id="3940">
+                  <int name="controlID">1600</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingTopKind">1</int>
+                    <int name="bindingLeftKind">1</int>
+                  </object>
+                  <int name="contentResID">0</int>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>REFL</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>true</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">18 18 48 48 </string>
+                  <string name="bounds">146 18 194 66 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="3948">
+                  <int name="controlID">1602</int>
+                  <int name="fontStyle">1</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingTopKind">1</int>
+                    <int name="bindingLeftKind">1</int>
+                  </object>
+                  <string name="title">Artisti</string>
+                  <string name="foreColor">65535 65535 65535 </string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>MTLN</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>false</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">71 53 200 14 </string>
+                  <string name="bounds">181 71 195 271 </string>
+                </object>
+                <reference idRef="3958"/>
+                <object class="IBCarbonBevelButton" id="3942">
+                  <int name="controlID">1605</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingLeftKind">1</int>
+                  </object>
+                  <int name="contentType">0</int>
+                  <int name="contentResID">13201</int>
+                  <int name="graphicAlignment">2</int>
+                  <int name="textPlacement">2</int>
+                  <boolean name="rounded">TRUE</boolean>
+                  <string name="title">Näyte</string>
+                  <string name="viewFrame">530 31 78 22 </string>
+                  <string name="bounds">159 530 181 608 </string>
+                </object>
+                <object class="IBCarbonBevelButton" id="3943">
+                  <int name="controlID">1606</int>
+                  <int name="fontStyle">0</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingTopKind">1</int>
+                    <int name="bindingRightKind">2</int>
+                  </object>
+                  <int name="bevelThickness">1</int>
+                  <int name="contentType">0</int>
+                  <int name="textPlacement">3</int>
+                  <boolean name="rounded">TRUE</boolean>
+                  <string name="title">Kumoa</string>
+                  <string name="viewFrame">616 31 78 22 </string>
+                  <string name="bounds">159 616 181 694 </string>
+                </object>
+                <object class="IBCarbonBevelButton" id="3944">
+                  <int name="controlID">1607</int>
+                  <int name="fontStyle">0</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingTopKind">1</int>
+                    <int name="bindingRightKind">2</int>
+                  </object>
+                  <int name="bevelThickness">1</int>
+                  <int name="contentType">0</int>
+                  <int name="textPlacement">3</int>
+                  <boolean name="rounded">TRUE</boolean>
+                  <string name="title">Osta</string>
+                  <string name="viewFrame">702 31 78 22 </string>
+                  <string name="bounds">159 702 181 780 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="3947">
+                  <int name="controlID">1608</int>
+                  <int name="fontStyle">1</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingTopKind">1</int>
+                    <int name="bindingRightKind">2</int>
+                  </object>
+                  <string name="title">Hinta: 0,99 €</string>
+                  <string name="foreColor">65535 65535 65535 </string>
+                  <int name="justification">1</int>
+                  <string name="viewFrame">691 61 100 14 </string>
+                  <string name="bounds">189 691 203 791 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="3941">
+                  <int name="controlID">1619</int>
+                  <int name="fontStyle">0</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingLeftKind">1</int>
+                  </object>
+                  <string name="title">Silmukointi:</string>
+                  <string name="foreColor">65535 65535 65535 </string>
+                  <int name="justification">-1</int>
+                  <string name="viewFrame">288 34 80 16 </string>
+                  <string name="bounds">162 288 178 368 </string>
+                </object>
+                <object class="IBCarbonPopupButton" id="3949">
+                  <int name="controlID">1609</int>
+                  <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                    <int name="bindingLeftKind">1</int>
+                  </object>
+                  <reference name="menu" idRef="3950"/>
+                  <int name="titleJustification">-2</int>
+                  <string name="viewFrame">373 32 149 20 </string>
+                  <string name="bounds">160 373 180 522 </string>
+                </object>
+              </array>
+              <string name="bounds">128 0 210 798 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="3959">
+              <int name="controlID">1001</int>
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingLeftKind">1</int>
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="title">Ladataan...</string>
+              <string name="foreColor">0 0 0 </string>
+              <int name="justification">1</int>
+              <string name="viewFrame">128 50 542 16 </string>
+              <string name="bounds">51 128 67 670 </string>
+            </object>
+          </array>
+          <string name="bounds">1 0 210 798 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 210 798 </string>
+    </object>
+    <reference idRef="3952"/>
+    <reference idRef="3941"/>
+    <object class="IBCarbonWindow" id="224">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">soittoäänieditori</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="225">
+        <string name="viewFrame">0 0 953 323 </string>
+        <array count="1" name="subviews">
+          <reference idRef="3838"/>
+        </array>
+        <string name="bounds">0 0 323 953 </string>
+      </object>
+      <string name="windowRect">44 168 367 1121 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="3948"/>
+    <reference idRef="3959"/>
+    <reference idRef="225"/>
+    <reference idRef="3939"/>
+    <reference idRef="3951"/>
+    <reference idRef="3955"/>
+    <reference idRef="3942"/>
+    <reference idRef="3956"/>
+    <reference idRef="3946"/>
+    <reference idRef="3940"/>
+    <reference idRef="3949"/>
+    <reference idRef="3944"/>
+    <reference idRef="3953"/>
+    <reference idRef="3937"/>
+    <reference idRef="3954"/>
+    <reference idRef="3917"/>
+    <reference idRef="3943"/>
+    <reference idRef="3947"/>
+  </array>
+  <array count="25" name="allParents">
+    <reference idRef="3917"/>
+    <reference idRef="3949"/>
+    <reference idRef="3939"/>
+    <reference idRef="225"/>
+    <reference idRef="3950"/>
+    <reference idRef="3939"/>
+    <reference idRef="1"/>
+    <reference idRef="3939"/>
+    <reference idRef="3917"/>
+    <reference idRef="224"/>
+    <reference idRef="3917"/>
+    <reference idRef="3950"/>
+    <reference idRef="3950"/>
+    <reference idRef="3939"/>
+    <reference idRef="3950"/>
+    <reference idRef="3939"/>
+    <reference idRef="3939"/>
+    <reference idRef="3939"/>
+    <reference idRef="3939"/>
+    <reference idRef="3950"/>
+    <reference idRef="3917"/>
+    <reference idRef="3950"/>
+    <reference idRef="3838"/>
+    <reference idRef="3939"/>
+    <reference idRef="3939"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>ring tone editor</string>
+    <reference idRef="224"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">3974</unsigned_int>
+</object>

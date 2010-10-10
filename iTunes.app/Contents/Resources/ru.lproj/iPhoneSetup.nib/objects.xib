@@ -1,0 +1,199 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="15" name="allObjects">
+    <object class="IBCarbonHIView" id="5396">
+      <int name="controlID">100</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="14" name="subviews">
+        <object class="IBCarbonPicture" id="5399">
+          <int name="controlID">110</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">47 48 128 128 </string>
+          <string name="bounds">48 47 176 175 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5407">
+          <int name="controlID">120</int>
+          <string name="title">Имя:</string>
+          <string name="viewFrame">205 43 32 20 </string>
+          <string name="bounds">43 205 63 237 </string>
+        </object>
+        <object class="IBCarbonEditText" id="5402">
+          <int name="controlID">121</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="title">iPhone</string>
+          <string name="viewFrame">249 44 247 16 </string>
+          <string name="bounds">44 249 60 496 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5401">
+          <int name="controlID">124</int>
+          <int name="initialState">1</int>
+          <string name="title">Автосинхронизировать контакты, календари, закладки и учетные записи e-mail</string>
+          <string name="viewFrame">204 76 557 19 </string>
+          <string name="bounds">76 204 95 761 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5410">
+          <int name="controlID">116</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Автосинхронизировать контакты, календари и закладки</string>
+          <string name="viewFrame">204 76 557 19 </string>
+          <string name="bounds">76 204 95 761 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5397">
+          <int name="controlID">114</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Автосинхрониз. контакты, календари, закладки, заметки и учетные записи e-mail</string>
+          <string name="viewFrame">204 76 564 19 </string>
+          <string name="bounds">76 204 95 768 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5403">
+          <int name="controlID">150</int>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="viewFrame">206 76 550 34 </string>
+          <string name="bounds">76 206 110 756 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5408">
+          <int name="controlID">115</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes может автоматически синхронизировать iPhone с контактами Вашей Адресной книги, календарями iCal, закладками Safari, заметками и учетными записями Mail каждый раз при подключении к этому компьютеру Mac.</string>
+          <string name="viewFrame">237 103 486 44 </string>
+          <string name="bounds">103 237 147 723 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5400">
+          <int name="controlID">117</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes может автоматически синхронизировать iPhone с контактами Адресной книги, календарями iCal, а также закладками Safari каждый раз при подключении к этому компьютеру Mac.</string>
+          <string name="viewFrame">237 104 486 44 </string>
+          <string name="bounds">104 237 148 723 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5409">
+          <int name="controlID">125</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes может автоматически синхронизировать iPhone с контактами Вашей Адресной книги, календарями iCal, закладками Safari и учетными записями Mail каждый раз при подключении к этому компьютеру Mac.</string>
+          <string name="viewFrame">237 104 486 44 </string>
+          <string name="bounds">104 237 148 723 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5406">
+          <int name="controlID">151</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Настройки беспроводной синхронизации могут быть изменены на iPhone.</string>
+          <string name="viewFrame">219 106 458 18 </string>
+          <string name="bounds">106 219 124 677 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5398">
+          <int name="controlID">138</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Чтобы синхронизировать медиафайлы с iPhone, измените настройки для каждой вкладки на следующем экране.</string>
+          <string name="viewFrame">235 153 458 29 </string>
+          <string name="bounds">153 235 182 693 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5405">
+          <int name="controlID">152</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Чтобы синхронизировать медиафайлы с iPhone, измените настройки для каждой вкладки на следующем экране.</string>
+          <string name="viewFrame">219 148 490 30 </string>
+          <string name="bounds">148 219 178 709 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5404">
+          <int name="controlID">118</int>
+          <string name="title">Автоматически синхронизировать программы</string>
+          <string name="viewFrame">206 186 481 18 </string>
+          <string name="bounds">186 206 204 687 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="5403"/>
+    <reference idRef="5397"/>
+    <reference idRef="5400"/>
+    <reference idRef="5404"/>
+    <reference idRef="5407"/>
+    <reference idRef="5402"/>
+    <reference idRef="5399"/>
+    <reference idRef="5405"/>
+    <reference idRef="5406"/>
+    <reference idRef="5410"/>
+    <reference idRef="5398"/>
+    <reference idRef="5401"/>
+    <reference idRef="5408"/>
+    <reference idRef="5409"/>
+  </array>
+  <array count="15" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5396"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5411</unsigned_int>
+</object>

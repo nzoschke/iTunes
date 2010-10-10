@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="5" name="allObjects">
+    <object class="IBCarbonHIView" id="5390">
+      <int name="controlID">55</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>bcol</string>
+          <string>fcol</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>ffffff</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">107 121 546 329 </string>
+      <string name="bounds">121 107 450 653 </string>
+    </object>
+    <object class="IBCarbonTextView" id="5393">
+      <int name="controlID">51</int>
+      <boolean name="readOnly">TRUE</boolean>
+      <boolean name="noSelection">TRUE</boolean>
+      <boolean name="noDragProcs">TRUE</boolean>
+      <boolean name="wrap">TRUE</boolean>
+      <boolean name="noCaretWhenInactive">TRUE</boolean>
+      <boolean name="noSelectionWhenInactive">TRUE</boolean>
+      <boolean name="disableDragAndDrop">TRUE</boolean>
+      <boolean name="fontSubstitution">TRUE</boolean>
+      <string name="viewFrame">117 122 535 327 </string>
+      <string name="bounds">122 117 449 652 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="5394">
+      <int name="controlID">52</int>
+      <string name="title">J’ai lu et j’accepte le contrat de licence du logiciel iPod.</string>
+      <string name="viewFrame">221 467 431 18 </string>
+      <string name="bounds">467 221 485 652 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5388">
+      <int name="controlID">50</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 528 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonStaticText" id="5391">
+          <int name="controlID">53</int>
+          <string name="title">Veuillez lire et accepter le contrat de licence du logiciel ci-dessous afin de pouvoir utiliser votre iPod. Si vous acceptez le contrat de licence du logiciel ci-dessous mais ne cochez pas la case, vous ne pourrez pas utiliser votre iPod.</string>
+          <string name="viewFrame">78 43 601 63 </string>
+          <string name="bounds">43 78 106 679 </string>
+        </object>
+        <reference idRef="5390"/>
+        <reference idRef="5393"/>
+        <reference idRef="5394"/>
+      </array>
+      <string name="bounds">0 0 528 780 </string>
+    </object>
+    <reference idRef="5391"/>
+  </array>
+  <array count="5" name="allParents">
+    <reference idRef="5388"/>
+    <reference idRef="5388"/>
+    <reference idRef="5388"/>
+    <reference idRef="1"/>
+    <reference idRef="5388"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5388"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5395</unsigned_int>
+</object>

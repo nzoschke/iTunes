@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonStaticText" id="4693">
+      <int name="controlID">61</int>
+      <string name="title">1. Registrera din iPod</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3007</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">362 106 351 24 </string>
+      <string name="bounds">106 362 130 713 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4691">
+      <int name="controlID">60</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 352 </string>
+      <array count="6" name="subviews">
+        <object class="IBCarbonPicture" id="4697">
+          <int name="controlID">69</int>
+          <int name="contentResID">3037</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>NOAX</string>
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>2</string>
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>true</string>
+              <string>3037</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">62 90 265 189 </string>
+          <string name="bounds">90 62 279 327 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4694">
+          <string name="title">Nu sätter vi igång:</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3006</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">362 62 351 27 </string>
+          <string name="bounds">62 362 89 713 </string>
+        </object>
+        <reference idRef="4693"/>
+        <object class="IBCarbonStaticText" id="4692">
+          <int name="controlID">63</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Om du registrerar din iPod får du uppdateringar med viktig information om din nya iPod och snabbare tillgång till kundsupport.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">387 131 339 72 </string>
+          <string name="bounds">131 387 203 726 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4696">
+          <int name="controlID">65</int>
+          <string name="title">2. Ställ in ditt konto på iTunes Store</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3007</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">362 211 351 24 </string>
+          <string name="bounds">211 362 235 713 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4695">
+          <int name="controlID">67</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Provspela och hämta dina favoriter på ett ögonblick, dygnet runt (i tillämpliga regioner).</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">387 236 326 76 </string>
+          <string name="bounds">236 387 312 713 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 352 780 </string>
+    </object>
+    <reference idRef="4694"/>
+    <reference idRef="4697"/>
+    <reference idRef="4695"/>
+    <reference idRef="4692"/>
+    <reference idRef="4696"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="4691"/>
+    <reference idRef="1"/>
+    <reference idRef="4691"/>
+    <reference idRef="4691"/>
+    <reference idRef="4691"/>
+    <reference idRef="4691"/>
+    <reference idRef="4691"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4691"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">4698</unsigned_int>
+</object>

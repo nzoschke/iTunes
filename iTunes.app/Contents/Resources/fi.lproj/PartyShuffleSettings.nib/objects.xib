@@ -1,0 +1,345 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="39" name="allObjects">
+    <object class="IBCarbonMenuItem" id="228">
+      <string name="title">15</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonMenuItem" id="232">
+      <string name="title">75</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonMenuItem" id="230">
+      <string name="title">25</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonPopupButton" id="211">
+      <int name="controlID">4</int>
+      <int name="selectedItem">2</int>
+      <object name="menu" class="IBCarbonMenu" id="212">
+        <string name="title">Ponnahdusvalikko</string>
+        <array count="9" name="items">
+          <object class="IBCarbonMenuItem" id="227">
+            <string name="title">0</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="213">
+            <string name="title">5</string>
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="226">
+            <string name="title">10</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <reference idRef="228"/>
+          <object class="IBCarbonMenuItem" id="229">
+            <string name="title">20</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <reference idRef="230"/>
+          <object class="IBCarbonMenuItem" id="231">
+            <string name="title">50</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <reference idRef="232"/>
+          <object class="IBCarbonMenuItem" id="233">
+            <string name="title">100</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+        </array>
+      </object>
+      <string name="viewFrame">168 25 65 20 </string>
+      <string name="bounds">25 168 45 233 </string>
+    </object>
+    <reference idRef="212"/>
+    <reference idRef="233"/>
+    <object class="IBCarbonButton" id="223">
+      <int name="controlID">2</int>
+      <ostype name="command">not!</ostype>
+      <int name="buttonType">2</int>
+      <string name="title">Kumoa</string>
+      <string name="viewFrame">371 316 70 20 </string>
+      <string name="bounds">316 371 336 441 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="241">
+      <string name="title">100</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonStaticText" id="214">
+      <int name="controlID">5</int>
+      <string name="title">äsken soitettua kappaletta</string>
+      <string name="viewFrame">238 26 203 16 </string>
+      <string name="bounds">26 238 42 441 </string>
+    </object>
+    <reference idRef="213"/>
+    <object class="IBCarbonStaticText" id="210">
+      <int name="controlID">3</int>
+      <string name="title">Näytä:</string>
+      <string name="viewFrame">120 26 46 16 </string>
+      <string name="bounds">26 120 42 166 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="234">
+      <string name="title">0</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonCheckBox" id="242">
+      <int name="controlID">15</int>
+      <string name="title">Vaadi salasana: </string>
+      <string name="viewFrame">51 279 122 18 </string>
+      <string name="bounds">279 51 297 173 </string>
+    </object>
+    <reference idRef="231"/>
+    <object class="IBCarbonWindow" id="208">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="hasCloseBox">FALSE</boolean>
+      <boolean name="hasCollapseBox">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="carbonWindowClass">4</int>
+      <int name="windowPosition">7</int>
+      <string name="title">iTunes DJ -asetukset</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="209">
+        <string name="viewFrame">0 0 543 356 </string>
+        <array count="17" name="subviews">
+          <reference idRef="210"/>
+          <reference idRef="211"/>
+          <reference idRef="214"/>
+          <object class="IBCarbonPopupButton" id="215">
+            <int name="controlID">6</int>
+            <int name="selectedItem">3</int>
+            <object name="menu" class="IBCarbonMenu" id="216">
+              <string name="title">Ponnahdusvalikko</string>
+              <array count="9" name="items">
+                <reference idRef="234"/>
+                <object class="IBCarbonMenuItem" id="217">
+                  <string name="title">5</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="235">
+                  <string name="title">10</string>
+                  <boolean name="checked">TRUE</boolean>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="236">
+                  <string name="title">15</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="237">
+                  <string name="title">20</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="238">
+                  <string name="title">25</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="240">
+                  <string name="title">50</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="239">
+                  <string name="title">75</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <reference idRef="241"/>
+              </array>
+            </object>
+            <string name="viewFrame">168 55 65 20 </string>
+            <string name="bounds">55 168 75 233 </string>
+          </object>
+          <object class="IBCarbonStaticText" id="218">
+            <int name="controlID">7</int>
+            <string name="title">tulevaa kappaletta</string>
+            <string name="viewFrame">238 56 145 16 </string>
+            <string name="bounds">56 238 72 383 </string>
+          </object>
+          <object class="IBCarbonCheckBox" id="219">
+            <int name="controlID">8</int>
+            <string name="title">Toista paremmiksi arvioidut kappaleet useammin</string>
+            <string name="viewFrame">168 83 345 18 </string>
+            <string name="bounds">83 168 101 513 </string>
+          </object>
+          <object class="IBCarbonSeparator" id="220">
+            <int name="controlID">9</int>
+            <string name="viewFrame">31 109 482 1 </string>
+            <string name="bounds">109 31 110 513 </string>
+          </object>
+          <object class="IBCarbonCheckBox" id="221">
+            <int name="controlID">10</int>
+            <string name="title">Salli vieraiden pyytää kappaleita iPhonen tai iPod touchin Remote-ohjelmalla</string>
+            <string name="viewFrame">31 115 454 35 </string>
+            <string name="bounds">115 31 150 485 </string>
+          </object>
+          <object class="IBCarbonStaticText" id="222">
+            <int name="controlID">11</int>
+            <string name="title">Tervetuloviesti:</string>
+            <string name="viewFrame">51 151 128 16 </string>
+            <string name="bounds">151 51 167 179 </string>
+          </object>
+          <object class="IBCarbonEditText" id="225">
+            <int name="controlID">12</int>
+            <boolean name="isUnicode">TRUE</boolean>
+            <string name="viewFrame">54 174 435 47 </string>
+            <string name="bounds">174 54 221 489 </string>
+          </object>
+          <object class="IBCarbonCheckBox" id="245">
+            <int name="controlID">13</int>
+            <string name="title">Ota äänestäminen käyttöön</string>
+            <string name="viewFrame">51 228 225 18 </string>
+            <string name="bounds">228 51 246 276 </string>
+          </object>
+          <object class="IBCarbonStaticText" id="247">
+            <int name="controlID">14</int>
+            <int name="controlSize">1</int>
+            <string name="title">Vieraat voivat vaikuttaa äänestämällä siihen, milloin kappaleet soivat.</string>
+            <string name="viewFrame">73 245 409 28 </string>
+            <string name="bounds">245 73 273 482 </string>
+          </object>
+          <reference idRef="242"/>
+          <object class="IBCarbonEditText" id="243">
+            <int name="controlID">16</int>
+            <boolean name="isPassword">TRUE</boolean>
+            <boolean name="isUnicode">TRUE</boolean>
+            <string name="viewFrame">179 279 310 16 </string>
+            <string name="bounds">279 179 295 489 </string>
+          </object>
+          <object class="IBCarbonRoundButton" id="244">
+            <int name="controlID">17</int>
+            <string name="viewFrame">18 315 25 25 </string>
+            <string name="bounds">315 18 340 43 </string>
+            <int name="contentType">132</int>
+            <int name="iconCreator">1835098995</int>
+            <int name="iconType">1751477360</int>
+          </object>
+          <reference idRef="223"/>
+          <object class="IBCarbonButton" id="224">
+            <int name="controlID">1</int>
+            <ostype name="command">ok  </ostype>
+            <int name="buttonType">1</int>
+            <string name="title">OK</string>
+            <string name="viewFrame">453 316 70 20 </string>
+            <string name="bounds">316 453 336 523 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 356 543 </string>
+      </object>
+      <string name="windowRect">99 174 455 717 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="221"/>
+    <reference idRef="217"/>
+    <reference idRef="240"/>
+    <reference idRef="237"/>
+    <reference idRef="222"/>
+    <reference idRef="227"/>
+    <reference idRef="235"/>
+    <reference idRef="226"/>
+    <reference idRef="239"/>
+    <reference idRef="229"/>
+    <reference idRef="244"/>
+    <reference idRef="215"/>
+    <reference idRef="243"/>
+    <reference idRef="219"/>
+    <reference idRef="218"/>
+    <reference idRef="236"/>
+    <reference idRef="224"/>
+    <reference idRef="209"/>
+    <reference idRef="238"/>
+    <reference idRef="216"/>
+    <reference idRef="220"/>
+    <reference idRef="225"/>
+    <reference idRef="247"/>
+    <reference idRef="245"/>
+  </array>
+  <array count="39" name="allParents">
+    <reference idRef="212"/>
+    <reference idRef="212"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="211"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="1"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="216"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="216"/>
+    <reference idRef="212"/>
+    <reference idRef="216"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="208"/>
+    <reference idRef="216"/>
+    <reference idRef="215"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Window</string>
+    <reference idRef="208"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">248</unsigned_int>
+</object>

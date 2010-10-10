@@ -1,0 +1,230 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="21" name="allObjects">
+    <object class="IBCarbonCheckBox" id="4734">
+      <int name="controlID">119</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="initialState">1</int>
+      <string name="title">Synkronisera låtar och videor till iPod automatiskt</string>
+      <string name="viewFrame">229 78 481 18 </string>
+      <string name="bounds">78 229 96 710 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4572">
+      <int name="controlID">123</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">iTunes kan automatiskt synkronisera iPod så att musikbibliotek och spellistor uppdateras varje gång du ansluter den till den här datorn.</string>
+      <string name="viewFrame">247 98 453 38 </string>
+      <string name="bounds">98 247 136 700 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5398">
+      <int name="controlID">162</int>
+      <string name="title">iPod-språk:</string>
+      <int name="justification">-2</int>
+      <string name="viewFrame">228 310 96 20 </string>
+      <string name="bounds">310 228 330 324 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="4633">
+      <string name="title">-(</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonCheckBox" id="4574">
+      <int name="controlID">126</int>
+      <string name="title">Lägg automatiskt till bilder på denna iPod</string>
+      <string name="viewFrame">229 136 481 18 </string>
+      <string name="bounds">136 229 154 710 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="5395">
+      <int name="controlID">160</int>
+      <boolean name="hidden">TRUE</boolean>
+      <boolean name="autoToggle">FALSE</boolean>
+      <string name="title">Aktivera VoiceOver</string>
+      <string name="viewFrame">229 248 183 18 </string>
+      <string name="bounds">248 229 266 412 </string>
+    </object>
+    <object class="IBCarbonPicture" id="4573">
+      <int name="controlID">110</int>
+      <int name="contentResID">0</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">78 48 128 128 </string>
+      <string name="bounds">48 78 176 206 </string>
+    </object>
+    <object class="IBCarbonMenu" id="4629">
+      <string name="title">Popup</string>
+      <array count="3" name="items">
+        <object class="IBCarbonMenuItem" id="4631">
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="4633"/>
+        <object class="IBCarbonMenuItem" id="4634">
+          <string name="title">Välj mapp...</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonStaticText" id="4627">
+      <int name="controlID">128</int>
+      <string name="title">Synkronisera bilder från:</string>
+      <string name="viewFrame">247 194 157 20 </string>
+      <string name="bounds">194 247 214 404 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4570">
+      <int name="controlID">100</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 376 </string>
+      <array count="15" name="subviews">
+        <reference idRef="4573"/>
+        <object class="IBCarbonStaticText" id="4577">
+          <int name="controlID">120</int>
+          <string name="title">Namn:</string>
+          <string name="viewFrame">228 42 46 20 </string>
+          <string name="bounds">42 228 62 274 </string>
+        </object>
+        <object class="IBCarbonEditText" id="4575">
+          <int name="controlID">121</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="title">iPod</string>
+          <string name="viewFrame">279 43 239 16 </string>
+          <string name="bounds">43 279 59 518 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="4576">
+          <int name="controlID">122</int>
+          <int name="initialState">1</int>
+          <string name="title">Synkronisera låtar till iPod automatiskt</string>
+          <string name="viewFrame">229 78 481 18 </string>
+          <string name="bounds">78 229 96 710 </string>
+        </object>
+        <reference idRef="4734"/>
+        <reference idRef="4572"/>
+        <reference idRef="4574"/>
+        <object class="IBCarbonStaticText" id="4571">
+          <int name="controlID">127</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes börjar med att synkronisera all din musik till iPod och använder sedan det återstående utrymmet till bilder.</string>
+          <string name="viewFrame">247 156 458 30 </string>
+          <string name="bounds">156 247 186 705 </string>
+        </object>
+        <reference idRef="4627"/>
+        <object class="IBCarbonPopupButton" id="4628">
+          <int name="controlID">129</int>
+          <reference name="menu" idRef="4629"/>
+          <string name="viewFrame">411 193 174 20 </string>
+          <string name="bounds">193 411 213 585 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5391">
+          <int name="controlID">118</int>
+          <string name="title">Synkronisera program automatiskt</string>
+          <string name="viewFrame">229 222 481 18 </string>
+          <string name="bounds">222 229 240 710 </string>
+        </object>
+        <reference idRef="5395"/>
+        <object class="IBCarbonStaticText" id="5396">
+          <int name="controlID">161</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="viewFrame">247 268 377 28 </string>
+          <string name="bounds">268 247 296 624 </string>
+        </object>
+        <reference idRef="5398"/>
+        <object class="IBCarbonPopupButton" id="5399">
+          <int name="controlID">163</int>
+          <int name="selectedItem">-2147483648</int>
+          <object name="menu" class="IBCarbonMenu" id="5400">
+            <string name="title">Popup</string>
+          </object>
+          <string name="viewFrame">324 308 174 20 </string>
+          <string name="bounds">308 324 328 498 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 376 780 </string>
+    </object>
+    <reference idRef="4577"/>
+    <reference idRef="4628"/>
+    <reference idRef="5396"/>
+    <reference idRef="5399"/>
+    <reference idRef="5400"/>
+    <reference idRef="4575"/>
+    <reference idRef="4631"/>
+    <reference idRef="4576"/>
+    <reference idRef="4571"/>
+    <reference idRef="4634"/>
+    <reference idRef="5391"/>
+  </array>
+  <array count="21" name="allParents">
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4629"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4628"/>
+    <reference idRef="4570"/>
+    <reference idRef="1"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="5399"/>
+    <reference idRef="4570"/>
+    <reference idRef="4629"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4629"/>
+    <reference idRef="4570"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5404</unsigned_int>
+</object>

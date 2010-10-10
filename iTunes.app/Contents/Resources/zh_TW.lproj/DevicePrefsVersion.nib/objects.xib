@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="9" name="allObjects">
+    <object class="IBCarbonStaticText" id="6298">
+      <int name="controlID">2522</int>
+      <string name="title">較新版本的 iPod 軟體已經可供使用（版本 8.8.8）。您可能需要按“更新”按鈕一下來將您的 iPod 更新到最新版本。</string>
+      <string name="viewFrame">234 20 507 36 </string>
+      <string name="bounds">72 274 108 781 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6295">
+      <int name="controlID">2523</int>
+      <string name="title">若 iPod 發生問題，您可以按“回復”按鈕一下，來將 iPod 回復為原始設定。</string>
+      <string name="viewFrame">234 68 507 36 </string>
+      <string name="bounds">120 274 156 781 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="6303">
+      <int name="controlID">2520</int>
+      <int name="fontStyle">5</int>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">更新</string>
+      <string name="viewFrame">122 27 76 22 </string>
+      <string name="bounds">79 162 101 238 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6301">
+      <int name="controlID">2519</int>
+      <string name="title">版本</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3001</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 22 100 22 </string>
+      <string name="bounds">22 40 44 140 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6291">
+      <int name="controlID">2504</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>2505</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 178 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="6293">
+          <int name="controlID">2505</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 178 </string>
+          <array count="2" name="subviews">
+            <reference idRef="6301"/>
+            <object class="IBCarbonHIView" id="6302">
+              <int name="controlID">2506</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>bcol</string>
+                  <string>fsqr</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>f7f7f7</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 52 790 124 </string>
+              <array count="5" name="subviews">
+                <reference idRef="6303"/>
+                <reference idRef="6298"/>
+                <object class="IBCarbonSeparator" id="6296">
+                  <int name="controlID">2524</int>
+                  <string name="viewFrame">227 60 507 1 </string>
+                  <string name="bounds">112 267 113 774 </string>
+                </object>
+                <object class="IBCarbonBevelButton" id="6304">
+                  <int name="controlID">2521</int>
+                  <int name="fontStyle">5</int>
+                  <int name="bevelThickness">1</int>
+                  <int name="contentType">0</int>
+                  <int name="textPlacement">3</int>
+                  <boolean name="rounded">TRUE</boolean>
+                  <string name="title">回復</string>
+                  <string name="viewFrame">122 75 76 22 </string>
+                  <string name="bounds">127 162 149 238 </string>
+                </object>
+                <reference idRef="6295"/>
+              </array>
+              <string name="bounds">52 40 176 830 </string>
+            </object>
+          </array>
+          <string name="bounds">0 20 178 850 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 178 870 </string>
+    </object>
+    <reference idRef="6302"/>
+    <reference idRef="6304"/>
+    <reference idRef="6293"/>
+    <reference idRef="6296"/>
+  </array>
+  <array count="9" name="allParents">
+    <reference idRef="6302"/>
+    <reference idRef="6302"/>
+    <reference idRef="6302"/>
+    <reference idRef="6293"/>
+    <reference idRef="1"/>
+    <reference idRef="6293"/>
+    <reference idRef="6302"/>
+    <reference idRef="6291"/>
+    <reference idRef="6302"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="6291"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">6305</unsigned_int>
+</object>

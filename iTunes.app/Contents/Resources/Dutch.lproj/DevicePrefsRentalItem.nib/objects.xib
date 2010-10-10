@@ -1,0 +1,299 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="10" name="allObjects">
+    <object class="IBCarbonStaticText" id="5073">
+      <int name="controlID">103</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="foreColor">0 0 0 </string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>9021</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">72 50 291 14 </string>
+      <string name="bounds">50 72 64 363 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5065">
+      <int name="controlID">110</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingBottomKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>bcol</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>1</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>f7f7f7</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 375 95 </string>
+      <array count="9" name="subviews">
+        <object class="IBCarbonPicture" id="5068">
+          <int name="controlID">107</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>REFL</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>false</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">10 10 50 75 </string>
+          <string name="bounds">10 10 85 60 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5066">
+          <int name="controlID">102</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <string name="foreColor">0 0 0 </string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>9020</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">72 5 291 16 </string>
+          <string name="bounds">5 72 21 363 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5071">
+          <int name="controlID">108</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <string name="foreColor">0 0 0 </string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>9021</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">72 22 291 14 </string>
+          <string name="bounds">22 72 36 363 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5072">
+          <int name="controlID">104</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <string name="foreColor">0 0 0 </string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>9021</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">72 36 291 14 </string>
+          <string name="bounds">36 72 50 363 </string>
+        </object>
+        <reference idRef="5073"/>
+        <object class="IBCarbonPicture" id="5074">
+          <int name="controlID">101</int>
+          <boolean name="hidden">TRUE</boolean>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <int name="contentResID">0</int>
+          <string name="viewFrame">73 68 52 12 </string>
+          <string name="bounds">68 73 80 125 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="5069">
+          <int name="controlID">105</int>
+          <int name="fontStyle">0</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Verplaats</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>728</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">193 66 80 22 </string>
+          <string name="bounds">66 193 88 273 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="5067">
+          <int name="controlID">109</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">0</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Verwijder</string>
+          <string name="viewFrame">285 66 80 22 </string>
+          <string name="bounds">66 285 88 365 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="5070">
+          <int name="controlID">106</int>
+          <int name="fontStyle">0</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Verplaats</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>730</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">285 66 80 22 </string>
+          <string name="bounds">66 285 88 365 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 95 375 </string>
+    </object>
+    <reference idRef="5066"/>
+    <reference idRef="5072"/>
+    <reference idRef="5069"/>
+    <reference idRef="5071"/>
+    <reference idRef="5074"/>
+    <reference idRef="5068"/>
+    <reference idRef="5067"/>
+    <reference idRef="5070"/>
+  </array>
+  <array count="10" name="allParents">
+    <reference idRef="5065"/>
+    <reference idRef="1"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+    <reference idRef="5065"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5065"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5075</unsigned_int>
+</object>

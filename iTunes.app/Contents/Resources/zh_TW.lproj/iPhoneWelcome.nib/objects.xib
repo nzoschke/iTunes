@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonStaticText" id="5380">
+      <string name="title">開始設定：</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3006</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">232 85 351 27 </string>
+      <string name="bounds">85 232 112 583 </string>
+    </object>
+    <object class="IBCarbonPicture" id="5378">
+      <int name="controlID">69</int>
+      <int name="contentResID">3038</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>true</string>
+          <string>3038</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">51 42 146 252 </string>
+      <string name="bounds">42 51 294 197 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5382">
+      <int name="controlID">67</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">不分晝夜，您可立即預覽∕試聽並下載喜愛的項目（若適用）。</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3008</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">257 237 435 33 </string>
+      <string name="bounds">237 257 270 692 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5377">
+      <int name="controlID">60</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 336 </string>
+      <array count="6" name="subviews">
+        <reference idRef="5378"/>
+        <reference idRef="5380"/>
+        <object class="IBCarbonStaticText" id="5379">
+          <int name="controlID">61</int>
+          <string name="title">1. 註冊您的 iPhone</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3007</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">232 130 351 24 </string>
+          <string name="bounds">130 232 154 583 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5381">
+          <int name="controlID">63</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">註冊您的 iPhone 來取得關於新 iPhone 的重要資訊和更快速地獲得客戶支援。</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">257 154 435 58 </string>
+          <string name="bounds">154 257 212 692 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5383">
+          <int name="controlID">65</int>
+          <string name="title">2. 設定您的 iTunes Store 帳號</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3007</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">232 213 351 24 </string>
+          <string name="bounds">213 232 237 583 </string>
+        </object>
+        <reference idRef="5382"/>
+      </array>
+      <string name="bounds">0 0 336 780 </string>
+    </object>
+    <reference idRef="5381"/>
+    <reference idRef="5383"/>
+    <reference idRef="5379"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="5377"/>
+    <reference idRef="5377"/>
+    <reference idRef="5377"/>
+    <reference idRef="1"/>
+    <reference idRef="5377"/>
+    <reference idRef="5377"/>
+    <reference idRef="5377"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5377"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5384</unsigned_int>
+</object>

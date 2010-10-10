@@ -1,0 +1,1493 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="164" name="allObjects">
+    <object class="IBCarbonMenuItem" id="914">
+      <string name="title">Beskrivning</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonPopupButton" id="512">
+      <int name="controlID">4006</int>
+      <object name="menu" class="IBCarbonMenu" id="513">
+        <string name="title">Popup</string>
+        <array count="18" name="items">
+          <object class="IBCarbonMenuItem" id="517">
+            <string name="title">blandat</string>
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="515">
+            <boolean name="separator">TRUE</boolean>
+            <boolean name="disabled">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="518">
+            <string name="title">album</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="521">
+            <string name="title">artist</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="524">
+            <string name="title">genre</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="516">
+            <string name="title">namn</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="519">
+            <boolean name="separator">TRUE</boolean>
+            <boolean name="disabled">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="522">
+            <string name="title">högsta betyg</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="525">
+            <string name="title">lägsta betyg</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="527">
+            <boolean name="separator">TRUE</boolean>
+            <boolean name="disabled">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="528">
+            <string name="title">senast spelade</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="529">
+            <string name="title">minst nyligen spelade</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="530">
+            <boolean name="separator">TRUE</boolean>
+            <boolean name="disabled">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="531">
+            <string name="title">mest spelade</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="514">
+            <string name="title">minst spelade</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="520">
+            <boolean name="separator">TRUE</boolean>
+            <boolean name="disabled">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="523">
+            <string name="title">senast tillagda</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="526">
+            <string name="title">minst nyligen tillagda</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+        </array>
+      </object>
+      <string name="viewFrame">345 10 248 20 </string>
+      <string name="bounds">103 345 123 593 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="948">
+      <string name="title">dagarna</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="908">
+      <string name="title">Artist</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="919">
+      <string name="title">Tid</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="922">
+      <string name="title">Sortera program</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <reference idRef="523"/>
+    <object class="IBCarbonStaticText" id="969">
+      <int name="controlID">4</int>
+      <string name="title">kbit/s</string>
+      <string name="viewFrame">181 8 54 16 </string>
+      <string name="bounds">8 181 24 235 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="894">
+      <string name="title">Sortera artist</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonStaticText" id="1071">
+      <int name="controlID">2013</int>
+      <string name="title">av följande villkor:</string>
+      <string name="viewFrame">159 2 144 18 </string>
+      <string name="bounds">2 159 20 303 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="921">
+      <string name="title">Spellista</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonHIView" id="1115">
+      <int name="controlID">2003</int>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>138</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">716 1 32 32 </string>
+      <string name="bounds">1 716 33 748 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="881">
+      <int name="controlID">2022</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">427 0 221 32 </string>
+      <string name="bounds">0 427 32 648 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="949">
+      <int name="controlID">1004</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonEditText" id="950">
+          <int name="controlID">1</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="title">Hz</string>
+          <string name="viewFrame">6 8 175 16 </string>
+          <string name="bounds">8 6 24 181 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="951">
+          <int name="controlID">3</int>
+          <string name="title">Hz</string>
+          <string name="viewFrame">192 8 36 16 </string>
+          <string name="bounds">8 192 24 228 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="970">
+      <int name="controlID">3</int>
+      <string name="title">till</string>
+      <string name="viewFrame">95 8 22 16 </string>
+      <string name="bounds">8 95 24 117 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="926">
+      <string name="title">Sortera namn</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <reference idRef="519"/>
+    <object class="IBCarbonPopupButton" id="935">
+      <int name="controlID">7</int>
+      <object name="menu" class="IBCarbonMenu" id="936">
+        <string name="title">Popup</string>
+        <array count="1" name="items">
+          <object class="IBCarbonMenuItem" id="937">
+            <string name="title">Do not localize</string>
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+          </object>
+        </array>
+      </object>
+      <string name="viewFrame">2 6 215 20 </string>
+      <string name="bounds">6 2 26 217 </string>
+    </object>
+    <object class="IBCarbonMenu" id="1109">
+      <string name="title">Popup</string>
+      <array count="2" name="items">
+        <object class="IBCarbonMenuItem" id="1110">
+          <string name="title">alla</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="1111">
+          <string name="title">något</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <reference idRef="524"/>
+    <object class="IBCarbonEditText" id="958">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="title">MB</string>
+      <string name="viewFrame">6 8 175 16 </string>
+      <string name="bounds">8 6 24 181 </string>
+    </object>
+    <object class="IBCarbonButton" id="537">
+      <int name="controlID">4009</int>
+      <ostype name="command">ok  </ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingLeftKind">2</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <int name="buttonType">1</int>
+      <string name="title">OK</string>
+      <string name="viewFrame">703 97 70 20 </string>
+      <string name="bounds">190 703 210 773 </string>
+    </object>
+    <reference idRef="517"/>
+    <object class="IBCarbonMenuItem" id="911">
+      <string name="title">Skivnummer</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonEditText" id="967">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">6 8 164 16 </string>
+      <string name="bounds">8 6 24 170 </string>
+    </object>
+    <object class="IBCarbonEditText" id="933">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">6 8 208 16 </string>
+      <string name="bounds">8 6 24 214 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="966">
+      <int name="controlID">3</int>
+      <string name="title">kbit/s</string>
+      <string name="viewFrame">181 8 58 16 </string>
+      <string name="bounds">8 181 24 239 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="1120">
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 753 34 </string>
+      <string name="bounds">0 0 34 753 </string>
+    </object>
+    <reference idRef="530"/>
+    <object class="IBCarbonEditText" id="972">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">6 8 76 16 </string>
+      <string name="bounds">8 6 24 82 </string>
+    </object>
+    <object class="IBCarbonEditText" id="940">
+      <int name="controlID">2</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">127 8 76 16 </string>
+      <string name="bounds">8 127 24 203 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="1119">
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 753 34 </string>
+      <string name="bounds">0 0 34 753 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="1103">
+      <int name="controlID">2013</int>
+      <string name="title">av följande villkor:</string>
+      <string name="viewFrame">94 8 144 18 </string>
+      <string name="bounds">8 94 26 238 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="507">
+      <string name="title">MB</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonMenuItem" id="509">
+      <string name="title">GB</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonMenuItem" id="898">
+      <string name="title">Bithastighet</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="907">
+      <string name="title">Program</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonGroupBox" id="1070">
+      <int name="controlID">2014</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="viewFrame">0 32 753 36 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="1077">
+          <int name="controlID">2015</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingLeftKind">1</int>
+          </object>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">0 2 753 34 </string>
+          <string name="bounds">34 0 68 753 </string>
+        </object>
+      </array>
+      <string name="bounds">32 0 68 753 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="905">
+      <string name="title">Storlek</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <reference idRef="521"/>
+    <object class="IBCarbonEditText" id="981">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">6 8 83 16 </string>
+      <string name="bounds">8 6 24 89 </string>
+    </object>
+    <reference idRef="937"/>
+    <object class="IBCarbonMenuItem" id="887">
+      <string name="title">är inte</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="906">
+      <string name="title">Genre</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonCheckBox" id="532">
+      <int name="controlID">4002</int>
+      <string name="title">Begränsa till</string>
+      <string name="viewFrame">18 11 101 18 </string>
+      <string name="bounds">104 18 122 119 </string>
+    </object>
+    <object class="IBCarbonEditText" id="941">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">6 8 76 16 </string>
+      <string name="bounds">8 6 24 82 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="902">
+      <string name="title">Typ</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonPopupButton" id="1072">
+      <int name="controlID">2012</int>
+      <object name="menu" class="IBCarbonMenu" id="1074">
+        <string name="title">Popup</string>
+        <array count="2" name="items">
+          <object class="IBCarbonMenuItem" id="1076">
+            <string name="title">alla</string>
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+          </object>
+          <object class="IBCarbonMenuItem" id="1075">
+            <string name="title">något</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+          </object>
+        </array>
+      </object>
+      <string name="viewFrame">72 1 77 20 </string>
+      <string name="bounds">1 72 21 149 </string>
+    </object>
+    <reference idRef="515"/>
+    <object class="IBCarbonMenu" id="945">
+      <string name="title">Popup</string>
+      <array count="3" name="items">
+        <reference idRef="948"/>
+        <object class="IBCarbonMenuItem" id="946">
+          <string name="title">veckor</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="947">
+          <string name="title">månaderna</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonCheckBox" id="1073">
+      <int name="controlID">2011</int>
+      <string name="title">Matcha</string>
+      <string name="viewFrame">0 2 242 22 </string>
+      <string name="bounds">2 0 24 242 </string>
+    </object>
+    <reference idRef="1075"/>
+    <object class="IBCarbonMenuItem" id="931">
+      <string name="title">Mitt betyg</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonHIView" id="884">
+      <int name="controlID">2002</int>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>138</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">687 1 32 32 </string>
+      <string name="bounds">1 687 33 719 </string>
+    </object>
+    <object class="IBCarbonMenu" id="886">
+      <string name="title">Popup</string>
+      <array count="6" name="items">
+        <object class="IBCarbonMenuItem" id="889">
+          <string name="title">innehåller</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="890">
+          <string name="title">innehåller inte</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="888">
+          <string name="title">är</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="887"/>
+        <object class="IBCarbonMenuItem" id="892">
+          <string name="title">startar med</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="891">
+          <string name="title">slutar med</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <reference idRef="891"/>
+    <object class="IBCarbonUserPane" id="976">
+      <int name="controlID">1011</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="5" name="subviews">
+        <reference idRef="981"/>
+        <object class="IBCarbonHIView" id="980">
+          <ostype name="controlSignature">hook</ostype>
+          <int name="controlID">5</int>
+          <string name="classID">com.apple.itunes.uiuserratingslider</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>531</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">10 10 68 13 </string>
+          <string name="bounds">10 10 23 78 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="979">
+          <int name="controlID">3</int>
+          <string name="title">till</string>
+          <string name="viewFrame">99 7 19 16 </string>
+          <string name="bounds">7 99 23 118 </string>
+        </object>
+        <object class="IBCarbonEditText" id="978">
+          <int name="controlID">2</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <string name="viewFrame">128 8 85 16 </string>
+          <string name="bounds">8 128 24 213 </string>
+        </object>
+        <object class="IBCarbonHIView" id="977">
+          <ostype name="controlSignature">hook</ostype>
+          <int name="controlID">6</int>
+          <string name="classID">com.apple.itunes.uiuserratingslider</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>531</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">135 10 68 13 </string>
+          <string name="bounds">10 135 23 203 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="513"/>
+    <object class="IBCarbonMenuItem" id="899">
+      <string name="title">Senast spelad</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonHIView" id="883">
+      <int name="controlID">2001</int>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>138</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">657 1 32 32 </string>
+      <string name="bounds">1 657 33 689 </string>
+    </object>
+    <object class="IBCarbonPopupButton" id="1102">
+      <int name="controlID">2012</int>
+      <reference name="menu" idRef="1109"/>
+      <string name="viewFrame">10 7 77 20 </string>
+      <string name="bounds">7 10 27 87 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="909">
+      <string name="title">År</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonPopupButton" id="885">
+      <int name="controlID">2021</int>
+      <reference name="menu" idRef="886"/>
+      <string name="viewFrame">225 6 195 20 </string>
+      <string name="bounds">6 225 26 420 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="925">
+      <string name="title">Spelningar</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="918">
+      <string name="title">Podcast</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenu" id="506">
+      <string name="title">Popup</string>
+      <array count="5" name="items">
+        <object class="IBCarbonMenuItem" id="511">
+          <string name="title">minuter</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <object class="IBCarbonMenuItem" id="508">
+          <string name="title">timmar</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+        <reference idRef="507"/>
+        <reference idRef="509"/>
+        <object class="IBCarbonMenuItem" id="510">
+          <string name="title">objekt</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+          <string name="helpTagText"></string>
+          <string name="extendedHelpTagText"></string>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonUserPane" id="880">
+      <int name="controlID">1013</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 753 34 </string>
+      <array count="6" name="subviews">
+        <object class="IBCarbonPopupButton" id="882">
+          <int name="controlID">2020</int>
+          <object name="menu" class="IBCarbonMenu" id="893">
+            <string name="title">Popup</string>
+            <array count="38" name="items">
+              <object class="IBCarbonMenuItem" id="923">
+                <string name="title">Album</string>
+                <boolean name="checked">TRUE</boolean>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="910">
+                <string name="title">Albumartist</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="908"/>
+              <object class="IBCarbonMenuItem" id="901">
+                <string name="title">BPM</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="898"/>
+              <object class="IBCarbonMenuItem" id="895">
+                <string name="title">Kategori</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="930">
+                <string name="title">Kommentar</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="927">
+                <string name="title">Samling</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="924">
+                <string name="title">Kompositör</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="920">
+                <string name="title">Tilläggsdatum</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="917">
+                <string name="title">Ändringsdatum</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="914"/>
+              <reference idRef="911"/>
+              <reference idRef="906"/>
+              <object class="IBCarbonMenuItem" id="904">
+                <string name="title">Gruppering</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="902"/>
+              <reference idRef="899"/>
+              <object class="IBCarbonMenuItem" id="896">
+                <string name="title">Senast överhoppad</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="931"/>
+              <object class="IBCarbonMenuItem" id="928">
+                <string name="title">Namn</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="925"/>
+              <reference idRef="921"/>
+              <reference idRef="918"/>
+              <object class="IBCarbonMenuItem" id="915">
+                <string name="title">Samplingsfrekvens</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="912">
+                <string name="title">Säsong</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="907"/>
+              <reference idRef="905"/>
+              <object class="IBCarbonMenuItem" id="903">
+                <string name="title">Överhoppade spelningar</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="900">
+                <string name="title">Sortera album</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="897">
+                <string name="title">Sortera albumartist</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="894"/>
+              <object class="IBCarbonMenuItem" id="929">
+                <string name="title">Sortera kompositör</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="926"/>
+              <reference idRef="922"/>
+              <reference idRef="919"/>
+              <object class="IBCarbonMenuItem" id="916">
+                <string name="title">Spår</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <object class="IBCarbonMenuItem" id="913">
+                <string name="title">Videotyp</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+              </object>
+              <reference idRef="909"/>
+            </array>
+          </object>
+          <string name="viewFrame">10 6 208 20 </string>
+          <string name="bounds">6 10 26 218 </string>
+        </object>
+        <reference idRef="885"/>
+        <reference idRef="881"/>
+        <reference idRef="883"/>
+        <reference idRef="884"/>
+        <reference idRef="1115"/>
+      </array>
+      <string name="bounds">0 0 34 753 </string>
+    </object>
+    <reference idRef="511"/>
+    <object class="IBCarbonStaticText" id="962">
+      <int name="controlID">3</int>
+      <string name="title">till</string>
+      <string name="viewFrame">96 7 23 16 </string>
+      <string name="bounds">7 96 23 119 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="965">
+      <int name="controlID">1001</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="2" name="subviews">
+        <reference idRef="967"/>
+        <reference idRef="966"/>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="1045">
+      <int name="controlID">4001</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 18 753 68 </string>
+      <string name="bounds">18 20 86 773 </string>
+    </object>
+    <reference idRef="912"/>
+    <reference idRef="916"/>
+    <reference idRef="923"/>
+    <reference idRef="1111"/>
+    <reference idRef="526"/>
+    <object class="IBCarbonUserPane" id="957">
+      <int name="controlID">1006</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="2" name="subviews">
+        <reference idRef="958"/>
+        <object class="IBCarbonStaticText" id="959">
+          <int name="controlID">3</int>
+          <string name="title">MB</string>
+          <string name="viewFrame">192 7 41 16 </string>
+          <string name="bounds">7 192 23 233 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="896"/>
+    <object class="IBCarbonRoundButton" id="876">
+      <int name="controlID">4011</int>
+      <string name="viewFrame">15 96 25 25 </string>
+      <string name="bounds">189 15 214 40 </string>
+      <int name="contentType">132</int>
+      <int name="iconCreator">1835098995</int>
+      <int name="iconType">1751477360</int>
+    </object>
+    <object class="IBCarbonEditText" id="963">
+      <int name="controlID">2</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">127 8 47 16 </string>
+      <string name="bounds">8 127 24 174 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="973">
+      <int name="controlID">1010</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonEditText" id="975">
+          <int name="controlID">1</int>
+          <boolean name="enabled">FALSE</boolean>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="viewFrame">6 8 83 16 </string>
+          <string name="bounds">8 6 24 89 </string>
+        </object>
+        <object class="IBCarbonHIView" id="974">
+          <ostype name="controlSignature">hook</ostype>
+          <int name="controlID">5</int>
+          <string name="classID">com.apple.itunes.uiuserratingslider</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>531</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">10 10 68 13 </string>
+          <string name="bounds">10 10 23 78 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="535">
+      <int name="controlID">4008</int>
+      <string name="title">Live-uppdatering</string>
+      <string name="viewFrame">18 65 146 18 </string>
+      <string name="bounds">158 18 176 164 </string>
+    </object>
+    <object class="IBCarbonEditText" id="971">
+      <int name="controlID">2</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">126 8 47 16 </string>
+      <string name="bounds">8 126 24 173 </string>
+    </object>
+    <reference idRef="947"/>
+    <reference idRef="959"/>
+    <reference idRef="888"/>
+    <reference idRef="882"/>
+    <object class="IBCarbonStaticText" id="953">
+      <int name="controlID">4</int>
+      <string name="title">Hz</string>
+      <string name="viewFrame">185 8 27 16 </string>
+      <string name="bounds">8 185 24 212 </string>
+    </object>
+    <reference idRef="889"/>
+    <object class="IBCarbonHIView" id="1106">
+      <int name="controlID">2002</int>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>138</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">667 1 32 32 </string>
+      <string name="bounds">1 667 33 699 </string>
+    </object>
+    <object class="IBCarbonEditText" id="964">
+      <int name="controlID">1</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">6 8 76 16 </string>
+      <string name="bounds">8 6 24 82 </string>
+    </object>
+    <reference idRef="903"/>
+    <object class="IBCarbonPopupButton" id="505">
+      <int name="controlID">4004</int>
+      <int name="selectedItem">5</int>
+      <reference name="menu" idRef="506"/>
+      <string name="viewFrame">178 10 120 20 </string>
+      <string name="bounds">103 178 123 298 </string>
+    </object>
+    <reference idRef="508"/>
+    <reference idRef="516"/>
+    <object class="IBCarbonUserPane" id="942">
+      <int name="controlID">1000</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonEditText" id="944">
+          <int name="controlID">1</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="viewFrame">6 8 45 16 </string>
+          <string name="bounds">8 6 24 51 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="943">
+          <int name="controlID">7</int>
+          <int name="selectedItem">2</int>
+          <reference name="menu" idRef="945"/>
+          <string name="viewFrame">61 6 156 20 </string>
+          <string name="bounds">6 61 26 217 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="901"/>
+    <reference idRef="1077"/>
+    <object class="IBCarbonUserPane" id="952">
+      <int name="controlID">1005</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonEditText" id="956">
+          <int name="controlID">1</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="viewFrame">6 8 76 16 </string>
+          <string name="bounds">8 6 24 82 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="954">
+          <int name="controlID">3</int>
+          <string name="title">till</string>
+          <string name="viewFrame">96 8 23 16 </string>
+          <string name="bounds">8 96 24 119 </string>
+        </object>
+        <object class="IBCarbonEditText" id="955">
+          <int name="controlID">2</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="viewFrame">127 8 47 16 </string>
+          <string name="bounds">8 127 24 174 </string>
+        </object>
+        <reference idRef="953"/>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="1110"/>
+    <reference idRef="930"/>
+    <reference idRef="895"/>
+    <reference idRef="518"/>
+    <object class="IBCarbonUserPane" id="538">
+      <int name="controlID">4012</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 93 803 137 </string>
+      <array count="10" name="subviews">
+        <reference idRef="532"/>
+        <object class="IBCarbonEditText" id="536">
+          <int name="controlID">4003</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <string name="viewFrame">130 12 37 16 </string>
+          <string name="bounds">105 130 121 167 </string>
+        </object>
+        <reference idRef="505"/>
+        <object class="IBCarbonStaticText" id="533">
+          <int name="controlID">4005</int>
+          <string name="title">efter</string>
+          <string name="viewFrame">307 12 34 16 </string>
+          <string name="bounds">105 307 121 341 </string>
+        </object>
+        <reference idRef="512"/>
+        <object class="IBCarbonCheckBox" id="534">
+          <int name="controlID">4007</int>
+          <string name="title">Matcha endast markerade objekt</string>
+          <string name="viewFrame">18 39 273 18 </string>
+          <string name="bounds">132 18 150 291 </string>
+        </object>
+        <reference idRef="535"/>
+        <reference idRef="876"/>
+        <object class="IBCarbonButton" id="504">
+          <int name="controlID">4010</int>
+          <ostype name="command">not!</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingBottomKind">2</int>
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="buttonType">2</int>
+          <string name="title">Avbryt</string>
+          <string name="viewFrame">624 97 70 20 </string>
+          <string name="bounds">190 624 210 694 </string>
+        </object>
+        <reference idRef="537"/>
+      </array>
+      <string name="bounds">93 0 230 803 </string>
+    </object>
+    <reference idRef="946"/>
+    <object class="IBCarbonWindow" id="180">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="hasCloseBox">FALSE</boolean>
+      <boolean name="hasCollapseBox">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="carbonWindowClass">4</int>
+      <int name="windowPosition">7</int>
+      <string name="title">Smart spellista</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="181">
+        <string name="viewFrame">0 0 793 230 </string>
+        <array count="2" name="subviews">
+          <reference idRef="538"/>
+          <reference idRef="1045"/>
+        </array>
+        <string name="bounds">0 0 230 793 </string>
+      </object>
+      <string name="windowRect">183 595 413 1388 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="510"/>
+    <reference idRef="980"/>
+    <object class="IBCarbonUserPane" id="960">
+      <int name="controlID">1007</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="4" name="subviews">
+        <reference idRef="964"/>
+        <reference idRef="962"/>
+        <reference idRef="963"/>
+        <object class="IBCarbonStaticText" id="961">
+          <int name="controlID">4</int>
+          <string name="title">MB</string>
+          <string name="viewFrame">185 7 27 16 </string>
+          <string name="bounds">7 185 23 212 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="951"/>
+    <reference idRef="520"/>
+    <reference idRef="954"/>
+    <reference idRef="944"/>
+    <reference idRef="956"/>
+    <reference idRef="892"/>
+    <object class="IBCarbonUserPane" id="1101">
+      <int name="controlID">1012</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 753 68 </string>
+      <array count="7" name="subviews">
+        <reference idRef="1119"/>
+        <reference idRef="1102"/>
+        <reference idRef="1103"/>
+        <object class="IBCarbonHIView" id="1105">
+          <int name="controlID">2001</int>
+          <string name="classID">com.apple.itunes.uipicturebutton</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>138</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">637 1 32 32 </string>
+          <string name="bounds">1 637 33 669 </string>
+        </object>
+        <reference idRef="1106"/>
+        <object class="IBCarbonHIView" id="1116">
+          <int name="controlID">2003</int>
+          <string name="classID">com.apple.itunes.uipicturebutton</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>138</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">696 1 32 32 </string>
+          <string name="bounds">1 696 33 728 </string>
+        </object>
+        <object class="IBCarbonUserPane" id="1118">
+          <int name="controlID">2014</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">30 34 723 34 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonUserPane" id="1108">
+              <int name="controlID">2015</int>
+              <int name="featureBits">2</int>
+              <string name="viewFrame">0 0 723 34 </string>
+              <string name="bounds">34 30 68 753 </string>
+            </object>
+          </array>
+          <string name="bounds">34 30 68 753 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 68 753 </string>
+    </object>
+    <reference idRef="917"/>
+    <reference idRef="528"/>
+    <reference idRef="936"/>
+    <reference idRef="910"/>
+    <object class="IBCarbonUserPane" id="934">
+      <int name="controlID">1003</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="1" name="subviews">
+        <reference idRef="935"/>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="968">
+      <int name="controlID">1002</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="4" name="subviews">
+        <reference idRef="972"/>
+        <reference idRef="970"/>
+        <reference idRef="971"/>
+        <reference idRef="969"/>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="927"/>
+    <object class="IBCarbonStaticText" id="939">
+      <int name="controlID">3</int>
+      <string name="title">till</string>
+      <string name="viewFrame">96 7 23 16 </string>
+      <string name="bounds">7 96 23 119 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="932">
+      <int name="controlID">1008</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="1" name="subviews">
+        <reference idRef="933"/>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="961"/>
+    <reference idRef="893"/>
+    <reference idRef="1118"/>
+    <reference idRef="1105"/>
+    <reference idRef="943"/>
+    <reference idRef="504"/>
+    <reference idRef="904"/>
+    <reference idRef="1116"/>
+    <object class="IBCarbonUserPane" id="1067">
+      <int name="controlID">1014</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 753 68 </string>
+      <array count="5" name="subviews">
+        <reference idRef="1120"/>
+        <reference idRef="1073"/>
+        <reference idRef="1072"/>
+        <reference idRef="1071"/>
+        <reference idRef="1070"/>
+      </array>
+      <string name="bounds">0 0 68 753 </string>
+    </object>
+    <reference idRef="533"/>
+    <reference idRef="527"/>
+    <reference idRef="975"/>
+    <reference idRef="900"/>
+    <reference idRef="913"/>
+    <reference idRef="978"/>
+    <reference idRef="979"/>
+    <reference idRef="514"/>
+    <reference idRef="1108"/>
+    <reference idRef="928"/>
+    <object class="IBCarbonUserPane" id="938">
+      <int name="controlID">1009</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 220 32 </string>
+      <array count="3" name="subviews">
+        <reference idRef="941"/>
+        <reference idRef="939"/>
+        <reference idRef="940"/>
+      </array>
+      <string name="bounds">0 0 32 220 </string>
+    </object>
+    <reference idRef="920"/>
+    <reference idRef="529"/>
+    <reference idRef="522"/>
+    <reference idRef="1074"/>
+    <reference idRef="915"/>
+    <reference idRef="924"/>
+    <reference idRef="955"/>
+    <reference idRef="536"/>
+    <reference idRef="534"/>
+    <reference idRef="531"/>
+    <reference idRef="897"/>
+    <reference idRef="929"/>
+    <reference idRef="890"/>
+    <reference idRef="181"/>
+    <reference idRef="525"/>
+    <reference idRef="977"/>
+    <reference idRef="974"/>
+    <reference idRef="1076"/>
+    <reference idRef="950"/>
+  </array>
+  <array count="164" name="allParents">
+    <reference idRef="893"/>
+    <reference idRef="538"/>
+    <reference idRef="945"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="513"/>
+    <reference idRef="968"/>
+    <reference idRef="893"/>
+    <reference idRef="1067"/>
+    <reference idRef="893"/>
+    <reference idRef="880"/>
+    <reference idRef="880"/>
+    <reference idRef="1"/>
+    <reference idRef="968"/>
+    <reference idRef="893"/>
+    <reference idRef="513"/>
+    <reference idRef="934"/>
+    <reference idRef="1102"/>
+    <reference idRef="513"/>
+    <reference idRef="957"/>
+    <reference idRef="538"/>
+    <reference idRef="513"/>
+    <reference idRef="893"/>
+    <reference idRef="965"/>
+    <reference idRef="932"/>
+    <reference idRef="965"/>
+    <reference idRef="1067"/>
+    <reference idRef="513"/>
+    <reference idRef="968"/>
+    <reference idRef="938"/>
+    <reference idRef="1101"/>
+    <reference idRef="1101"/>
+    <reference idRef="506"/>
+    <reference idRef="506"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="1067"/>
+    <reference idRef="893"/>
+    <reference idRef="513"/>
+    <reference idRef="976"/>
+    <reference idRef="936"/>
+    <reference idRef="886"/>
+    <reference idRef="893"/>
+    <reference idRef="538"/>
+    <reference idRef="938"/>
+    <reference idRef="893"/>
+    <reference idRef="1067"/>
+    <reference idRef="513"/>
+    <reference idRef="943"/>
+    <reference idRef="1067"/>
+    <reference idRef="1074"/>
+    <reference idRef="893"/>
+    <reference idRef="880"/>
+    <reference idRef="885"/>
+    <reference idRef="886"/>
+    <reference idRef="1"/>
+    <reference idRef="512"/>
+    <reference idRef="893"/>
+    <reference idRef="880"/>
+    <reference idRef="1101"/>
+    <reference idRef="893"/>
+    <reference idRef="880"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="505"/>
+    <reference idRef="1"/>
+    <reference idRef="506"/>
+    <reference idRef="960"/>
+    <reference idRef="1"/>
+    <reference idRef="181"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="1109"/>
+    <reference idRef="513"/>
+    <reference idRef="1"/>
+    <reference idRef="893"/>
+    <reference idRef="538"/>
+    <reference idRef="960"/>
+    <reference idRef="1"/>
+    <reference idRef="538"/>
+    <reference idRef="968"/>
+    <reference idRef="945"/>
+    <reference idRef="957"/>
+    <reference idRef="886"/>
+    <reference idRef="880"/>
+    <reference idRef="952"/>
+    <reference idRef="886"/>
+    <reference idRef="1101"/>
+    <reference idRef="960"/>
+    <reference idRef="893"/>
+    <reference idRef="538"/>
+    <reference idRef="506"/>
+    <reference idRef="513"/>
+    <reference idRef="1"/>
+    <reference idRef="893"/>
+    <reference idRef="1070"/>
+    <reference idRef="1"/>
+    <reference idRef="1109"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="513"/>
+    <reference idRef="181"/>
+    <reference idRef="945"/>
+    <reference idRef="1"/>
+    <reference idRef="506"/>
+    <reference idRef="976"/>
+    <reference idRef="1"/>
+    <reference idRef="949"/>
+    <reference idRef="513"/>
+    <reference idRef="952"/>
+    <reference idRef="942"/>
+    <reference idRef="952"/>
+    <reference idRef="886"/>
+    <reference idRef="1"/>
+    <reference idRef="893"/>
+    <reference idRef="513"/>
+    <reference idRef="935"/>
+    <reference idRef="893"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="893"/>
+    <reference idRef="938"/>
+    <reference idRef="1"/>
+    <reference idRef="960"/>
+    <reference idRef="882"/>
+    <reference idRef="1101"/>
+    <reference idRef="1101"/>
+    <reference idRef="942"/>
+    <reference idRef="538"/>
+    <reference idRef="893"/>
+    <reference idRef="1101"/>
+    <reference idRef="1"/>
+    <reference idRef="538"/>
+    <reference idRef="513"/>
+    <reference idRef="973"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="976"/>
+    <reference idRef="976"/>
+    <reference idRef="513"/>
+    <reference idRef="1118"/>
+    <reference idRef="893"/>
+    <reference idRef="1"/>
+    <reference idRef="893"/>
+    <reference idRef="513"/>
+    <reference idRef="513"/>
+    <reference idRef="1072"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="952"/>
+    <reference idRef="538"/>
+    <reference idRef="538"/>
+    <reference idRef="513"/>
+    <reference idRef="893"/>
+    <reference idRef="893"/>
+    <reference idRef="886"/>
+    <reference idRef="180"/>
+    <reference idRef="513"/>
+    <reference idRef="976"/>
+    <reference idRef="973"/>
+    <reference idRef="1074"/>
+    <reference idRef="949"/>
+  </array>
+  <dictionary count="17" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>betweenCriterionView</string>
+    <reference idRef="942"/>
+    <string>bitRateCriterionView</string>
+    <reference idRef="965"/>
+    <string>bitRateRangeCriterionView</string>
+    <reference idRef="968"/>
+    <string>mainWindow</string>
+    <reference idRef="180"/>
+    <string>popupCriterionView</string>
+    <reference idRef="934"/>
+    <string>primaryRuleGroup</string>
+    <reference idRef="1067"/>
+    <string>sampleRateCriterionView</string>
+    <reference idRef="949"/>
+    <string>sampleRateRangeCriterionView</string>
+    <reference idRef="952"/>
+    <string>singleRuleGroup</string>
+    <reference idRef="1101"/>
+    <string>singleRuleRow</string>
+    <reference idRef="880"/>
+    <string>sizeCriterionView</string>
+    <reference idRef="957"/>
+    <string>sizeRangeCriterionView</string>
+    <reference idRef="960"/>
+    <string>textCriterionView</string>
+    <reference idRef="932"/>
+    <string>textRangeCriterionView</string>
+    <reference idRef="938"/>
+    <string>userRatingCriterionView</string>
+    <reference idRef="973"/>
+    <string>userRatingRangeCriterionView</string>
+    <reference idRef="976"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">1121</unsigned_int>
+</object>

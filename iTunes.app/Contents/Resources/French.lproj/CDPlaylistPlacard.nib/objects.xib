@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="3" name="allObjects">
+    <object class="IBCarbonBevelButton" id="570">
+      <int name="controlID">3401</int>
+      <ostype name="command">CDIM</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">Importer le CD</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>301</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">484 12 92 22 </string>
+      <string name="bounds">12 484 34 576 </string>
+    </object>
+    <object class="IBCarbonHIView" id="566">
+      <int name="controlID">3400</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>1034</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 594 46 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonBevelButton" id="568">
+          <int name="controlID">3402</int>
+          <ostype name="command">CDSS</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Réglages d’importation…</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">329 12 147 22 </string>
+          <string name="bounds">12 329 34 476 </string>
+        </object>
+        <reference idRef="570"/>
+      </array>
+      <string name="bounds">0 0 46 594 </string>
+    </object>
+    <reference idRef="568"/>
+  </array>
+  <array count="3" name="allParents">
+    <reference idRef="566"/>
+    <reference idRef="1"/>
+    <reference idRef="566"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="566"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">580</unsigned_int>
+</object>

@@ -1,0 +1,3553 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="207" name="allObjects">
+    <object class="IBCarbonCheckBox" id="5385">
+      <int name="controlID">57</int>
+      <boolean name="hidden">TRUE</boolean>
+      <string name="title">J’ai lu et j’accepte le contrat de licence du logiciel iPhone.</string>
+      <string name="viewFrame">221 467 431 18 </string>
+      <string name="bounds">528 221 546 652 </string>
+    </object>
+    <object class="IBCarbonRootControl" id="4541">
+      <string name="viewFrame">0 0 800 359 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonHIView" id="4570">
+          <int name="controlID">100</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>frcl</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>aaaaaa</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 61 780 274 </string>
+          <array count="13" name="subviews">
+            <object class="IBCarbonStaticText" id="4577">
+              <int name="controlID">120</int>
+              <string name="title">Nom :</string>
+              <string name="viewFrame">229 43 46 20 </string>
+              <string name="bounds">104 229 124 275 </string>
+            </object>
+            <object class="IBCarbonEditText" id="4575">
+              <int name="controlID">121</int>
+              <boolean name="isUnicode">TRUE</boolean>
+              <boolean name="isSingleLine">TRUE</boolean>
+              <string name="title">iPod</string>
+              <string name="viewFrame">280 43 239 16 </string>
+              <string name="bounds">104 280 120 519 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="4572">
+              <int name="controlID">123</int>
+              <int name="controlSize">1</int>
+              <string name="title">iTunes peut synchroniser votre iPod automatiquement afin de calquer sa bibliothèque de musique et ses listes de lecture sur ce Mac chaque fois que vous le connectez.</string>
+              <string name="viewFrame">247 92 453 39 </string>
+              <string name="bounds">153 247 192 700 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="4576">
+              <int name="controlID">122</int>
+              <int name="initialState">1</int>
+              <string name="title">Synchroniser automatiquement les morceaux sur mon iPod</string>
+              <string name="viewFrame">229 71 481 18 </string>
+              <string name="bounds">132 229 150 710 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="4574">
+              <int name="controlID">126</int>
+              <string name="title">Ajouter automatiquement les photos sur cet iPod</string>
+              <string name="viewFrame">229 137 481 18 </string>
+              <string name="bounds">198 229 216 710 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="4571">
+              <int name="controlID">127</int>
+              <int name="controlSize">1</int>
+              <string name="title">iTunes va d’abord synchroniser toute votre musique sur votre iPod puis attribuer l’espace restant aux photos. Si cet espace est insuffisant, les photos seront copiées dans l’ordre indiqué dans l’onglet Photos des Préférences iPod.</string>
+              <string name="viewFrame">247 158 458 40 </string>
+              <string name="bounds">219 247 259 705 </string>
+            </object>
+            <object class="IBCarbonPicture" id="4573">
+              <int name="controlID">110</int>
+              <int name="contentResID">0</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">78 48 128 128 </string>
+              <string name="bounds">109 78 237 206 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="4627">
+              <int name="controlID">128</int>
+              <string name="title">Synchroniser les photos depuis :</string>
+              <string name="viewFrame">247 204 209 20 </string>
+              <string name="bounds">265 247 285 456 </string>
+            </object>
+            <object class="IBCarbonPopupButton" id="4628">
+              <int name="controlID">129</int>
+              <object name="menu" class="IBCarbonMenu" id="4629">
+                <string name="title">Menu local</string>
+                <array count="3" name="items">
+                  <object class="IBCarbonMenuItem" id="4631">
+                    <boolean name="checked">TRUE</boolean>
+                    <boolean name="updateSingleItem">TRUE</boolean>
+                    <string name="helpTagText"></string>
+                    <string name="extendedHelpTagText"></string>
+                  </object>
+                  <object class="IBCarbonMenuItem" id="4633">
+                    <string name="title">-(</string>
+                    <boolean name="updateSingleItem">TRUE</boolean>
+                    <string name="helpTagText"></string>
+                    <string name="extendedHelpTagText"></string>
+                  </object>
+                  <object class="IBCarbonMenuItem" id="4634">
+                    <string name="title">Choisir un dossier…</string>
+                    <boolean name="updateSingleItem">TRUE</boolean>
+                    <string name="helpTagText"></string>
+                    <string name="extendedHelpTagText"></string>
+                  </object>
+                </array>
+              </object>
+              <string name="viewFrame">464 203 174 20 </string>
+              <string name="bounds">264 464 284 638 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="4734">
+              <int name="controlID">119</int>
+              <boolean name="hidden">TRUE</boolean>
+              <int name="initialState">1</int>
+              <string name="title">Synchroniser automatiquement les morceaux et vidéos sur mon iPod</string>
+              <string name="viewFrame">229 71 502 18 </string>
+              <string name="bounds">132 229 150 731 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="5391">
+              <int name="controlID">118</int>
+              <string name="title">Synchroniser automatiquement les applications</string>
+              <string name="viewFrame">229 229 481 18 </string>
+              <string name="bounds">290 229 308 710 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="5395">
+              <int name="controlID">160</int>
+              <boolean name="hidden">TRUE</boolean>
+              <boolean name="autoToggle">FALSE</boolean>
+              <string name="title">Activer VoiceOver</string>
+              <string name="viewFrame">229 136 183 18 </string>
+              <string name="bounds">197 229 215 412 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5396">
+              <int name="controlID">161</int>
+              <boolean name="hidden">TRUE</boolean>
+              <int name="controlSize">1</int>
+              <string name="viewFrame">247 156 475 28 </string>
+              <string name="bounds">217 247 245 722 </string>
+            </object>
+          </array>
+          <string name="bounds">61 0 335 780 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 359 800 </string>
+    </object>
+    <object class="IBCarbonWindow" id="4670">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Bienvenue sur l’iPod</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="4671">
+        <string name="viewFrame">0 0 800 433 </string>
+        <array count="1" name="subviews">
+          <object class="IBCarbonHIView" id="4672">
+            <int name="controlID">60</int>
+            <string name="classID">com.apple.itunes.uiboxview</string>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="2">
+                <string>hook</string>
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="2">
+                <string>frcl</string>
+                <string>NOAX</string>
+              </array>
+              <string>types</string>
+              <array count="2">
+                <string>1</string>
+                <string>2</string>
+              </array>
+              <string>values</string>
+              <array count="2">
+                <string>aaaaaa</string>
+                <string>true</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 61 780 352 </string>
+            <array count="6" name="subviews">
+              <object class="IBCarbonStaticText" id="4684">
+                <int name="controlID">63</int>
+                <int name="controlSize">1</int>
+                <string name="title">Enregistrez votre iPod pour recevoir les informations importantes concernant votre nouvel iPod et obtenir un accès plus rapide au service d’assistance client.</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3008</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">387 131 339 72 </string>
+                <string name="bounds">192 387 264 726 </string>
+              </object>
+              <object class="IBCarbonPicture" id="4677">
+                <int name="controlID">69</int>
+                <int name="contentResID">3037</int>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>NOAX</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>2</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>true</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">62 90 265 189 </string>
+                <string name="bounds">151 62 340 327 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="4686">
+                <string name="title">Pour commencer :</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3006</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">362 62 351 27 </string>
+                <string name="bounds">123 362 150 713 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="4687">
+                <int name="controlID">61</int>
+                <string name="title">1. Enregistrez votre iPod</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3007</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">362 106 351 24 </string>
+                <string name="bounds">167 362 191 713 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="4688">
+                <int name="controlID">65</int>
+                <string name="title">2. Configurez votre compte iTunes Store</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3007</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">362 211 398 24 </string>
+                <string name="bounds">272 362 296 760 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="4689">
+                <int name="controlID">67</int>
+                <int name="controlSize">1</int>
+                <string name="title">Visualisez et téléchargez instantanément vos favoris, jour et nuit (le cas échéant).</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3008</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">387 236 351 76 </string>
+                <string name="bounds">297 387 373 738 </string>
+              </object>
+            </array>
+            <string name="bounds">61 0 413 780 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 433 800 </string>
+      </object>
+      <string name="windowRect">133 149 566 949 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4625">
+      <int name="controlID">141</int>
+      <int name="controlSize">1</int>
+      <string name="title">iTunes va automatiquement remplir votre téléphone portable avec une sélection aléatoire de morceaux provenant de votre bibliothèque. Vous pouvez effectuer une sélection différente en cliquant sur « Remplissage auto » dans la liste de lecture du téléphone.</string>
+      <string name="viewFrame">247 96 453 55 </string>
+      <string name="bounds">157 247 212 700 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="5338">
+      <int name="controlID">313</int>
+      <int name="fontStyle">5</int>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">OK</string>
+      <string name="viewFrame">694 280 76 22 </string>
+      <string name="bounds">284 709 306 785 </string>
+    </object>
+    <object class="IBCarbonEditText" id="5322">
+      <int name="controlID">214</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="viewFrame">227 82 306 16 </string>
+      <string name="bounds">167 304 183 610 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5357">
+      <int name="controlID">301</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>NOAX</string>
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>true</string>
+          <string>302</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 16 810 327 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5358">
+          <int name="controlID">302</int>
+          <int name="featureBits">2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">15 4 780 303 </string>
+          <array count="3" name="subviews">
+            <object class="IBCarbonHIView" id="5360">
+              <int name="controlID">308</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>frcl</string>
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>aaaaaa</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">0 61 780 208 </string>
+              <array count="1" name="subviews">
+                <object class="IBCarbonUserPane" id="5361">
+                  <int name="controlID">302</int>
+                  <int name="featureBits">2</int>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>NOAX</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>true</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">89 13 602 175 </string>
+                  <array count="2" name="subviews">
+                    <object class="IBCarbonStaticText" id="5363">
+                      <int name="controlID">311</int>
+                      <string name="title">Votre télécommande peut maintenant contrôler iTunes.</string>
+                      <string name="viewFrame">179 66 380 55 </string>
+                      <string name="bounds">144 283 199 663 </string>
+                    </object>
+                    <object class="IBCarbonPicture" id="5362">
+                      <int name="controlID">312</int>
+                      <int name="contentResID">0</int>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>NOAX</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">5 25 128 128 </string>
+                      <string name="bounds">103 109 231 237 </string>
+                    </object>
+                  </array>
+                  <string name="bounds">78 104 253 706 </string>
+                </object>
+              </array>
+              <string name="bounds">65 15 273 795 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5365">
+              <int name="controlID">109</int>
+              <string name="title">Ajouter Remote pour l’iPhone et l’iPod touch</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3005</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">10 32 700 23 </string>
+              <string name="bounds">36 25 59 725 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5364">
+              <int name="controlID">313</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">OK</string>
+              <string name="viewFrame">694 272 76 22 </string>
+              <string name="bounds">276 709 298 785 </string>
+            </object>
+          </array>
+          <string name="bounds">4 15 307 795 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 327 810 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4581">
+      <int name="controlID">200</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 230 </string>
+      <array count="9" name="subviews">
+        <object class="IBCarbonStaticText" id="4589">
+          <int name="controlID">211</int>
+          <string name="title">Un iPhone a déjà été synchronisé avec cet ordinateur.</string>
+          <string name="viewFrame">244 48 460 20 </string>
+          <string name="bounds">109 244 129 704 </string>
+        </object>
+        <object class="IBCarbonPicture" id="4591">
+          <int name="controlID">210</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">78 48 128 128 </string>
+          <string name="bounds">109 78 237 206 </string>
+        </object>
+        <object class="IBCarbonRadioButton" id="4582">
+          <int name="controlID">213</int>
+          <int name="initialState">1</int>
+          <string name="title">Restaurer à partir de la sauvegarde :</string>
+          <string name="viewFrame">244 101 432 19 </string>
+          <string name="bounds">162 244 181 676 </string>
+        </object>
+        <object class="IBCarbonRadioButton" id="4583">
+          <int name="controlID">212</int>
+          <string name="title">Configurer comme nouvel iPhone</string>
+          <string name="viewFrame">244 76 432 19 </string>
+          <string name="bounds">137 244 156 676 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4584">
+          <int name="controlID">220</int>
+          <int name="fontStyle">4</int>
+          <string name="title">Numéro de téléphone :</string>
+          <int name="justification">-1</int>
+          <string name="viewFrame">249 134 178 20 </string>
+          <string name="bounds">195 249 215 427 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4585">
+          <int name="controlID">221</int>
+          <string name="viewFrame">437 134 209 20 </string>
+          <string name="bounds">195 437 215 646 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="4586">
+          <int name="controlID">214</int>
+          <object name="menu" class="IBCarbonMenu" id="4587">
+            <string name="title">Menu local</string>
+            <array count="1" name="items">
+              <object class="IBCarbonMenuItem" id="4588">
+                <boolean name="checked">TRUE</boolean>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <string name="helpTagText"></string>
+                <string name="extendedHelpTagText"></string>
+              </object>
+            </array>
+          </object>
+          <string name="viewFrame">497 100 200 20 </string>
+          <string name="bounds">161 497 181 697 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4590">
+          <int name="controlID">222</int>
+          <int name="fontStyle">4</int>
+          <string name="title">Dernière synchronisation :</string>
+          <int name="justification">-1</int>
+          <string name="viewFrame">232 156 195 20 </string>
+          <string name="bounds">217 232 237 427 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4592">
+          <int name="controlID">223</int>
+          <string name="viewFrame">437 156 209 20 </string>
+          <string name="bounds">217 437 237 646 </string>
+        </object>
+      </array>
+      <string name="bounds">61 0 291 780 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5390">
+      <int name="controlID">117</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="controlSize">1</int>
+      <string name="title">iTunes peut automatiquement synchroniser votre iPhone avec les contacts de votre Carnet d’adresses, vos calendriers iCal et vos signets Safari à chaque fois que vous vous connectez à ce Mac.</string>
+      <string name="viewFrame">182 108 578 44 </string>
+      <string name="bounds">169 182 213 760 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4703">
+      <int name="controlID">60</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 352 </string>
+      <array count="6" name="subviews">
+        <object class="IBCarbonStaticText" id="4708">
+          <int name="controlID">63</int>
+          <int name="controlSize">1</int>
+          <string name="title">Choisissez un nom pour votre iPod et indiquez quels éléments vous souhaitez qu’iTunes synchronise automatiquement lorsque vous branchez votre iPod sur cet ordinateur.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">371 133 342 72 </string>
+          <string name="bounds">194 371 266 713 </string>
+        </object>
+        <object class="IBCarbonPicture" id="4709">
+          <int name="controlID">69</int>
+          <int name="contentResID">3037</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">57 90 265 189 </string>
+          <string name="bounds">151 57 340 322 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4710">
+          <string name="title">Pour commencer :</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3006</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">352 62 351 25 </string>
+          <string name="bounds">123 352 148 703 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4705">
+          <int name="controlID">61</int>
+          <string name="title">1. Configurez votre iPod</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3009</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">352 108 367 20 </string>
+          <string name="bounds">169 352 189 719 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4704">
+          <int name="controlID">65</int>
+          <string name="title">2. Enregistrez et configurez votre compte iTunes Store</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3009</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">352 209 367 20 </string>
+          <string name="bounds">270 352 290 719 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4711">
+          <int name="controlID">67</int>
+          <int name="controlSize">1</int>
+          <string name="title">Si une connexion Internet est disponible la prochaine fois que vous synchronisez votre iPod, il vous sera demandé d’enregistrer votre iPod et de configurer votre compte iTunes Store (le cas échéant).</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">371 234 342 76 </string>
+          <string name="bounds">295 371 371 713 </string>
+        </object>
+      </array>
+      <string name="bounds">61 0 413 780 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5353">
+      <int name="controlID">109</int>
+      <string name="title">Ajouter Remote pour l’iPhone et l’iPod touch</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3005</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">10 32 700 23 </string>
+      <string name="bounds">36 25 59 725 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5325">
+      <int name="controlID">213</int>
+      <int name="controlSize">1</int>
+      <string name="title">Veuillez saisir un nom pour l’Apple TV :</string>
+      <string name="viewFrame">195 54 380 17 </string>
+      <string name="bounds">139 272 156 652 </string>
+    </object>
+    <reference idRef="4585"/>
+    <object class="IBCarbonUserPane" id="5333">
+      <int name="controlID">302</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">89 13 602 184 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonStaticText" id="5335">
+          <int name="controlID">311</int>
+          <string name="title">Votre Apple TV est prête à diffuser des données en continu depuis cette bibliothèque iTunes.</string>
+          <string name="viewFrame">214 56 314 55 </string>
+          <string name="bounds">138 318 193 632 </string>
+        </object>
+        <object class="IBCarbonPicture" id="5334">
+          <int name="controlID">312</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">25 20 128 128 </string>
+          <string name="bounds">102 129 230 257 </string>
+        </object>
+      </array>
+      <string name="bounds">82 104 266 706 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="5393">
+      <int name="controlID">114</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="initialState">1</int>
+      <string name="title">Synchroniser automatiquement les contacts, les calendriers, les signets, les notes et les comptes de messagerie</string>
+      <string name="viewFrame">164 65 592 34 </string>
+      <string name="bounds">126 164 160 756 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4604">
+      <int name="controlID">31</int>
+      <string name="title">Configurer votre iPod</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3005</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">10 30 398 23 </string>
+      <string name="bounds">50 25 73 423 </string>
+    </object>
+    <reference idRef="4687"/>
+    <object class="IBCarbonStaticText" id="4664">
+      <int name="controlID">35</int>
+      <string name="title">Bienvenue sur votre nouvel iPod</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3005</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">10 30 398 23 </string>
+      <string name="bounds">50 25 73 423 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5341">
+      <int name="controlID">152</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="controlSize">1</int>
+      <string name="title">Pour synchroniser du contenu sur votre iPhone, modifiez les réglages de chaque onglet sur l’écran suivant.</string>
+      <string name="viewFrame">164 160 596 26 </string>
+      <string name="bounds">221 164 247 760 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4560">
+      <int name="controlID">222</int>
+      <int name="fontStyle">4</int>
+      <string name="title">Dernière synchronisation :</string>
+      <int name="justification">-1</int>
+      <string name="viewFrame">214 142 213 20 </string>
+      <string name="bounds">203 214 223 427 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="5304">
+      <int name="controlID">102</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">15 4 780 318 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="5305">
+          <int name="controlID">110</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>frcl</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>aaaaaa</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 65 780 205 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonUserPane" id="5306">
+              <int name="controlID">111</int>
+              <int name="featureBits">2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">68 20 644 175 </string>
+              <array count="3" name="subviews">
+                <object class="IBCarbonStaticText" id="5307">
+                  <int name="controlID">112</int>
+                  <string name="title">Veuillez saisir le code qui s’affiche sur l’Apple TV afin de permettre à iTunes de synchroniser vos données ou de les diffuser.</string>
+                  <string name="viewFrame">108 12 429 48 </string>
+                  <string name="bounds">101 191 149 620 </string>
+                </object>
+                <object class="IBCarbonHIView" id="5308">
+                  <int name="controlID">115</int>
+                  <string name="classID">com.apple.itunes.UICodeEntryView</string>
+                  <string name="viewFrame">215 68 214 44 </string>
+                  <string name="bounds">157 298 201 512 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="5309">
+                  <int name="controlID">116</int>
+                  <boolean name="hidden">TRUE</boolean>
+                  <int name="controlSize">1</int>
+                  <string name="title">Le code saisi est incorrect. Veuillez réessayer.</string>
+                  <int name="justification">1</int>
+                  <string name="viewFrame">132 138 380 20 </string>
+                  <string name="bounds">227 215 247 595 </string>
+                </object>
+              </array>
+              <string name="bounds">89 83 264 727 </string>
+            </object>
+          </array>
+          <string name="bounds">69 15 274 795 </string>
+        </object>
+        <object class="IBCarbonPicture" id="5311">
+          <int name="controlID">520</int>
+          <int name="contentResID">3030</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">193 32 40 19 </string>
+          <string name="bounds">36 208 55 248 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5310">
+          <int name="controlID">109</int>
+          <string name="title">Configurez votre</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3005</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">10 32 186 23 </string>
+          <string name="bounds">36 25 59 211 </string>
+        </object>
+      </array>
+      <string name="bounds">4 15 322 795 </string>
+    </object>
+    <object class="IBCarbonRootControl" id="4702">
+      <string name="viewFrame">0 0 800 433 </string>
+      <array count="1" name="subviews">
+        <reference idRef="4703"/>
+      </array>
+      <string name="bounds">0 0 433 800 </string>
+    </object>
+    <reference idRef="4627"/>
+    <reference idRef="4704"/>
+    <reference idRef="5363"/>
+    <object class="IBCarbonHIView" id="5351">
+      <int name="controlID">115</int>
+      <string name="classID">com.apple.itunes.UICodeEntryView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>ccnt</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>4</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">215 68 214 44 </string>
+      <string name="bounds">153 298 197 512 </string>
+    </object>
+    <object class="IBCarbonEditText" id="4611">
+      <int name="controlID">121</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="title">iPod</string>
+      <string name="viewFrame">280 43 239 16 </string>
+      <string name="bounds">104 280 120 519 </string>
+    </object>
+    <reference idRef="4633"/>
+    <reference idRef="5309"/>
+    <object class="IBCarbonRootControl" id="5301">
+      <string name="viewFrame">0 0 932 795 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5302">
+          <int name="controlID">100</int>
+          <int name="featureBits">2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 -16 810 350 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonHIView" id="5303">
+              <int name="controlID">101</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>NOAX</string>
+                  <string>cenV</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>2</string>
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>true</string>
+                  <string>102</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">0 16 810 327 </string>
+              <array count="1" name="subviews">
+                <reference idRef="5304"/>
+              </array>
+              <string name="bounds">0 0 327 810 </string>
+            </object>
+          </array>
+          <string name="bounds">-16 0 334 810 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 795 932 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5394">
+      <int name="controlID">115</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="controlSize">1</int>
+      <string name="title">iTunes peut automatiquement synchroniser votre iPhone avec les contacts de votre Carnet d’adresses, vos calendriers iCal, vos signets Safari, vos notes et vos comptes Mail chaque fois que vous vous connectez à ce Mac.</string>
+      <string name="viewFrame">182 108 554 44 </string>
+      <string name="bounds">169 182 213 736 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="4624">
+      <int name="controlID">142</int>
+      <string name="title">Activer l’utilisation comme disque dur</string>
+      <string name="viewFrame">229 155 481 18 </string>
+      <string name="bounds">216 229 234 710 </string>
+    </object>
+    <reference idRef="4705"/>
+    <object class="IBCarbonHIView" id="5315">
+      <int name="controlID">201</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>NOAX</string>
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>true</string>
+          <string>202</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 16 810 327 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5316">
+          <int name="controlID">202</int>
+          <int name="featureBits">2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">15 4 780 303 </string>
+          <array count="4" name="subviews">
+            <object class="IBCarbonHIView" id="5319">
+              <int name="controlID">208</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>frcl</string>
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>aaaaaa</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">0 65 780 217 </string>
+              <array count="1" name="subviews">
+                <object class="IBCarbonUserPane" id="5320">
+                  <int name="controlID">202</int>
+                  <int name="featureBits">2</int>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>NOAX</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>true</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">62 16 656 167 </string>
+                  <array count="5" name="subviews">
+                    <object class="IBCarbonStaticText" id="5324">
+                      <int name="controlID">212</int>
+                      <string name="title">Donnez un nom à votre Apple TV</string>
+                      <string name="viewFrame">195 28 231 20 </string>
+                      <string name="bounds">113 272 133 503 </string>
+                    </object>
+                    <reference idRef="5322"/>
+                    <object class="IBCarbonStaticText" id="5323">
+                      <int name="controlID">112</int>
+                      <int name="controlSize">1</int>
+                      <string name="title">iTunes lancera la synchronisation de vos données avec l’Apple TV dès que vous cliquerez sur OK.</string>
+                      <string name="viewFrame">195 109 380 31 </string>
+                      <string name="bounds">194 272 225 652 </string>
+                    </object>
+                    <reference idRef="5325"/>
+                    <object class="IBCarbonPicture" id="5321">
+                      <int name="controlID">211</int>
+                      <int name="contentResID">0</int>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>NOAX</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">31 19 128 128 </string>
+                      <string name="bounds">104 108 232 236 </string>
+                    </object>
+                  </array>
+                  <string name="bounds">85 77 252 733 </string>
+                </object>
+              </array>
+              <string name="bounds">69 15 286 795 </string>
+            </object>
+            <object class="IBCarbonPicture" id="5326">
+              <int name="controlID">520</int>
+              <int name="contentResID">3030</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">193 32 40 19 </string>
+              <string name="bounds">36 208 55 248 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5318">
+              <int name="controlID">109</int>
+              <string name="title">Configurez votre</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3005</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">10 32 186 23 </string>
+              <string name="bounds">36 25 59 211 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="5317">
+              <int name="controlID">219</int>
+              <int name="fontStyle">5</int>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="textPlacement">3</int>
+              <boolean name="rounded">TRUE</boolean>
+              <string name="title">OK</string>
+              <string name="viewFrame">694 280 76 22 </string>
+              <string name="bounds">284 709 306 785 </string>
+            </object>
+          </array>
+          <string name="bounds">4 15 307 795 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 327 810 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5348">
+      <int name="controlID">110</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 205 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5349">
+          <int name="controlID">111</int>
+          <int name="featureBits">2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">68 20 644 175 </string>
+          <array count="3" name="subviews">
+            <object class="IBCarbonStaticText" id="5350">
+              <int name="controlID">112</int>
+              <string name="title">Veuillez taper le code affiché sur votre télécommande pour l’autoriser à contrôler iTunes.</string>
+              <string name="viewFrame">133 12 380 40 </string>
+              <string name="bounds">97 216 137 596 </string>
+            </object>
+            <reference idRef="5351"/>
+            <object class="IBCarbonStaticText" id="5352">
+              <int name="controlID">116</int>
+              <boolean name="hidden">TRUE</boolean>
+              <int name="controlSize">1</int>
+              <string name="title">Le code saisi est incorrect. Veuillez réessayer.</string>
+              <int name="justification">1</int>
+              <string name="viewFrame">132 138 380 20 </string>
+              <string name="bounds">223 215 243 595 </string>
+            </object>
+          </array>
+          <string name="bounds">85 83 260 727 </string>
+        </object>
+      </array>
+      <string name="bounds">65 15 270 795 </string>
+    </object>
+    <object class="IBCarbonWindow" id="5376">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Bienvenue sur l’iPhone hors ligne</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="5377">
+        <string name="viewFrame">0 0 800 433 </string>
+        <array count="1" name="subviews">
+          <object class="IBCarbonHIView" id="5378">
+            <int name="controlID">60</int>
+            <string name="classID">com.apple.itunes.uiboxview</string>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="2">
+                <string>hook</string>
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="2">
+                <string>frcl</string>
+                <string>NOAX</string>
+              </array>
+              <string>types</string>
+              <array count="2">
+                <string>1</string>
+                <string>2</string>
+              </array>
+              <string>values</string>
+              <array count="2">
+                <string>aaaaaa</string>
+                <string>true</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 61 780 336 </string>
+            <array count="6" name="subviews">
+              <object class="IBCarbonStaticText" id="5382">
+                <int name="controlID">63</int>
+                <int name="controlSize">1</int>
+                <string name="title">Choisissez un nom pour votre iPhone et indiquez quels éléments vous souhaitez qu’iTunes synchronise automatiquement lorsque vous branchez votre iPhone sur cet ordinateur.</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3008</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">263 133 368 66 </string>
+                <string name="bounds">194 263 260 631 </string>
+              </object>
+              <object class="IBCarbonPicture" id="5380">
+                <int name="controlID">69</int>
+                <int name="contentResID">3038</int>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>NOAX</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>2</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>true</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">57 42 146 252 </string>
+                <string name="bounds">103 57 355 203 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="5381">
+                <string name="title">Pour commencer :</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3006</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">244 63 351 25 </string>
+                <string name="bounds">124 244 149 595 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="5383">
+                <int name="controlID">61</int>
+                <string name="title">1. Configurez votre iPhone</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3009</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">244 108 367 20 </string>
+                <string name="bounds">169 244 189 611 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="5379">
+                <int name="controlID">65</int>
+                <string name="title">2. Enregistrez et configurez votre compte iTunes Store</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3009</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">244 200 367 20 </string>
+                <string name="bounds">261 244 281 611 </string>
+              </object>
+              <object class="IBCarbonStaticText" id="5384">
+                <int name="controlID">67</int>
+                <int name="controlSize">1</int>
+                <string name="title">Si une connexion Internet est disponible la prochaine fois que vous synchronisez votre iPhone, il vous sera demandé d’enregistrer ce dernier et de configurer votre compte iTunes Store (le cas échéant).</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>7</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>3008</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">263 225 391 67 </string>
+                <string name="bounds">286 263 353 654 </string>
+              </object>
+            </array>
+            <string name="bounds">61 0 397 780 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 433 800 </string>
+      </object>
+      <string name="windowRect">159 270 592 1070 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="5303"/>
+    <reference idRef="4582"/>
+    <object class="IBCarbonCheckBox" id="4626">
+      <int name="controlID">140</int>
+      <int name="initialState">1</int>
+      <string name="title">Choisir automatiquement les morceaux pour mon téléphone portable</string>
+      <string name="viewFrame">229 76 481 18 </string>
+      <string name="bounds">137 229 155 710 </string>
+    </object>
+    <object class="IBCarbonRootControl" id="4481">
+      <string name="viewFrame">0 0 830 670 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="4482">
+          <int name="controlID">10</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">0 0 810 650 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonHIView" id="4483">
+              <int name="controlID">11</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>cenV</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>12</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">0 16 810 630 </string>
+              <array count="1" name="subviews">
+                <object class="IBCarbonUserPane" id="4484">
+                  <int name="controlID">12</int>
+                  <int name="featureBits">2</int>
+                  <string name="viewFrame">15 4 780 616 </string>
+                  <array count="13" name="subviews">
+                    <object class="IBCarbonBevelButton" id="4499">
+                      <int name="controlID">41</int>
+                      <int name="fontStyle">5</int>
+                      <int name="bevelThickness">1</int>
+                      <int name="contentType">0</int>
+                      <int name="textPlacement">3</int>
+                      <boolean name="rounded">TRUE</boolean>
+                      <string name="title">Continuer</string>
+                      <string name="viewFrame">672 588 98 22 </string>
+                      <string name="bounds">608 687 630 785 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="4485">
+                      <int name="controlID">32</int>
+                      <string name="title">Configurer votre iPhone</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>TXTS</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>7</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>3005</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">10 30 398 23 </string>
+                      <string name="bounds">50 25 73 423 </string>
+                    </object>
+                    <object class="IBCarbonBevelButton" id="4557">
+                      <int name="controlID">40</int>
+                      <int name="fontStyle">5</int>
+                      <int name="bevelThickness">1</int>
+                      <int name="contentType">0</int>
+                      <int name="textPlacement">3</int>
+                      <boolean name="rounded">TRUE</boolean>
+                      <string name="title">Terminé</string>
+                      <string name="viewFrame">672 588 98 22 </string>
+                      <string name="bounds">608 687 630 785 </string>
+                    </object>
+                    <reference idRef="4604"/>
+                    <object class="IBCarbonStaticText" id="4605">
+                      <int name="controlID">33</int>
+                      <string name="title">Configurer votre téléphone portable</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>TXTS</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>7</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>3005</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">10 30 398 23 </string>
+                      <string name="bounds">50 25 73 423 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="4635">
+                      <int name="controlID">34</int>
+                      <string name="title">Contrat de licence du logiciel de l’iPod</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>TXTS</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>7</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>3005</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">10 30 398 23 </string>
+                      <string name="bounds">50 25 73 423 </string>
+                    </object>
+                    <object class="IBCarbonBevelButton" id="4637">
+                      <int name="controlID">44</int>
+                      <int name="fontStyle">5</int>
+                      <int name="bevelThickness">1</int>
+                      <int name="contentType">0</int>
+                      <int name="textPlacement">3</int>
+                      <boolean name="rounded">TRUE</boolean>
+                      <string name="title">Annuler</string>
+                      <string name="viewFrame">10 588 98 22 </string>
+                      <string name="bounds">608 25 630 123 </string>
+                    </object>
+                    <object class="IBCarbonBevelButton" id="4638">
+                      <int name="controlID">45</int>
+                      <int name="fontStyle">5</int>
+                      <int name="bevelThickness">1</int>
+                      <int name="contentType">0</int>
+                      <int name="textPlacement">3</int>
+                      <boolean name="rounded">TRUE</boolean>
+                      <string name="title">Enregistrer</string>
+                      <string name="viewFrame">171 588 98 22 </string>
+                      <string name="bounds">608 186 630 284 </string>
+                    </object>
+                    <reference idRef="4664"/>
+                    <object class="IBCarbonBevelButton" id="4665">
+                      <int name="controlID">47</int>
+                      <int name="fontStyle">5</int>
+                      <int name="bevelThickness">1</int>
+                      <int name="contentType">0</int>
+                      <int name="textPlacement">3</int>
+                      <boolean name="rounded">TRUE</boolean>
+                      <string name="title">Ne jamais enregistrer</string>
+                      <string name="viewFrame">10 588 162 22 </string>
+                      <string name="bounds">608 25 630 187 </string>
+                    </object>
+                    <object class="IBCarbonBevelButton" id="4666">
+                      <int name="controlID">46</int>
+                      <int name="fontStyle">5</int>
+                      <int name="bevelThickness">1</int>
+                      <int name="contentType">0</int>
+                      <int name="textPlacement">3</int>
+                      <boolean name="rounded">TRUE</boolean>
+                      <string name="title">Enregistrer plus tard</string>
+                      <string name="viewFrame">498 588 164 22 </string>
+                      <string name="bounds">608 513 630 677 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="5366">
+                      <int name="controlID">36</int>
+                      <string name="title">Bienvenue sur votre nouvel iPhone</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>TXTS</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>7</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>3005</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">10 30 398 23 </string>
+                      <string name="bounds">50 25 73 423 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="5387">
+                      <int name="controlID">37</int>
+                      <string name="title">Contrat de licence du logiciel iPhone</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>TXTS</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>7</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>3005</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">10 30 398 23 </string>
+                      <string name="bounds">50 25 73 423 </string>
+                    </object>
+                  </array>
+                  <string name="bounds">20 15 636 795 </string>
+                </object>
+              </array>
+              <string name="bounds">16 0 646 810 </string>
+            </object>
+          </array>
+          <string name="bounds">0 0 650 810 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 670 830 </string>
+    </object>
+    <reference idRef="4590"/>
+    <reference idRef="5366"/>
+    <reference idRef="5387"/>
+    <object class="IBCarbonHIView" id="4619">
+      <int name="controlID">100</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 230 </string>
+      <array count="7" name="subviews">
+        <object class="IBCarbonStaticText" id="4622">
+          <int name="controlID">120</int>
+          <string name="title">Nom :</string>
+          <string name="viewFrame">229 43 46 20 </string>
+          <string name="bounds">104 229 124 275 </string>
+        </object>
+        <object class="IBCarbonEditText" id="4623">
+          <int name="controlID">121</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="viewFrame">280 43 239 16 </string>
+          <string name="bounds">104 280 120 519 </string>
+        </object>
+        <reference idRef="4625"/>
+        <reference idRef="4626"/>
+        <reference idRef="4624"/>
+        <object class="IBCarbonStaticText" id="4621">
+          <int name="controlID">143</int>
+          <int name="controlSize">1</int>
+          <string name="title">Vous permet d’utiliser votre téléphone portable en tant que disque amovible. Vous pouvez ainsi y stocker n’importe quel type de fichier.</string>
+          <string name="viewFrame">247 176 458 36 </string>
+          <string name="bounds">237 247 273 705 </string>
+        </object>
+        <object class="IBCarbonPicture" id="4620">
+          <int name="controlID">110</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">78 48 128 128 </string>
+          <string name="bounds">109 78 237 206 </string>
+        </object>
+      </array>
+      <string name="bounds">61 0 291 780 </string>
+    </object>
+    <reference idRef="4586"/>
+    <reference idRef="4677"/>
+    <object class="IBCarbonRadioButton" id="4568">
+      <int name="controlID">213</int>
+      <int name="initialState">1</int>
+      <string name="title">Restaurer à partir de la sauvegarde :</string>
+      <string name="viewFrame">244 101 429 19 </string>
+      <string name="bounds">162 244 181 673 </string>
+    </object>
+    <reference idRef="5318"/>
+    <object class="IBCarbonWindow" id="4480">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Assistant réglages iPod</string>
+      <reference name="rootControl" idRef="4481"/>
+      <string name="windowRect">219 141 889 971 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="4711"/>
+    <reference idRef="5361"/>
+    <object class="IBCarbonWindow" id="5342">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Configuration de la télécommande</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="5343">
+        <string name="viewFrame">0 0 932 795 </string>
+        <array count="1" name="subviews">
+          <object class="IBCarbonUserPane" id="5344">
+            <int name="controlID">100</int>
+            <int name="featureBits">2</int>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="1">
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="1">
+                <string>NOAX</string>
+              </array>
+              <string>types</string>
+              <array count="1">
+                <string>2</string>
+              </array>
+              <string>values</string>
+              <array count="1">
+                <string>true</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 -16 810 350 </string>
+            <array count="1" name="subviews">
+              <object class="IBCarbonHIView" id="5345">
+                <int name="controlID">101</int>
+                <string name="classID">com.apple.itunes.uiboxview</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="2">
+                    <string>hook</string>
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="2">
+                    <string>NOAX</string>
+                    <string>cenV</string>
+                  </array>
+                  <string>types</string>
+                  <array count="2">
+                    <string>2</string>
+                    <string>6</string>
+                  </array>
+                  <string>values</string>
+                  <array count="2">
+                    <string>true</string>
+                    <string>102</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">0 16 810 327 </string>
+                <array count="1" name="subviews">
+                  <object class="IBCarbonUserPane" id="5346">
+                    <int name="controlID">102</int>
+                    <int name="featureBits">2</int>
+                    <dictionary count="4" name="auxiliaryDictionary">
+                      <string>creators</string>
+                      <array count="1">
+                        <string>hook</string>
+                      </array>
+                      <string>tags</string>
+                      <array count="1">
+                        <string>NOAX</string>
+                      </array>
+                      <string>types</string>
+                      <array count="1">
+                        <string>2</string>
+                      </array>
+                      <string>values</string>
+                      <array count="1">
+                        <string>true</string>
+                      </array>
+                    </dictionary>
+                    <string name="viewFrame">15 4 780 318 </string>
+                    <array count="2" name="subviews">
+                      <reference idRef="5348"/>
+                      <reference idRef="5353"/>
+                    </array>
+                    <string name="bounds">4 15 322 795 </string>
+                  </object>
+                </array>
+                <string name="bounds">0 0 327 810 </string>
+              </object>
+            </array>
+            <string name="bounds">-16 0 334 810 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 795 932 </string>
+      </object>
+      <string name="windowRect">72 99 867 1031 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonRootControl" id="4618">
+      <string name="viewFrame">0 0 800 311 </string>
+      <array count="1" name="subviews">
+        <reference idRef="4619"/>
+      </array>
+      <string name="bounds">0 0 311 800 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4609">
+      <int name="controlID">100</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 230 </string>
+      <array count="7" name="subviews">
+        <object class="IBCarbonStaticText" id="4610">
+          <int name="controlID">120</int>
+          <string name="title">Nom :</string>
+          <string name="viewFrame">229 43 46 20 </string>
+          <string name="bounds">104 229 124 275 </string>
+        </object>
+        <reference idRef="4611"/>
+        <object class="IBCarbonStaticText" id="4612">
+          <int name="controlID">141</int>
+          <int name="controlSize">1</int>
+          <string name="title">iTunes va automatiquement remplir votre iPod avec une sélection aléatoire de morceaux provenant de votre bibliothèque. Vous pouvez effectuer une sélection différente en cliquant sur « Remplissage auto » dans la liste de lecture de l’iPod.</string>
+          <string name="viewFrame">247 98 453 44 </string>
+          <string name="bounds">159 247 203 700 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="4613">
+          <int name="controlID">140</int>
+          <int name="initialState">1</int>
+          <string name="title">Choisir automatiquement les morceaux pour mon iPod</string>
+          <string name="viewFrame">229 78 481 18 </string>
+          <string name="bounds">139 229 157 710 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="4614">
+          <int name="controlID">142</int>
+          <boolean name="enabled">FALSE</boolean>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="title">Activer l’utilisation comme disque dur</string>
+          <string name="viewFrame">229 144 481 18 </string>
+          <string name="bounds">205 229 223 710 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4615">
+          <int name="controlID">143</int>
+          <boolean name="enabled">FALSE</boolean>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="controlSize">1</int>
+          <string name="title">Vous permet d’utiliser votre iPod en tant que disque amovible. Vous pouvez ainsi y stocker n’importe quel type de fichier.</string>
+          <string name="viewFrame">247 164 458 40 </string>
+          <string name="bounds">225 247 265 705 </string>
+        </object>
+        <object class="IBCarbonPicture" id="4616">
+          <int name="controlID">110</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">78 48 128 128 </string>
+          <string name="bounds">109 78 237 206 </string>
+        </object>
+      </array>
+      <string name="bounds">61 0 291 780 </string>
+    </object>
+    <reference idRef="5324"/>
+    <object class="IBCarbonRadioButton" id="4562">
+      <int name="controlID">212</int>
+      <string name="title">Configurer comme nouvel iPod</string>
+      <string name="viewFrame">244 76 429 19 </string>
+      <string name="bounds">137 244 156 673 </string>
+    </object>
+    <reference idRef="5381"/>
+    <reference idRef="5383"/>
+    <reference idRef="4575"/>
+    <object class="IBCarbonRootControl" id="4594">
+      <string name="viewFrame">0 0 800 311 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonHIView" id="4595">
+          <int name="controlID">100</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>frcl</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>aaaaaa</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 61 780 230 </string>
+          <array count="14" name="subviews">
+            <object class="IBCarbonEditText" id="4601">
+              <int name="controlID">121</int>
+              <boolean name="isUnicode">TRUE</boolean>
+              <boolean name="isSingleLine">TRUE</boolean>
+              <string name="title">iPhone</string>
+              <string name="viewFrame">215 43 239 16 </string>
+              <string name="bounds">104 215 120 454 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="4600">
+              <int name="controlID">120</int>
+              <string name="title">Nom :</string>
+              <string name="viewFrame">164 43 46 20 </string>
+              <string name="bounds">104 164 124 210 </string>
+            </object>
+            <object class="IBCarbonPicture" id="4598">
+              <int name="controlID">110</int>
+              <int name="contentResID">0</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">23 48 128 128 </string>
+              <string name="bounds">109 23 237 151 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="4603">
+              <int name="controlID">124</int>
+              <int name="initialState">1</int>
+              <string name="title">Synchroniser automatiquement les contacts, les calendriers, les signets et les comptes de messagerie</string>
+              <string name="viewFrame">164 65 592 34 </string>
+              <string name="bounds">126 164 160 756 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="5389">
+              <int name="controlID">116</int>
+              <boolean name="hidden">TRUE</boolean>
+              <int name="initialState">1</int>
+              <string name="title">Synchroniser automatiquement les contacts, calendriers et signets</string>
+              <string name="viewFrame">164 65 592 34 </string>
+              <string name="bounds">126 164 160 756 </string>
+            </object>
+            <reference idRef="5393"/>
+            <object class="IBCarbonStaticText" id="5339">
+              <int name="controlID">150</int>
+              <boolean name="hidden">TRUE</boolean>
+              <string name="viewFrame">164 68 596 51 </string>
+              <string name="bounds">129 164 180 760 </string>
+            </object>
+            <reference idRef="5394"/>
+            <reference idRef="5390"/>
+            <object class="IBCarbonStaticText" id="4602">
+              <int name="controlID">125</int>
+              <int name="controlSize">1</int>
+              <string name="title">iTunes peut automatiquement synchroniser votre iPhone avec les contacts de votre Carnet d’adresses, vos calendriers iCal, vos signets Safari et vos comptes Mail chaque fois que vous vous connectez à ce Mac.</string>
+              <string name="viewFrame">182 108 578 44 </string>
+              <string name="bounds">169 182 213 760 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5340">
+              <int name="controlID">151</int>
+              <boolean name="hidden">TRUE</boolean>
+              <int name="controlSize">1</int>
+              <string name="title">Les réglages de synchronisation en mode OTA peuvent être modifiés sur votre iPhone.</string>
+              <string name="viewFrame">164 124 596 26 </string>
+              <string name="bounds">185 164 211 760 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="4599">
+              <int name="controlID">138</int>
+              <int name="controlSize">1</int>
+              <string name="title">Pour synchroniser du contenu sur votre iPhone, modifiez les réglages de chaque onglet sur l’écran suivant.</string>
+              <string name="viewFrame">182 153 578 29 </string>
+              <string name="bounds">214 182 243 760 </string>
+            </object>
+            <reference idRef="5341"/>
+            <object class="IBCarbonCheckBox" id="5392">
+              <int name="controlID">118</int>
+              <string name="title">Synchroniser automatiquement les applications</string>
+              <string name="viewFrame">164 198 481 18 </string>
+              <string name="bounds">259 164 277 645 </string>
+            </object>
+          </array>
+          <string name="bounds">61 0 291 780 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 311 800 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5369">
+      <int name="controlID">60</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 336 </string>
+      <array count="6" name="subviews">
+        <object class="IBCarbonStaticText" id="5374">
+          <int name="controlID">63</int>
+          <int name="controlSize">1</int>
+          <string name="title">Enregistrez votre iPhone pour recevoir des informations importantes concernant votre nouvel iPhone et obtenir un accès plus rapide au service d’assistance client.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">257 154 435 58 </string>
+          <string name="bounds">215 257 273 692 </string>
+        </object>
+        <object class="IBCarbonPicture" id="5370">
+          <int name="controlID">69</int>
+          <int name="contentResID">3038</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">51 42 146 252 </string>
+          <string name="bounds">103 51 355 197 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5373">
+          <string name="title">Pour commencer :</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3006</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">232 85 351 27 </string>
+          <string name="bounds">146 232 173 583 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5375">
+          <int name="controlID">61</int>
+          <string name="title">1. Enregistrez votre iPhone</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3007</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">232 130 351 24 </string>
+          <string name="bounds">191 232 215 583 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5372">
+          <int name="controlID">65</int>
+          <string name="title">2. Configurez votre compte iTunes Store</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3007</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">232 213 351 24 </string>
+          <string name="bounds">274 232 298 583 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5371">
+          <int name="controlID">67</int>
+          <int name="controlSize">1</int>
+          <string name="title">Visualisez et téléchargez instantanément vos favoris, jour et nuit (le cas échéant).</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">257 237 515 33 </string>
+          <string name="bounds">298 257 331 772 </string>
+        </object>
+      </array>
+      <string name="bounds">61 0 397 780 </string>
+    </object>
+    <reference idRef="5382"/>
+    <reference idRef="4672"/>
+    <reference idRef="5380"/>
+    <reference idRef="5364"/>
+    <reference idRef="4571"/>
+    <object class="IBCarbonWindow" id="4540">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Réglages iPod</string>
+      <reference name="rootControl" idRef="4541"/>
+      <string name="windowRect">171 69 530 869 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5386">
+      <int name="controlID">58</int>
+      <boolean name="hidden">TRUE</boolean>
+      <string name="title">Veuillez lire et accepter le contrat de licence du logiciel ci-dessous pour pouvoir enregistrer votre iPhone.</string>
+      <string name="viewFrame">78 59 637 32 </string>
+      <string name="bounds">120 78 152 715 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4641">
+      <int name="controlID">50</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>frcl</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>aaaaaa</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 61 780 528 </string>
+      <array count="6" name="subviews">
+        <object class="IBCarbonStaticText" id="4643">
+          <int name="controlID">53</int>
+          <string name="title">Veuillez lire et accepter le contrat de licence du logiciel ci-dessous afin de pouvoir utiliser votre iPod. Si vous acceptez le contrat de licence du logiciel ci-dessous mais ne cochez pas la case, vous ne pourrez pas utiliser votre iPod.</string>
+          <string name="viewFrame">78 43 601 63 </string>
+          <string name="bounds">104 78 167 679 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="4652">
+          <int name="controlID">52</int>
+          <string name="title">J’ai lu et j’accepte le contrat de licence du logiciel iPod.</string>
+          <string name="viewFrame">237 467 415 18 </string>
+          <string name="bounds">528 237 546 652 </string>
+        </object>
+        <object class="IBCarbonHIView" id="4668">
+          <int name="controlID">55</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>bcol</string>
+              <string>fcol</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>1</string>
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>aaaaaa</string>
+              <string>ffffff</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">107 121 546 329 </string>
+          <string name="bounds">182 107 511 653 </string>
+        </object>
+        <object class="IBCarbonTextView" id="4669">
+          <int name="controlID">51</int>
+          <boolean name="readOnly">TRUE</boolean>
+          <boolean name="noSelection">TRUE</boolean>
+          <boolean name="noDragProcs">TRUE</boolean>
+          <boolean name="wrap">TRUE</boolean>
+          <boolean name="noCaretWhenInactive">TRUE</boolean>
+          <boolean name="noSelectionWhenInactive">TRUE</boolean>
+          <boolean name="disableDragAndDrop">TRUE</boolean>
+          <boolean name="fontSubstitution">TRUE</boolean>
+          <string name="viewFrame">117 122 535 327 </string>
+          <string name="bounds">183 117 510 652 </string>
+        </object>
+        <reference idRef="5385"/>
+        <reference idRef="5386"/>
+      </array>
+      <string name="bounds">61 0 589 780 </string>
+    </object>
+    <reference idRef="5346"/>
+    <reference idRef="4484"/>
+    <reference idRef="4622"/>
+    <object class="IBCarbonWindow" id="5354">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Confirmation de la télécommande</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="5355">
+        <string name="viewFrame">0 0 932 795 </string>
+        <array count="1" name="subviews">
+          <object class="IBCarbonUserPane" id="5356">
+            <int name="controlID">300</int>
+            <int name="featureBits">2</int>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="1">
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="1">
+                <string>NOAX</string>
+              </array>
+              <string>types</string>
+              <array count="1">
+                <string>2</string>
+              </array>
+              <string>values</string>
+              <array count="1">
+                <string>true</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 -16 810 360 </string>
+            <array count="1" name="subviews">
+              <reference idRef="5357"/>
+            </array>
+            <string name="bounds">-16 0 344 810 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 795 932 </string>
+      </object>
+      <string name="windowRect">44 120 839 1052 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="5344"/>
+    <reference idRef="4485"/>
+    <reference idRef="5365"/>
+    <object class="IBCarbonRootControl" id="4580">
+      <string name="viewFrame">0 0 800 311 </string>
+      <array count="1" name="subviews">
+        <reference idRef="4581"/>
+      </array>
+      <string name="bounds">0 0 311 800 </string>
+    </object>
+    <reference idRef="5334"/>
+    <object class="IBCarbonWindow" id="4593">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Configuration de l’iPhone</string>
+      <reference name="rootControl" idRef="4594"/>
+      <string name="windowRect">376 268 687 1068 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonRootControl" id="4640">
+      <string name="viewFrame">0 0 800 609 </string>
+      <array count="1" name="subviews">
+        <reference idRef="4641"/>
+      </array>
+      <string name="bounds">0 0 609 800 </string>
+    </object>
+    <reference idRef="4605"/>
+    <reference idRef="4668"/>
+    <reference idRef="4665"/>
+    <reference idRef="5379"/>
+    <reference idRef="4589"/>
+    <object class="IBCarbonRootControl" id="5368">
+      <string name="viewFrame">0 0 800 433 </string>
+      <array count="1" name="subviews">
+        <reference idRef="5369"/>
+      </array>
+      <string name="bounds">0 0 433 800 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4564">
+      <int name="controlID">211</int>
+      <string name="title">Un iPod a déjà été synchronisé avec cet ordinateur.</string>
+      <string name="viewFrame">244 48 460 20 </string>
+      <string name="bounds">109 244 129 704 </string>
+    </object>
+    <reference idRef="4631"/>
+    <reference idRef="5308"/>
+    <reference idRef="5355"/>
+    <reference idRef="5335"/>
+    <reference idRef="4583"/>
+    <reference idRef="4652"/>
+    <reference idRef="5377"/>
+    <reference idRef="5356"/>
+    <reference idRef="4577"/>
+    <reference idRef="5389"/>
+    <object class="IBCarbonUserPane" id="5314">
+      <int name="controlID">200</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 -16 810 363 </string>
+      <array count="1" name="subviews">
+        <reference idRef="5315"/>
+      </array>
+      <string name="bounds">-16 0 347 810 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="4567">
+      <boolean name="checked">TRUE</boolean>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <reference idRef="4557"/>
+    <object class="IBCarbonMenu" id="4566">
+      <string name="title">Menu local</string>
+      <array count="1" name="items">
+        <reference idRef="4567"/>
+      </array>
+    </object>
+    <reference idRef="4689"/>
+    <reference idRef="4599"/>
+    <reference idRef="4613"/>
+    <object class="IBCarbonStaticText" id="4561">
+      <int name="controlID">223</int>
+      <string name="viewFrame">437 142 209 20 </string>
+      <string name="bounds">203 437 223 646 </string>
+    </object>
+    <reference idRef="5311"/>
+    <reference idRef="4637"/>
+    <object class="IBCarbonWindow" id="4701">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Bienvenue sur l’iPod hors ligne</string>
+      <reference name="rootControl" idRef="4702"/>
+      <string name="windowRect">111 138 544 938 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonWindow" id="4639">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Écran EULA</string>
+      <reference name="rootControl" idRef="4640"/>
+      <string name="windowRect">68 261 677 1061 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonWindow" id="4500">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Restauration de l’iPod</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="4501">
+        <string name="viewFrame">0 0 800 311 </string>
+        <array count="1" name="subviews">
+          <object class="IBCarbonHIView" id="4558">
+            <int name="controlID">200</int>
+            <string name="classID">com.apple.itunes.uiboxview</string>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="2">
+                <string>hook</string>
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="2">
+                <string>frcl</string>
+                <string>NOAX</string>
+              </array>
+              <string>types</string>
+              <array count="2">
+                <string>1</string>
+                <string>2</string>
+              </array>
+              <string>values</string>
+              <array count="2">
+                <string>aaaaaa</string>
+                <string>true</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 61 780 230 </string>
+            <array count="7" name="subviews">
+              <reference idRef="4564"/>
+              <object class="IBCarbonPicture" id="4563">
+                <int name="controlID">210</int>
+                <int name="contentResID">0</int>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>NOAX</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>2</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>true</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">78 48 128 128 </string>
+                <string name="bounds">109 78 237 206 </string>
+              </object>
+              <reference idRef="4568"/>
+              <reference idRef="4562"/>
+              <object class="IBCarbonPopupButton" id="4565">
+                <int name="controlID">214</int>
+                <reference name="menu" idRef="4566"/>
+                <string name="viewFrame">499 100 200 20 </string>
+                <string name="bounds">161 499 181 699 </string>
+              </object>
+              <reference idRef="4560"/>
+              <reference idRef="4561"/>
+            </array>
+            <string name="bounds">61 0 291 780 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 311 800 </string>
+      </object>
+      <string name="windowRect">245 225 556 1025 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="4616"/>
+    <object class="IBCarbonWindow" id="5312">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Synchronisation de l’Apple TV</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="5313">
+        <string name="viewFrame">0 0 932 795 </string>
+        <array count="1" name="subviews">
+          <reference idRef="5314"/>
+        </array>
+        <string name="bounds">0 0 795 932 </string>
+      </object>
+      <string name="windowRect">44 269 839 1201 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="4638"/>
+    <reference idRef="5384"/>
+    <reference idRef="4565"/>
+    <reference idRef="5310"/>
+    <reference idRef="4598"/>
+    <reference idRef="4587"/>
+    <reference idRef="5396"/>
+    <reference idRef="4574"/>
+    <object class="IBCarbonWindow" id="4607">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Configuration du mode aléatoire</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="4608">
+        <string name="viewFrame">0 0 800 311 </string>
+        <array count="1" name="subviews">
+          <reference idRef="4609"/>
+        </array>
+        <string name="bounds">0 0 311 800 </string>
+      </object>
+      <string name="windowRect">418 262 729 1062 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonWindow" id="5300">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Configuration de l’Apple TV</string>
+      <reference name="rootControl" idRef="5301"/>
+      <string name="windowRect">182 90 977 1022 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="5374"/>
+    <reference idRef="5360"/>
+    <reference idRef="5340"/>
+    <reference idRef="4628"/>
+    <reference idRef="4612"/>
+    <reference idRef="4671"/>
+    <reference idRef="5302"/>
+    <reference idRef="5395"/>
+    <object class="IBCarbonWindow" id="5367">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Bienvenue sur l’iPhone</string>
+      <reference name="rootControl" idRef="5368"/>
+      <string name="windowRect">588 460 1021 1260 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="5320"/>
+    <reference idRef="5326"/>
+    <reference idRef="4620"/>
+    <reference idRef="4573"/>
+    <reference idRef="5392"/>
+    <reference idRef="4669"/>
+    <reference idRef="5375"/>
+    <reference idRef="5358"/>
+    <reference idRef="5307"/>
+    <reference idRef="5313"/>
+    <reference idRef="4499"/>
+    <reference idRef="4608"/>
+    <reference idRef="4572"/>
+    <reference idRef="4686"/>
+    <reference idRef="4635"/>
+    <reference idRef="5349"/>
+    <reference idRef="4709"/>
+    <reference idRef="5343"/>
+    <object class="IBCarbonUserPane" id="5331">
+      <int name="controlID">302</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">15 4 780 303 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonHIView" id="5332">
+          <int name="controlID">308</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>frcl</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>aaaaaa</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 65 780 217 </string>
+          <array count="1" name="subviews">
+            <reference idRef="5333"/>
+          </array>
+          <string name="bounds">69 15 286 795 </string>
+        </object>
+        <object class="IBCarbonPicture" id="5336">
+          <int name="controlID">520</int>
+          <int name="contentResID">3030</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">193 32 40 19 </string>
+          <string name="bounds">36 208 55 248 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5337">
+          <int name="controlID">109</int>
+          <string name="title">Configurez votre</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3005</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">10 32 186 23 </string>
+          <string name="bounds">36 25 59 211 </string>
+        </object>
+        <reference idRef="5338"/>
+      </array>
+      <string name="bounds">4 15 307 795 </string>
+    </object>
+    <reference idRef="5372"/>
+    <reference idRef="4708"/>
+    <reference idRef="4634"/>
+    <reference idRef="5339"/>
+    <reference idRef="5391"/>
+    <reference idRef="4501"/>
+    <reference idRef="4615"/>
+    <reference idRef="5362"/>
+    <reference idRef="5337"/>
+    <reference idRef="5336"/>
+    <reference idRef="5321"/>
+    <reference idRef="5316"/>
+    <reference idRef="4584"/>
+    <reference idRef="4563"/>
+    <reference idRef="4710"/>
+    <object class="IBCarbonUserPane" id="5329">
+      <int name="controlID">300</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 -16 810 360 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonHIView" id="5330">
+          <int name="controlID">301</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>NOAX</string>
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>2</string>
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>true</string>
+              <string>302</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 16 810 327 </string>
+          <array count="1" name="subviews">
+            <reference idRef="5331"/>
+          </array>
+          <string name="bounds">0 0 327 810 </string>
+        </object>
+      </array>
+      <string name="bounds">-16 0 344 810 </string>
+    </object>
+    <reference idRef="4483"/>
+    <reference idRef="4595"/>
+    <reference idRef="4688"/>
+    <reference idRef="4588"/>
+    <reference idRef="4576"/>
+    <reference idRef="4734"/>
+    <reference idRef="4684"/>
+    <object class="IBCarbonRootControl" id="5328">
+      <string name="viewFrame">0 0 932 795 </string>
+      <array count="1" name="subviews">
+        <reference idRef="5329"/>
+      </array>
+      <string name="bounds">0 0 795 932 </string>
+    </object>
+    <reference idRef="4482"/>
+    <reference idRef="4570"/>
+    <reference idRef="4610"/>
+    <reference idRef="5350"/>
+    <object class="IBCarbonWindow" id="5327">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Diffusion en continu Apple TV</string>
+      <reference name="rootControl" idRef="5328"/>
+      <string name="windowRect">60 91 855 1023 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="4558"/>
+    <reference idRef="4621"/>
+    <reference idRef="5345"/>
+    <reference idRef="5323"/>
+    <reference idRef="5352"/>
+    <reference idRef="4614"/>
+    <reference idRef="4629"/>
+    <reference idRef="4591"/>
+    <reference idRef="4623"/>
+    <reference idRef="5330"/>
+    <reference idRef="4643"/>
+    <reference idRef="5378"/>
+    <reference idRef="4666"/>
+    <reference idRef="4601"/>
+    <reference idRef="5373"/>
+    <reference idRef="5370"/>
+    <reference idRef="5319"/>
+    <reference idRef="4600"/>
+    <object class="IBCarbonWindow" id="4579">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Restauration de l’iPhone</string>
+      <reference name="rootControl" idRef="4580"/>
+      <string name="windowRect">359 180 670 980 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <object class="IBCarbonWindow" id="4617">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <string name="title">Configuration du téléphone portable</string>
+      <reference name="rootControl" idRef="4618"/>
+      <string name="windowRect">484 167 795 967 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="5371"/>
+    <reference idRef="5317"/>
+    <reference idRef="5305"/>
+    <reference idRef="4602"/>
+    <reference idRef="5332"/>
+    <reference idRef="5306"/>
+    <reference idRef="4603"/>
+    <reference idRef="4592"/>
+  </array>
+  <array count="207" name="allParents">
+    <reference idRef="4641"/>
+    <reference idRef="4540"/>
+    <reference idRef="1"/>
+    <reference idRef="4619"/>
+    <reference idRef="5331"/>
+    <reference idRef="5320"/>
+    <reference idRef="5356"/>
+    <reference idRef="4580"/>
+    <reference idRef="4595"/>
+    <reference idRef="4702"/>
+    <reference idRef="5346"/>
+    <reference idRef="5320"/>
+    <reference idRef="4581"/>
+    <reference idRef="5332"/>
+    <reference idRef="4595"/>
+    <reference idRef="4484"/>
+    <reference idRef="4672"/>
+    <reference idRef="4484"/>
+    <reference idRef="4595"/>
+    <reference idRef="4558"/>
+    <reference idRef="5303"/>
+    <reference idRef="4701"/>
+    <reference idRef="4570"/>
+    <reference idRef="4703"/>
+    <reference idRef="5361"/>
+    <reference idRef="5349"/>
+    <reference idRef="4609"/>
+    <reference idRef="4629"/>
+    <reference idRef="5306"/>
+    <reference idRef="5300"/>
+    <reference idRef="4595"/>
+    <reference idRef="4619"/>
+    <reference idRef="4703"/>
+    <reference idRef="5314"/>
+    <reference idRef="5346"/>
+    <reference idRef="1"/>
+    <reference idRef="5302"/>
+    <reference idRef="4581"/>
+    <reference idRef="4619"/>
+    <reference idRef="4480"/>
+    <reference idRef="4581"/>
+    <reference idRef="4484"/>
+    <reference idRef="4484"/>
+    <reference idRef="4618"/>
+    <reference idRef="4581"/>
+    <reference idRef="4672"/>
+    <reference idRef="4558"/>
+    <reference idRef="5316"/>
+    <reference idRef="1"/>
+    <reference idRef="4703"/>
+    <reference idRef="5360"/>
+    <reference idRef="1"/>
+    <reference idRef="4617"/>
+    <reference idRef="4608"/>
+    <reference idRef="5320"/>
+    <reference idRef="4558"/>
+    <reference idRef="5378"/>
+    <reference idRef="5378"/>
+    <reference idRef="4570"/>
+    <reference idRef="4593"/>
+    <reference idRef="5368"/>
+    <reference idRef="5378"/>
+    <reference idRef="4671"/>
+    <reference idRef="5378"/>
+    <reference idRef="5358"/>
+    <reference idRef="4570"/>
+    <reference idRef="1"/>
+    <reference idRef="4641"/>
+    <reference idRef="4640"/>
+    <reference idRef="5345"/>
+    <reference idRef="4483"/>
+    <reference idRef="4619"/>
+    <reference idRef="1"/>
+    <reference idRef="5343"/>
+    <reference idRef="4484"/>
+    <reference idRef="5358"/>
+    <reference idRef="4579"/>
+    <reference idRef="5333"/>
+    <reference idRef="1"/>
+    <reference idRef="4639"/>
+    <reference idRef="4484"/>
+    <reference idRef="4641"/>
+    <reference idRef="4484"/>
+    <reference idRef="5378"/>
+    <reference idRef="4581"/>
+    <reference idRef="5367"/>
+    <reference idRef="4558"/>
+    <reference idRef="4629"/>
+    <reference idRef="5306"/>
+    <reference idRef="5354"/>
+    <reference idRef="5333"/>
+    <reference idRef="4581"/>
+    <reference idRef="4641"/>
+    <reference idRef="5376"/>
+    <reference idRef="5355"/>
+    <reference idRef="4570"/>
+    <reference idRef="4595"/>
+    <reference idRef="5313"/>
+    <reference idRef="4566"/>
+    <reference idRef="4484"/>
+    <reference idRef="4565"/>
+    <reference idRef="4672"/>
+    <reference idRef="4595"/>
+    <reference idRef="4609"/>
+    <reference idRef="4558"/>
+    <reference idRef="5304"/>
+    <reference idRef="4484"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="4609"/>
+    <reference idRef="1"/>
+    <reference idRef="4484"/>
+    <reference idRef="5378"/>
+    <reference idRef="4558"/>
+    <reference idRef="5304"/>
+    <reference idRef="4595"/>
+    <reference idRef="4586"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="5369"/>
+    <reference idRef="5358"/>
+    <reference idRef="4595"/>
+    <reference idRef="4570"/>
+    <reference idRef="4609"/>
+    <reference idRef="4670"/>
+    <reference idRef="5301"/>
+    <reference idRef="4570"/>
+    <reference idRef="1"/>
+    <reference idRef="5319"/>
+    <reference idRef="5316"/>
+    <reference idRef="4619"/>
+    <reference idRef="4570"/>
+    <reference idRef="4595"/>
+    <reference idRef="4641"/>
+    <reference idRef="5369"/>
+    <reference idRef="5357"/>
+    <reference idRef="5306"/>
+    <reference idRef="5312"/>
+    <reference idRef="4484"/>
+    <reference idRef="4607"/>
+    <reference idRef="4570"/>
+    <reference idRef="4672"/>
+    <reference idRef="4484"/>
+    <reference idRef="5348"/>
+    <reference idRef="4703"/>
+    <reference idRef="5342"/>
+    <reference idRef="5330"/>
+    <reference idRef="5369"/>
+    <reference idRef="4703"/>
+    <reference idRef="4629"/>
+    <reference idRef="4595"/>
+    <reference idRef="4570"/>
+    <reference idRef="4500"/>
+    <reference idRef="4609"/>
+    <reference idRef="5361"/>
+    <reference idRef="5331"/>
+    <reference idRef="5331"/>
+    <reference idRef="5320"/>
+    <reference idRef="5315"/>
+    <reference idRef="4581"/>
+    <reference idRef="4558"/>
+    <reference idRef="4703"/>
+    <reference idRef="5328"/>
+    <reference idRef="4482"/>
+    <reference idRef="4594"/>
+    <reference idRef="4672"/>
+    <reference idRef="4587"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4672"/>
+    <reference idRef="5327"/>
+    <reference idRef="4481"/>
+    <reference idRef="4541"/>
+    <reference idRef="4609"/>
+    <reference idRef="5349"/>
+    <reference idRef="1"/>
+    <reference idRef="4501"/>
+    <reference idRef="4619"/>
+    <reference idRef="5344"/>
+    <reference idRef="5320"/>
+    <reference idRef="5349"/>
+    <reference idRef="4609"/>
+    <reference idRef="4628"/>
+    <reference idRef="4581"/>
+    <reference idRef="4619"/>
+    <reference idRef="5329"/>
+    <reference idRef="4641"/>
+    <reference idRef="5377"/>
+    <reference idRef="4484"/>
+    <reference idRef="4595"/>
+    <reference idRef="5369"/>
+    <reference idRef="5369"/>
+    <reference idRef="5316"/>
+    <reference idRef="4595"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="5369"/>
+    <reference idRef="5316"/>
+    <reference idRef="5304"/>
+    <reference idRef="4595"/>
+    <reference idRef="5331"/>
+    <reference idRef="5305"/>
+    <reference idRef="4595"/>
+    <reference idRef="4581"/>
+  </array>
+  <dictionary count="18" name="nameTable">
+    <string>Apple TV Setup</string>
+    <reference idRef="5300"/>
+    <string>Apple TV Stream</string>
+    <reference idRef="5327"/>
+    <string>Apple TV Sync</string>
+    <reference idRef="5312"/>
+    <string>EULA Display</string>
+    <reference idRef="4639"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Mobile Phone Setup</string>
+    <reference idRef="4617"/>
+    <string>Offline iPhone Welcome</string>
+    <reference idRef="5376"/>
+    <string>Offline iPod Welcome</string>
+    <reference idRef="4701"/>
+    <string>Shuffle Setup</string>
+    <reference idRef="4607"/>
+    <string>Touch Remote Confirm</string>
+    <reference idRef="5354"/>
+    <string>Touch Remote Setup</string>
+    <reference idRef="5342"/>
+    <string>iPhone Restore</string>
+    <reference idRef="4579"/>
+    <string>iPhone Setup</string>
+    <reference idRef="4593"/>
+    <string>iPhone Welcome</string>
+    <reference idRef="5367"/>
+    <string>iPod Restore</string>
+    <reference idRef="4500"/>
+    <string>iPod Setup</string>
+    <reference idRef="4540"/>
+    <string>iPod Setup Assist</string>
+    <reference idRef="4480"/>
+    <string>iPod Welcome</string>
+    <reference idRef="4670"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5398</unsigned_int>
+</object>

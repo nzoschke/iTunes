@@ -1,0 +1,239 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="8" name="allObjects">
+    <object class="IBCarbonHIView" id="589">
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>crtr</string>
+          <string>crtr</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>9200</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">30 45 800 335 </string>
+      <array count="5" name="subviews">
+        <object class="IBCarbonHIView" id="603">
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>9270</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">35 15 60 60 </string>
+          <string name="bounds">60 65 120 125 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="574">
+          <string name="title">Home Sharing</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1210</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">105 30 289 48 </string>
+          <string name="bounds">75 135 123 424 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="571">
+          <string name="title">Home Sharing is now on.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1211</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">40 88 720 24 </string>
+          <string name="bounds">133 70 157 790 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="601">
+          <int name="controlID">107</int>
+          <string name="title">Use the same account “^1” when turning on Home Sharing for your other computers. They will then appear below Shared in the iTunes window.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1211</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">40 123 720 53 </string>
+          <string name="bounds">168 70 221 790 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="604">
+          <string name="title">Home Sharing is for personal use.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1211</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">40 182 720 24 </string>
+          <string name="bounds">227 70 251 790 </string>
+        </object>
+      </array>
+      <string name="bounds">45 30 380 830 </string>
+    </object>
+    <reference idRef="571"/>
+    <reference idRef="603"/>
+    <object class="IBCarbonUserPane" id="570">
+      <int name="controlID">1</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 860 439 </string>
+      <array count="2" name="subviews">
+        <reference idRef="589"/>
+        <object class="IBCarbonBevelButton" id="602">
+          <int name="controlID">108</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="contentResID">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Done</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">750 390 80 22 </string>
+          <string name="bounds">390 750 412 830 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 439 860 </string>
+    </object>
+    <reference idRef="574"/>
+    <reference idRef="601"/>
+    <reference idRef="602"/>
+    <reference idRef="604"/>
+  </array>
+  <array count="8" name="allParents">
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="1"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">605</unsigned_int>
+</object>

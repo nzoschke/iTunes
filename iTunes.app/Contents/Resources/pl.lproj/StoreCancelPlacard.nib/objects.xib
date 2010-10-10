@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="2" name="allObjects">
+    <object class="IBCarbonHIView" id="311">
+      <int name="controlID">3280</int>
+      <string name="classID"></string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>bcol</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>e6e6e6</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 400 32 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonButton" id="313">
+          <int name="controlID">3281</int>
+          <int name="controlSize">1</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="iconPosition">0</int>
+          <string name="title">Anuluj</string>
+          <string name="viewFrame">307 7 76 20 </string>
+          <string name="bounds">7 307 27 383 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 32 400 </string>
+    </object>
+    <reference idRef="313"/>
+  </array>
+  <array count="2" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="311"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="311"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">314</unsigned_int>
+</object>

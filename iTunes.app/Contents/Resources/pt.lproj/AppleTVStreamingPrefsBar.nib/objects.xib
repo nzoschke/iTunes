@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="3" name="allObjects">
+    <object class="IBCarbonBevelButton" id="4396">
+      <int name="controlID">571</int>
+      <int name="fontStyle">5</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">Aplicar</string>
+      <string name="viewFrame">588 13 80 22 </string>
+      <string name="bounds">13 588 35 668 </string>
+    </object>
+    <object class="IBCarbonBevelButton" id="4397">
+      <int name="controlID">572</int>
+      <int name="fontStyle">5</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="textPlacement">3</int>
+      <boolean name="rounded">TRUE</boolean>
+      <string name="title">Reverter</string>
+      <string name="viewFrame">496 13 80 22 </string>
+      <string name="bounds">13 496 35 576 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4395">
+      <int name="controlID">522</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1034</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 700 48 </string>
+      <array count="2" name="subviews">
+        <reference idRef="4397"/>
+        <reference idRef="4396"/>
+      </array>
+      <string name="bounds">0 0 48 700 </string>
+    </object>
+  </array>
+  <array count="3" name="allParents">
+    <reference idRef="4395"/>
+    <reference idRef="4395"/>
+    <reference idRef="1"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4395"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">4398</unsigned_int>
+</object>

@@ -1,0 +1,213 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonStaticText" id="4718">
+      <int name="controlID">61</int>
+      <string name="title">1.  Configura iPod</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3009</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">332 108 400 20 </string>
+      <string name="bounds">108 332 128 732 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4713">
+      <int name="controlID">60</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 352 </string>
+      <array count="6" name="subviews">
+        <object class="IBCarbonPicture" id="4717">
+          <int name="controlID">69</int>
+          <int name="contentResID">3037</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>NOAX</string>
+              <string>PBUT</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>2</string>
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>true</string>
+              <string>3037</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">47 90 265 189 </string>
+          <string name="bounds">90 47 279 312 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4719">
+          <string name="title">Per iniziare:</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3006</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">332 62 351 25 </string>
+          <string name="bounds">62 332 87 683 </string>
+        </object>
+        <reference idRef="4718"/>
+        <object class="IBCarbonStaticText" id="4714">
+          <int name="controlID">63</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Scegli il nome per iPod e specifica quali elementi desideri che vengano sincronizzati automaticamente da iTunes quando lo colleghi a questo computer.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">351 133 342 72 </string>
+          <string name="bounds">133 351 205 693 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4715">
+          <int name="controlID">65</int>
+          <string name="title">2.  Registra e configura il tuo account iTunes Store</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3009</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">332 209 428 20 </string>
+          <string name="bounds">209 332 229 760 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="4716">
+          <int name="controlID">67</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Se la prossima volta che sincronizzerai iPod disporrai di connessione a Internet, ti verrà chiesto di registrare iPod e di configurare il tuo account iTunes Store (se pertinente).</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3008</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">351 234 342 76 </string>
+          <string name="bounds">234 351 310 693 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 352 780 </string>
+    </object>
+    <reference idRef="4719"/>
+    <reference idRef="4715"/>
+    <reference idRef="4717"/>
+    <reference idRef="4714"/>
+    <reference idRef="4716"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="4713"/>
+    <reference idRef="1"/>
+    <reference idRef="4713"/>
+    <reference idRef="4713"/>
+    <reference idRef="4713"/>
+    <reference idRef="4713"/>
+    <reference idRef="4713"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4713"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">4720</unsigned_int>
+</object>

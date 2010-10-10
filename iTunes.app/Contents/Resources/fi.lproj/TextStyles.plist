@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>100</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>System Font</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>101</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>System Font Emphasized</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>102</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>System Font Small</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>103</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>System Font Small Emphasized</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>104</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>System Font Mini</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>105</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>System Font Mini Emphasized</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>1200</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius Bar Buttons</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0.9765 0.9765 0.9765</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>1201</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius Bar Popup Label</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>shadow-color</key>
+		<string>0.9686 0.9686 0.9686</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>1202</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius Based On</string>
+		<key>color</key>
+		<string>0.5137 0.5137 0.5137</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>shadow-color</key>
+		<string>0.9686 0.9686 0.9686</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>1203</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius Track Nam</string>
+		<key>color</key>
+		<string>0.2941 0.2941 0.2941</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>shadow-color</key>
+		<string>0.9686 0.9686 0.9686</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>1204</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius “by”</string>
+		<key>color</key>
+		<string>0.2941 0.2941 0.2941</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>shadow-color</key>
+		<string>0.9686 0.9686 0.9686</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>1205</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius Done Large</string>
+		<key>color</key>
+		<string>0.502 0.5098 0.5216</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>19</integer>
+	</dict>
+	<key>1206</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Genius Done Explanation</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>1210</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Intro Title</string>
+		<key>color</key>
+		<string>0.3176 0.3176 0.3176</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>36</integer>
+	</dict>
+	<key>1211</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Intro Title Explanation</string>
+		<key>color</key>
+		<string>0.5725 0.5725 0.5725</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>18</integer>
+	</dict>
+	<key>1212</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Intro Subtitle</string>
+		<key>color</key>
+		<string>0.3176 0.3176 0.3176</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>16</integer>
+	</dict>
+	<key>1213</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Intro Subtitle Explanation</string>
+		<key>color</key>
+		<string>0.5725 0.5725 0.5725</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>1214</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Intro Link</string>
+		<key>color</key>
+		<string>0 0.6078 0.8392</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>1215</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Intro Footer</string>
+		<key>color</key>
+		<string>0.5725 0.5725 0.5725</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>1216</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>File Sharing Explanation</string>
+		<key>color</key>
+		<string>0.502 0.502 0.502</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>16</integer>
+	</dict>
+	<key>13000</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Window Title</string>
+		<key>color</key>
+		<string>0.102 0.102 0.102</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>13001</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Window Title</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>200</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Bevel Button</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>201</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Push Button</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>202</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Checkbox Button</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>203</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Radio Button</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>204</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Popup Button</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>205</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Bevel Button Small</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>3000</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Settings Tabs</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>3001</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Settings Bubble Title</string>
+		<key>color</key>
+		<string>0.3216 0.3686 0.4353</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>18</integer>
+	</dict>
+	<key>3003</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Fade text style</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>3004</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Timeline text style</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>3005</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Setup Welcome Title</string>
+		<key>color</key>
+		<string>0.502 0.502 0.502</string>
+		<key>font</key>
+		<string>Helvetica</string>
+		<key>size</key>
+		<integer>22</integer>
+	</dict>
+	<key>3006</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Setup Welcome H1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>21</integer>
+	</dict>
+	<key>3007</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Setup Welcome H2</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>19</integer>
+	</dict>
+	<key>3008</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Setup Welcome H3</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>3009</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Setup Welcome H2 alt</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>15</integer>
+	</dict>
+	<key>301</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Browser Window button title</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>inactive-color</key>
+		<string>0.4431 0.4431 0.4431</string>
+		<key>inactive-shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>3010</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Rental Title/Button text</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>3011</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Rental Time Remaining/Size text</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>3012</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Rental Expires text</string>
+		<key>color</key>
+		<string>0.698 0.0902 0</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>3013</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Capacity Bar Title Text</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>shadow-color</key>
+		<string>0.2627 0.2627 0.2627</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>3014</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Capacity Bar Detail Text</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>shadow-color</key>
+		<string>0.2627 0.2627 0.2627</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>3015</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Settings Dim Count Text</string>
+		<key>color</key>
+		<string>0.5216 0.5529 0.5804</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>18</integer>
+	</dict>
+	<key>302</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>LCDText</string>
+		<key>color</key>
+		<string>0.2353 0.3294 0.4549</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>303</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Search Edit Text</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>304</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Browser Window Totals</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>305</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Browser Device Capacity</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>306</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>LCDTextLarge</string>
+		<key>color</key>
+		<string>0.2353 0.3294 0.4549</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>307</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Browser Window remote speakers button title</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>inactive-color</key>
+		<string>0.4431 0.4431 0.4431</string>
+		<key>inactive-shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>308</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>LCDTextBold</string>
+		<key>color</key>
+		<string>0.2353 0.3294 0.4549</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>309</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>LCDCounterText</string>
+		<key>color</key>
+		<string>0.2353 0.3294 0.4549</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>310</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Request Button</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>311</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Store Controls</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>312</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Small Store Controls</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>313</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Store Drag Font</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>314</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Browser Window Copyright Placard</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>315</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Link Buttons</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>316</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Link Over Buttons</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>317</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Shuffle Example Text</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>318</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Browser Window Drag Font</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>319</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Lyrics</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>321</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Podcast Count (Small)</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>322</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Podcast Count (Large)</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>350</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Buy Button (Size * 10)</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>85</integer>
+	</dict>
+	<key>4000</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Track title display</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>500</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>EQ Checkbox</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>501</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>EQ Bands</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>502</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>EQ DB Level</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>503</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>EQ Popup</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>504</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Search</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>505</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>iPod Storage</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>510</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Popup</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>511</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Right Label</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>512</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Left Label</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>513</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Center Label</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>514</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Autofill Button</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>515</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Duplicates Reminder</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>519</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Thumb view small text 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>520</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Thumb view small text 2</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>521</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Thumb view small text 3</string>
+		<key>color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>522</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album List 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>523</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album List 2</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>524</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album List 1 (Large)</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>525</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album List 2 (Large)</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>530</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album Missing (small)</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>531</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album Missing (med)</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>20</integer>
+	</dict>
+	<key>532</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album Missing (large)</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>28</integer>
+	</dict>
+	<key>541</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Right Label - Dark</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>542</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Left Label - Dark</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>543</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Placard Center Label - Dark</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>544</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>placard label - white</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>inactive-color</key>
+		<string>0.7804 0.7804 0.7804</string>
+		<key>inactive-shadow-color</key>
+		<string>0.2745 0.2745 0.2745</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>shadow-color</key>
+		<string>0.2745 0.2745 0.2745</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>545</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>placard label - white</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>shadow-color</key>
+		<string>0.2745 0.2745 0.2745</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>546</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>placard label - white</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0.2745 0.2745 0.2745</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>550</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>apps thumb view 1</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>551</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>apps thumb view divider</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>15</integer>
+	</dict>
+	<key>552</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>apps thumb view divider2</string>
+		<key>color</key>
+		<string>0.7922 0.7922 0.7922</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>560</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist dark theme 1</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>561</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist dark theme 2</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>562</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist dark theme 3</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>563</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist dark theme 4</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>564</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist dark theme 5</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>565</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist dark theme 6</string>
+		<key>color</key>
+		<string>0.6588 0.6588 0.6588</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>566</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist light theme 5</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>567</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist light theme 6</string>
+		<key>color</key>
+		<string>0.3882 0.3882 0.3882</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>570</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist light theme 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>571</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist light theme 2</string>
+		<key>color</key>
+		<string>0.3882 0.3882 0.3882</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>572</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist light theme 3</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>573</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist light theme 4</string>
+		<key>color</key>
+		<string>0.3882 0.3882 0.3882</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>575</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>divider bar 1</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string>0.4667 0.4667 0.4667</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>shadow-color</key>
+		<string>1 1 1</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>15</integer>
+	</dict>
+	<key>576</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>divider bar 2</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string>0.4667 0.4667 0.4667</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>shadow-color</key>
+		<string>1 1 1</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>577</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>divider bar 3</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string>0.4667 0.4667 0.4667</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>shadow-color</key>
+		<string>1 1 1</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>578</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>divider bar 4</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string>0.4667 0.4667 0.4667</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>shadow-color</key>
+		<string>1 1 1</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>579</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>unread count</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>shadow-color</key>
+		<string>0.3961 0.502 0.6667</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>16</integer>
+	</dict>
+	<key>580</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist wall theme 1</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>16</integer>
+	</dict>
+	<key>581</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist wall theme 2</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>582</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist wall theme 3</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>17</integer>
+	</dict>
+	<key>583</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist wall theme 4</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>584</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist wall theme 5</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>17</integer>
+	</dict>
+	<key>585</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>playlist wall theme 6</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>15</integer>
+	</dict>
+	<key>600</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>music store breadcrumb / navigation buttons</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>inactive-color</key>
+		<string>0 0 0</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>601</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Store Browse Overlay</string>
+		<key>color</key>
+		<string>0.8235 0.8235 0.8235</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>610</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Chapter Menu Number</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>611</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Chapter Menu Title</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>612</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Chapter Menu Time</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>613</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Store Menu</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>shadow-color</key>
+		<string>1 1 1</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>700</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view title</string>
+		<key>color</key>
+		<string>0.9216 0.9216 0.9216</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>15</integer>
+	</dict>
+	<key>701</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view studio</string>
+		<key>color</key>
+		<string>0.9216 0.9216 0.9216</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>702</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view runtime</string>
+		<key>color</key>
+		<string>0.9216 0.9216 0.9216</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>703</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view description</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>704</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view expire</string>
+		<key>color</key>
+		<string>0.9216 0.9216 0.9216</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>705</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view moreinfo</string>
+		<key>color</key>
+		<string>0.7569 0.7569 0.7569</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>706</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view title light</string>
+		<key>color</key>
+		<string>0.1294 0.1294 0.1294</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>15</integer>
+	</dict>
+	<key>707</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view studio light</string>
+		<key>color</key>
+		<string>0.1294 0.1294 0.1294</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>708</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view runtime light</string>
+		<key>color</key>
+		<string>0.1294 0.1294 0.1294</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>709</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view description light</string>
+		<key>color</key>
+		<string>0.4275 0.4275 0.4275</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>710</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view expire light</string>
+		<key>color</key>
+		<string>0.1294 0.1294 0.1294</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>711</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>vod view moreinfo light</string>
+		<key>color</key>
+		<string>0.4275 0.4275 0.4275</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>718</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Store Nav Credit</string>
+		<key>color</key>
+		<string>0.7961 0.7961 0.7961</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0 0 0</string>
+		<key>shadow-voffset</key>
+		<integer>-1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>719</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Store Nav Button Text</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0 0 0</string>
+		<key>shadow-voffset</key>
+		<integer>-1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>720</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Dark Browse Button Text</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>shadow-color</key>
+		<string>0 0 0</string>
+		<key>shadow-voffset</key>
+		<integer>-1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>730</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Gradient Window Title</string>
+		<key>color</key>
+		<string>0.102 0.102 0.102</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>inactive-color</key>
+		<string>0.5059 0.5059 0.5059</string>
+		<key>inactive-shadow-color</key>
+		<string>0.9529 0.9529 0.9529</string>
+		<key>shadow-color</key>
+		<string>0.9529 0.9529 0.9529</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>731</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Gradient Utility Window Title</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>shadow-color</key>
+		<string>0.8118 0.8118 0.8118</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>732</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Document Window Title</string>
+		<key>color</key>
+		<string>0.102 0.102 0.102</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>inactive-color</key>
+		<string>0.5059 0.5059 0.5059</string>
+		<key>inactive-shadow-color</key>
+		<string>0.851 0.851 0.851</string>
+		<key>shadow-color</key>
+		<string>0.851 0.851 0.851</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>734</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Light Browse Button Text</string>
+		<key>color</key>
+		<string>0.2157 0.2157 0.2157</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>736</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Summary Info Banner Navigation Light style</string>
+		<key>color</key>
+		<string>0.2157 0.2157 0.2157</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>pressed-color</key>
+		<string>1 1 1</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>737</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Pressed Light Browse Button Text</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>738</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Pressed Dark Browse Button Text</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>740</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>QuickTime Window Title</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>inactive-color</key>
+		<string>0.9973 0.9973 0.9973</string>
+		<key>inactive-shadow-color</key>
+		<string>0.5059 0.5059 0.5059</string>
+		<key>shadow-color</key>
+		<string>0.5059 0.5059 0.5059</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>8000</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Downloads Info (Small)</string>
+		<key>color</key>
+		<string>0.5412 0.5412 0.5412</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>8001</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Downloads Info (Large)</string>
+		<key>color</key>
+		<string>0.5412 0.5412 0.5412</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>801</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>802</key>
+	<dict>
+		<key>color</key>
+		<string>0.5 0.5 0.5</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9000</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>About Version Text</string>
+		<key>color</key>
+		<string>0.5 0.5 0.5</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>9001</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>About Text</string>
+		<key>color</key>
+		<string>0.5 0.5 0.5</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>left</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>9002</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>List Contents (Small)</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9003</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>List Contents (Large)</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>9004</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>List Header</string>
+		<key>color</key>
+		<string>0.2588 0.2588 0.2588</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9008</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album Display (Large)</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>size</key>
+		<integer>36</integer>
+	</dict>
+	<key>9009</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Album Display (Small)</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>9010</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Playback time display</string>
+		<key>color</key>
+		<string>0.8784 0.8784 0.8784</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9012</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>List message</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>right</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9014</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>overlay button</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9015</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>DJ Votes Score (Small)</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9016</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>DJ Votes Score (Large)</string>
+		<key>baseline-tweak</key>
+		<integer>-1</integer>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>9020</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Test Checkbox Label</string>
+		<key>baseline-tweak</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string>0.2353 0.2353 0.2353</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>inactive-color</key>
+		<string>0.498 0.498 0.498</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>9021</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp SyncList Secondary</string>
+		<key>color</key>
+		<string>0.4471 0.4471 0.4471</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9022</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp SyncList Primary Selected</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>13</integer>
+	</dict>
+	<key>9023</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp SyncList Secondary Selected</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9024</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp SyncList Secondary (red for expire text)</string>
+		<key>color</key>
+		<string>0.698 0.0902 0</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9025</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Apps pane rollover button text</string>
+		<key>color</key>
+		<string>0.4471 0.4471 0.4471</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>pressed-color</key>
+		<string>1 1 1</string>
+		<key>rollover-color</key>
+		<string>1 1 1</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9026</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>Show/Hide Group in source list</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>10</integer>
+	</dict>
+	<key>9030</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp Sync Icon Label</string>
+		<key>color</key>
+		<string>0.6471 0.6471 0.6471</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9031</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp Sync Tile Label for Dock</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue</string>
+		<key>shadow-color</key>
+		<string>0.2158 0.2158 0.2158</string>
+		<key>shadow-voffset</key>
+		<integer>-1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9032</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchApp Sync Tile Label for unified Dock/Pages</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>HelveticaNeue-Bold</string>
+		<key>shadow-color</key>
+		<string>0.2158 0.2158 0.2158</string>
+		<key>shadow-voffset</key>
+		<integer>1</integer>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9040</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchPageListCell Hilite</string>
+		<key>color</key>
+		<string>1 1 1</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>9041</key>
+	<dict>
+		<key>- loc hint -</key>
+		<string>TouchPageListCell Normal</string>
+		<key>color</key>
+		<string>0.4392 0.4392 0.4392</string>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>9100</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>9101</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>9102</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+	<key>9103</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>9104</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>9105</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9106</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>11</integer>
+	</dict>
+	<key>9107</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>size</key>
+		<integer>9</integer>
+	</dict>
+	<key>9108</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande-Bold</string>
+		<key>size</key>
+		<integer>14</integer>
+	</dict>
+	<key>9109</key>
+	<dict>
+		<key>font</key>
+		<string>LucidaGrande</string>
+		<key>justification</key>
+		<string>center</string>
+		<key>size</key>
+		<integer>12</integer>
+	</dict>
+</dict>
+</plist>

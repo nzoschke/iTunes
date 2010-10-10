@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SortPrefixes</key>
+	<array>
+		<string>the </string>
+		<string>a </string>
+		<string>an </string>
+		<string>DEN </string>
+		<string>Den </string>
+		<string>den </string>
+		<string>DET </string>
+		<string>Det </string>
+		<string>det </string>
+		<string>ET </string>
+		<string>Et </string>
+		<string>et </string>
+		<string>EN </string>
+		<string>En </string>
+		<string>en </string>
+
+	</array>
+</dict>
+</plist>

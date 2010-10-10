@@ -1,0 +1,495 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="32" name="allObjects">
+    <object class="IBCarbonUserPane" id="1203014">
+      <int name="controlID">2501</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 230 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonPicture" id="1203016">
+          <int name="controlID">520</int>
+          <int name="contentResID">3030</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">24 26 40 19 </string>
+          <string name="bounds">26 44 45 84 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203015">
+          <int name="controlID">2031</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>bcol</string>
+              <string>fsqr</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>f7f7f7</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 52 790 176 </string>
+          <array count="11" name="subviews">
+            <object class="IBCarbonPicture" id="1203025">
+              <int name="controlID">508</int>
+              <int name="contentResID">0</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">93 24 128 128 </string>
+              <string name="bounds">76 133 204 261 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203022">
+              <int name="controlID">510</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Имя:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 35 170 16 </string>
+              <string name="bounds">87 262 103 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203024">
+              <int name="controlID">503</int>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>MTLN</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>false</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">400 35 280 16 </string>
+              <string name="bounds">87 440 103 720 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203018">
+              <int name="controlID">511</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Емкость:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 56 170 16 </string>
+              <string name="bounds">108 262 124 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203020">
+              <int name="controlID">504</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 56 225 16 </string>
+              <string name="bounds">108 440 124 665 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203019">
+              <int name="controlID">512</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Версия ПО:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 77 170 16 </string>
+              <string name="bounds">129 262 145 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203017">
+              <int name="controlID">505</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 77 225 16 </string>
+              <string name="bounds">129 440 145 665 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203027">
+              <int name="controlID">513</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Серийный номер:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 98 170 16 </string>
+              <string name="bounds">150 262 166 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203026">
+              <int name="controlID">506</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 98 225 16 </string>
+              <string name="bounds">150 440 166 665 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203023">
+              <int name="controlID">514</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Формат:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">222 119 170 16 </string>
+              <string name="bounds">171 262 187 432 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203021">
+              <int name="controlID">507</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">400 119 225 16 </string>
+              <string name="bounds">171 440 187 665 </string>
+            </object>
+          </array>
+          <string name="bounds">52 40 228 830 </string>
+        </object>
+      </array>
+      <string name="bounds">0 20 230 850 </string>
+    </object>
+    <reference idRef="1203019"/>
+    <reference idRef="1203024"/>
+    <object class="IBCarbonStaticText" id="1203013">
+      <int name="controlID">7050</int>
+      <string name="title">iTunes произведет синхронизацию контента медиатеки Apple TV в следующем порядке: фильмы, телешоу, музыка, подкасты, фотографии. В зависимости от количества свободного места на Apple TV некоторые данные, возможно, не будут скопированы на Apple TV. </string>
+      <string name="viewFrame">185 20 497 73 </string>
+      <string name="bounds">585 225 658 722 </string>
+    </object>
+    <reference idRef="1203025"/>
+    <object class="IBCarbonUserPane" id="1203028">
+      <int name="controlID">2505</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 278 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonStaticText" id="1203030">
+          <int name="controlID">7053</int>
+          <string name="title">Синхронизация</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3001</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 22 283 23 </string>
+          <string name="bounds">252 40 275 323 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203029">
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>bcol</string>
+              <string>fsqr</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>f7f7f7</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 52 790 216 </string>
+          <array count="6" name="subviews">
+            <object class="IBCarbonRadioButton" id="1203033">
+              <int name="controlID">7054</int>
+              <boolean name="enabled">FALSE</boolean>
+              <string name="title">Автоматическая синхронизация</string>
+              <string name="viewFrame">130 20 364 19 </string>
+              <string name="bounds">302 170 321 534 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203032">
+              <int name="controlID">7055</int>
+              <int name="fontStyle">-2</int>
+              <string name="title">iTunes автоматически выбирает аудио- и видеофайлы для синхронизации, обрабатывая в первую очередь более новые объекты. Несинхронизированные объекты доступны в Apple TV при открытии iTunes.</string>
+              <string name="viewFrame">146 40 624 31 </string>
+              <string name="bounds">322 186 353 810 </string>
+            </object>
+            <object class="IBCarbonRadioButton" id="1203036">
+              <int name="controlID">7056</int>
+              <int name="initialState">1</int>
+              <string name="title">Пользовательская синхронизация</string>
+              <string name="viewFrame">130 80 336 19 </string>
+              <string name="bounds">362 170 381 506 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203035">
+              <int name="controlID">7050</int>
+              <int name="fontStyle">-2</int>
+              <string name="title">Вы выбираете аудио- и видеофайлы для синхронизации. В зависимости от количества свободного места объекты добавляются в следующем порядке: фильмы, телешоу, музыка, подкасты. Несинхронизированные объекты доступны в Apple TV при открытии iTunes.</string>
+              <string name="viewFrame">147 100 630 40 </string>
+              <string name="bounds">382 187 422 817 </string>
+            </object>
+            <object class="IBCarbonCheckBox" id="1203031">
+              <int name="controlID">7058</int>
+              <boolean name="enabled">FALSE</boolean>
+              <int name="fontStyle">105</int>
+              <string name="title">Показывать в Apple TV только синхронизированные объекты</string>
+              <string name="viewFrame">148 145 488 18 </string>
+              <string name="bounds">427 188 445 676 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203034">
+              <int name="controlID">7059</int>
+              <string name="title">Вы можете выбрать фотографии для синхронизации в Apple TV, нажав вкладку «Фото».</string>
+              <string name="viewFrame">130 180 627 16 </string>
+              <string name="bounds">462 170 478 797 </string>
+            </object>
+          </array>
+          <string name="bounds">282 40 498 830 </string>
+        </object>
+      </array>
+      <string name="bounds">230 20 508 850 </string>
+    </object>
+    <object class="IBCarbonHIView" id="1203010">
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <string name="viewFrame">20 52 790 113 </string>
+      <array count="2" name="subviews">
+        <reference idRef="1203013"/>
+        <object class="IBCarbonStaticText" id="1203012">
+          <int name="controlID">7051</int>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="title">iTunes произведет синхронизацию контента медиатеки Apple TV в следующем порядке: фотографии, фильмы, телешоу, музыка, а затем подкасты. В зависимости от количества свободного места на Apple TV некоторые медиафайлы, возможно, не будут скопированы на Apple TV.</string>
+          <string name="viewFrame">185 20 508 73 </string>
+          <string name="bounds">585 225 658 733 </string>
+        </object>
+      </array>
+      <string name="bounds">565 40 678 830 </string>
+    </object>
+    <object class="IBCarbonHIView" id="1203008">
+      <int name="controlID">2502</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>2503</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 513 870 180 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="1203009">
+          <int name="controlID">2503</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 184 </string>
+          <array count="2" name="subviews">
+            <object class="IBCarbonStaticText" id="1203011">
+              <int name="controlID">7052</int>
+              <string name="title">Мультимедиа</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3001</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 22 257 23 </string>
+              <string name="bounds">535 40 558 297 </string>
+            </object>
+            <reference idRef="1203010"/>
+          </array>
+          <string name="bounds">513 20 697 850 </string>
+        </object>
+      </array>
+      <string name="bounds">513 0 693 870 </string>
+    </object>
+    <reference idRef="1203012"/>
+    <reference idRef="1203022"/>
+    <reference idRef="1203023"/>
+    <reference idRef="1203011"/>
+    <reference idRef="1203018"/>
+    <reference idRef="1203031"/>
+    <reference idRef="1203036"/>
+    <reference idRef="1203016"/>
+    <reference idRef="1203035"/>
+    <reference idRef="1203021"/>
+    <reference idRef="1203032"/>
+    <object class="IBCarbonUserPane" id="1203005">
+      <int name="controlID">100</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 871 696 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="1203007">
+          <int name="controlID">2500</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2501</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 0 870 230 </string>
+          <array count="1" name="subviews">
+            <reference idRef="1203014"/>
+          </array>
+          <string name="bounds">0 0 230 870 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203006">
+          <int name="controlID">2504</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2505</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 230 870 283 </string>
+          <array count="1" name="subviews">
+            <reference idRef="1203028"/>
+          </array>
+          <string name="bounds">230 0 513 870 </string>
+        </object>
+        <reference idRef="1203008"/>
+      </array>
+      <string name="bounds">0 0 696 871 </string>
+    </object>
+    <reference idRef="1203026"/>
+    <reference idRef="1203020"/>
+    <reference idRef="1203034"/>
+    <reference idRef="1203033"/>
+    <reference idRef="1203006"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203007"/>
+    <reference idRef="1203017"/>
+    <reference idRef="1203030"/>
+    <reference idRef="1203027"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+  </array>
+  <array count="32" name="allParents">
+    <reference idRef="1203007"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203006"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203008"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203028"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="1203005"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">1203037</unsigned_int>
+</object>

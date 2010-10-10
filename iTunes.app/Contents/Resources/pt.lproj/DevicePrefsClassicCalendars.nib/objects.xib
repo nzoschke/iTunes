@@ -1,0 +1,138 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonRadioButton" id="5095">
+      <int name="controlID">955</int>
+      <boolean name="enabled">FALSE</boolean>
+      <string name="title">Todos os calendários</string>
+      <string name="viewFrame">95 16 263 18 </string>
+      <string name="bounds">68 135 86 398 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5092">
+      <int name="controlID">960</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>961</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 286 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5094">
+          <int name="controlID">961</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 286 </string>
+          <array count="2" name="subviews">
+            <object class="IBCarbonCheckBox" id="5096">
+              <int name="controlID">953</int>
+              <string name="title">Sincronizar Calendários do iCal</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3001</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 22 492 23 </string>
+              <string name="bounds">22 40 45 532 </string>
+            </object>
+            <object class="IBCarbonHIView" id="5100">
+              <int name="controlID">952</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>bcol</string>
+                  <string>fsqr</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>f7f7f7</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 52 790 211 </string>
+              <array count="3" name="subviews">
+                <reference idRef="5095"/>
+                <object class="IBCarbonRadioButton" id="5097">
+                  <int name="controlID">956</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <string name="title">Calendários selecionados</string>
+                  <string name="viewFrame">95 40 341 18 </string>
+                  <string name="bounds">92 135 110 476 </string>
+                </object>
+                <object class="IBCarbonHIView" id="5098">
+                  <int name="controlID">957</int>
+                  <string name="classID">com.apple.itunes.CheckListView</string>
+                  <string name="viewFrame">116 67 320 120 </string>
+                  <string name="bounds">119 156 239 476 </string>
+                </object>
+              </array>
+              <string name="bounds">52 40 263 830 </string>
+            </object>
+          </array>
+          <string name="bounds">0 20 286 850 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 286 870 </string>
+    </object>
+    <reference idRef="5096"/>
+    <reference idRef="5097"/>
+    <reference idRef="5094"/>
+    <reference idRef="5100"/>
+    <reference idRef="5098"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="5100"/>
+    <reference idRef="1"/>
+    <reference idRef="5094"/>
+    <reference idRef="5100"/>
+    <reference idRef="5092"/>
+    <reference idRef="5094"/>
+    <reference idRef="5100"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5092"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5101</unsigned_int>
+</object>

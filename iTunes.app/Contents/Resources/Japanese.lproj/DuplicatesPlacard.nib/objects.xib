@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="3" name="allObjects">
+    <object class="IBCarbonHIView" id="202">
+      <int name="controlID">3160</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>1034</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 400 46 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonStaticText" id="204">
+          <int name="controlID">3161</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">重複する項目を表示中</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>546</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">125 2 150 16 </string>
+          <string name="bounds">2 125 18 275 </string>
+        </object>
+        <object class="IBCarbonButton" id="203">
+          <int name="controlID">3162</int>
+          <int name="controlSize">1</int>
+          <ostype name="command">SDup</ostype>
+          <string name="title">すべてを表示</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>312</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">151 20 98 20 </string>
+          <string name="bounds">20 151 40 249 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 46 400 </string>
+    </object>
+    <reference idRef="203"/>
+    <reference idRef="204"/>
+  </array>
+  <array count="3" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="202"/>
+    <reference idRef="202"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="202"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">205</unsigned_int>
+</object>

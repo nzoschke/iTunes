@@ -1,0 +1,199 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="15" name="allObjects">
+    <object class="IBCarbonStaticText" id="5400">
+      <int name="controlID">117</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">-2</int>
+      <string name="title">iTunes kan synkronisere iPhone-enheten automatisk med Adressebok-kontakter, iCal-kalendere og Safari-bokmerker hver gang den kobles til denne Mac-maskinen.</string>
+      <string name="viewFrame">198 101 562 38 </string>
+      <string name="bounds">101 198 139 760 </string>
+    </object>
+    <object class="IBCarbonPicture" id="5399">
+      <int name="controlID">110</int>
+      <int name="contentResID">0</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">29 48 128 128 </string>
+      <string name="bounds">48 29 176 157 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5396">
+      <int name="controlID">100</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="14" name="subviews">
+        <reference idRef="5399"/>
+        <object class="IBCarbonStaticText" id="5407">
+          <int name="controlID">120</int>
+          <string name="title">Navn:</string>
+          <string name="viewFrame">179 42 46 20 </string>
+          <string name="bounds">42 179 62 225 </string>
+        </object>
+        <object class="IBCarbonEditText" id="5402">
+          <int name="controlID">121</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="title">iPhone</string>
+          <string name="viewFrame">231 43 239 16 </string>
+          <string name="bounds">43 231 59 470 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5401">
+          <int name="controlID">124</int>
+          <int name="initialState">1</int>
+          <string name="title">Synkroniser kontakter, kalendere, bokmerker og e-postkontoer automatisk</string>
+          <string name="viewFrame">180 74 587 19 </string>
+          <string name="bounds">74 180 93 767 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5410">
+          <int name="controlID">116</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Synkroniser kontakter, kalendere og bokmerker automatisk</string>
+          <string name="viewFrame">180 75 592 18 </string>
+          <string name="bounds">75 180 93 772 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5397">
+          <int name="controlID">114</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Synkroniser kontakter, kalendere, bokmerker, notater og e-postkontoer automatisk</string>
+          <string name="viewFrame">180 74 587 19 </string>
+          <string name="bounds">74 180 93 767 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5403">
+          <int name="controlID">150</int>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="viewFrame">180 76 580 34 </string>
+          <string name="bounds">76 180 110 760 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5408">
+          <int name="controlID">115</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes kan automatisk synkronisere iPhone-enheten med Adressebok-kontakter, iCal-kalendere, Safari-bokmerker, notater og Mail-kontoer hver gang enheten kobles til denne Mac-maskinen.</string>
+          <string name="viewFrame">198 101 557 38 </string>
+          <string name="bounds">101 198 139 755 </string>
+        </object>
+        <reference idRef="5400"/>
+        <object class="IBCarbonStaticText" id="5409">
+          <int name="controlID">125</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes kan automatisk synkronisere iPhone-enheten med Adressebok-kontakter, iCal-kalendere, Safari-bokmerker og Mail-kontoer hver gang iPhone-enheten kobles til denne Mac-maskinen.</string>
+          <string name="viewFrame">198 101 557 38 </string>
+          <string name="bounds">101 198 139 755 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5406">
+          <int name="controlID">151</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Innstillinger for trådløs synkronisering kan endres på iPhone-enheten.</string>
+          <string name="viewFrame">183 114 580 18 </string>
+          <string name="bounds">114 183 132 763 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5398">
+          <int name="controlID">138</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Overfør medier til iPhone-enheten ved å endre innstillingene i de ulike panelene på neste skjerm.</string>
+          <string name="viewFrame">198 134 574 29 </string>
+          <string name="bounds">134 198 163 772 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5405">
+          <int name="controlID">152</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Overfør medier til iPhone-enheten ved å endre innstillingene i de ulike panelene på neste skjerm.</string>
+          <string name="viewFrame">183 150 592 20 </string>
+          <string name="bounds">150 183 170 775 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5404">
+          <int name="controlID">118</int>
+          <string name="title">Synkroniser programmer automatisk</string>
+          <string name="viewFrame">180 178 481 18 </string>
+          <string name="bounds">178 180 196 661 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="5401"/>
+    <reference idRef="5398"/>
+    <reference idRef="5406"/>
+    <reference idRef="5397"/>
+    <reference idRef="5403"/>
+    <reference idRef="5404"/>
+    <reference idRef="5405"/>
+    <reference idRef="5402"/>
+    <reference idRef="5409"/>
+    <reference idRef="5407"/>
+    <reference idRef="5408"/>
+    <reference idRef="5410"/>
+  </array>
+  <array count="15" name="allParents">
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="1"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5396"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5411</unsigned_int>
+</object>

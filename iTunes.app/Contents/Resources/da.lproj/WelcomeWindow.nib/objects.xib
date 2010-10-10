@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="6" name="allObjects">
+    <object class="IBCarbonWindow" id="3">
+      <boolean name="autoDragTracking">TRUE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="asyncDrag">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="windowPosition">1</int>
+      <int name="scalingMode">1048576</int>
+      <string name="title">iTunes-øvelser</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="4">
+        <string name="viewFrame">0 0 960 592 </string>
+        <array count="2" name="subviews">
+          <object class="IBCarbonHIView" id="31">
+            <int name="controlID">1000</int>
+            <string name="classID">com.apple.itunes.uiwebkitview</string>
+            <string name="viewFrame">0 0 960 540 </string>
+            <string name="bounds">0 0 540 960 </string>
+          </object>
+          <object class="IBCarbonHIView" id="16">
+            <int name="controlID">1001</int>
+            <string name="classID">com.apple.itunes.uiboxview</string>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="1">
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="1">
+                <string>PBUT</string>
+              </array>
+              <string>types</string>
+              <array count="1">
+                <string>6</string>
+              </array>
+              <string>values</string>
+              <array count="1">
+                <string>1035</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 541 960 52 </string>
+            <array count="2" name="subviews">
+              <object class="IBCarbonCheckBox" id="23">
+                <int name="controlID">1002</int>
+                <int name="initialState">1</int>
+                <string name="title">Vis dette vindue, når iTunes åbner</string>
+                <string name="viewFrame">18 16 260 16 </string>
+                <string name="bounds">557 18 573 278 </string>
+              </object>
+              <object class="IBCarbonBevelButton" id="18">
+                <int name="controlID">1003</int>
+                <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                  <int name="bindingRightKind">2</int>
+                </object>
+                <int name="bevelThickness">1</int>
+                <int name="contentType">0</int>
+                <int name="textPlacement">3</int>
+                <boolean name="rounded">TRUE</boolean>
+                <string name="title">Luk</string>
+                <string name="viewFrame">860 13 80 22 </string>
+                <string name="bounds">554 860 576 940 </string>
+              </object>
+            </array>
+            <string name="bounds">541 0 593 960 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 592 960 </string>
+      </object>
+      <string name="windowRect">300 300 892 1260 </string>
+      <string name="ScreenRectAtEncodeTime">48 0 1177 1920 </string>
+    </object>
+    <reference idRef="4"/>
+    <reference idRef="31"/>
+    <reference idRef="18"/>
+    <reference idRef="23"/>
+    <reference idRef="16"/>
+  </array>
+  <array count="6" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="3"/>
+    <reference idRef="4"/>
+    <reference idRef="16"/>
+    <reference idRef="16"/>
+    <reference idRef="4"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>window</string>
+    <reference idRef="3"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">32</unsigned_int>
+</object>

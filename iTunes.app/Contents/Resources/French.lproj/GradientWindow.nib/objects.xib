@@ -1,0 +1,829 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="28" name="allObjects">
+    <object class="IBCarbonHIView" id="281">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13014</string>
+          <string>5</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">4 9 13 14 </string>
+      <string name="bounds">9 4 23 17 </string>
+    </object>
+    <object class="IBCarbonHIView" id="282">
+      <int name="controlID">1052</int>
+      <ostype name="command">zoom</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13016</string>
+          <string>7</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">4 41 13 14 </string>
+      <string name="bounds">41 4 55 17 </string>
+    </object>
+    <object class="IBCarbonHIView" id="338">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13007</string>
+          <string>1</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">8 4 14 16 </string>
+      <string name="bounds">4 8 20 22 </string>
+    </object>
+    <object class="IBCarbonHIView" id="289">
+      <int name="controlID">102</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowtitlebarview</string>
+      <string name="viewFrame">0 0 440 16 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonHIView" id="293">
+          <int name="controlID">1001</int>
+          <string name="classID">com.apple.itunes.windowtitletextview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>731</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">102 0 234 15 </string>
+          <string name="bounds">0 102 15 336 </string>
+        </object>
+        <object class="IBCarbonHIView" id="292">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13014</string>
+              <string>5</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">5 1 13 14 </string>
+          <string name="bounds">1 5 15 18 </string>
+        </object>
+        <object class="IBCarbonHIView" id="291">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13015</string>
+              <string>6</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">23 1 13 14 </string>
+          <string name="bounds">1 23 15 36 </string>
+        </object>
+        <object class="IBCarbonHIView" id="290">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13016</string>
+              <string>7</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">41 1 13 14 </string>
+          <string name="bounds">1 41 15 54 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 16 440 </string>
+    </object>
+    <object class="IBCarbonHIView" id="331">
+      <int name="controlID">1001</int>
+      <string name="classID">com.apple.itunes.windowtitletextview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>730</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">102 1 234 18 </string>
+      <string name="bounds">1 102 19 336 </string>
+    </object>
+    <object class="IBCarbonHIView" id="323">
+      <int name="controlID">1051</int>
+      <ostype name="command">mini</ostype>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13018</string>
+          <string>6</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">8 25 12 13 </string>
+      <string name="bounds">25 8 38 20 </string>
+    </object>
+    <object class="IBCarbonHIView" id="288">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13004</string>
+          <string>1</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">8 4 14 16 </string>
+      <string name="bounds">4 8 20 22 </string>
+    </object>
+    <object class="IBCarbonHIView" id="284">
+      <int name="controlID">100</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowtitlebarview</string>
+      <string name="viewFrame">0 0 440 22 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonHIView" id="286">
+          <int name="controlID">1001</int>
+          <string name="classID">com.apple.itunes.windowtitletextview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>730</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">102 1 234 18 </string>
+          <string name="bounds">1 102 19 336 </string>
+        </object>
+        <reference idRef="288"/>
+        <object class="IBCarbonHIView" id="285">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13005</string>
+              <string>2</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">29 4 14 16 </string>
+          <string name="bounds">4 29 20 43 </string>
+        </object>
+        <object class="IBCarbonHIView" id="287">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13006</string>
+              <string>3</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">50 4 14 16 </string>
+          <string name="bounds">4 50 20 64 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 22 440 </string>
+    </object>
+    <object class="IBCarbonHIView" id="341">
+      <int name="controlID">1051</int>
+      <ostype name="command">mini</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13008</string>
+          <string>2</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">29 4 14 16 </string>
+      <string name="bounds">4 29 20 43 </string>
+    </object>
+    <object class="IBCarbonHIView" id="280">
+      <int name="controlID">101</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowtitlebarview</string>
+      <string name="viewFrame">0 0 24 71 </string>
+      <array count="3" name="subviews">
+        <reference idRef="281"/>
+        <object class="IBCarbonHIView" id="283">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13015</string>
+              <string>6</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">4 25 13 14 </string>
+          <string name="bounds">25 4 39 17 </string>
+        </object>
+        <reference idRef="282"/>
+      </array>
+      <string name="bounds">0 0 71 24 </string>
+    </object>
+    <reference idRef="292"/>
+    <reference idRef="290"/>
+    <object class="IBCarbonHIView" id="328">
+      <int name="controlID">1052</int>
+      <ostype name="command">zoom</ostype>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13019</string>
+          <string>7</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">8 53 12 13 </string>
+      <string name="bounds">53 8 66 20 </string>
+    </object>
+    <object class="IBCarbonHIView" id="327">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13017</string>
+          <string>5</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">8 17 12 13 </string>
+      <string name="bounds">17 8 30 20 </string>
+    </object>
+    <object class="IBCarbonHIView" id="322">
+      <int name="controlID">103</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowtitlebarview</string>
+      <string name="viewFrame">0 0 96 62 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="325">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13017</string>
+              <string>5</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 7 12 13 </string>
+          <string name="bounds">7 8 20 20 </string>
+        </object>
+        <reference idRef="323"/>
+        <object class="IBCarbonHIView" id="324">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13019</string>
+              <string>7</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 43 12 13 </string>
+          <string name="bounds">43 8 56 20 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 62 96 </string>
+    </object>
+    <object class="IBCarbonHIView" id="326">
+      <int name="controlID">104</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowtitlebarview</string>
+      <string name="viewFrame">0 0 440 72 </string>
+      <array count="4" name="subviews">
+        <reference idRef="327"/>
+        <object class="IBCarbonHIView" id="329">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <string name="classID">com.apple.itunes.windowframebuttonview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13018</string>
+              <string>6</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 35 12 13 </string>
+          <string name="bounds">35 8 48 20 </string>
+        </object>
+        <reference idRef="328"/>
+        <reference idRef="331"/>
+      </array>
+      <string name="bounds">0 0 72 440 </string>
+    </object>
+    <reference idRef="285"/>
+    <reference idRef="291"/>
+    <reference idRef="325"/>
+    <reference idRef="283"/>
+    <reference idRef="324"/>
+    <reference idRef="293"/>
+    <reference idRef="286"/>
+    <reference idRef="329"/>
+    <object class="IBCarbonHIView" id="339">
+      <int name="controlID">1052</int>
+      <ostype name="command">zoom</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowframebuttonview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13009</string>
+          <string>3</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">50 4 14 16 </string>
+      <string name="bounds">4 50 20 64 </string>
+    </object>
+    <object class="IBCarbonHIView" id="340">
+      <int name="controlID">1001</int>
+      <string name="classID">com.apple.itunes.windowtitletextview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>740</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">102 1 234 18 </string>
+      <string name="bounds">1 102 19 336 </string>
+    </object>
+    <object class="IBCarbonHIView" id="337">
+      <int name="controlID">105</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.windowtitlebarview</string>
+      <string name="viewFrame">0 0 440 22 </string>
+      <array count="4" name="subviews">
+        <reference idRef="340"/>
+        <reference idRef="338"/>
+        <reference idRef="341"/>
+        <reference idRef="339"/>
+      </array>
+      <string name="bounds">0 0 22 440 </string>
+    </object>
+    <reference idRef="287"/>
+  </array>
+  <array count="28" name="allParents">
+    <reference idRef="280"/>
+    <reference idRef="280"/>
+    <reference idRef="337"/>
+    <reference idRef="1"/>
+    <reference idRef="326"/>
+    <reference idRef="322"/>
+    <reference idRef="284"/>
+    <reference idRef="1"/>
+    <reference idRef="337"/>
+    <reference idRef="1"/>
+    <reference idRef="289"/>
+    <reference idRef="289"/>
+    <reference idRef="326"/>
+    <reference idRef="326"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="284"/>
+    <reference idRef="289"/>
+    <reference idRef="322"/>
+    <reference idRef="280"/>
+    <reference idRef="322"/>
+    <reference idRef="289"/>
+    <reference idRef="284"/>
+    <reference idRef="326"/>
+    <reference idRef="337"/>
+    <reference idRef="337"/>
+    <reference idRef="1"/>
+    <reference idRef="284"/>
+  </array>
+  <dictionary count="7" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Leopard SideSmallTitleBar</string>
+    <reference idRef="280"/>
+    <string>Leopard SideTitleBar</string>
+    <reference idRef="326"/>
+    <string>Leopard SideTitleBarNoTitle</string>
+    <reference idRef="322"/>
+    <string>Leopard TitleBar</string>
+    <reference idRef="284"/>
+    <string>Leopard UtilityWindowTitleBar</string>
+    <reference idRef="289"/>
+    <string>QuickTime Look Titlebar</string>
+    <reference idRef="337"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">342</unsigned_int>
+</object>

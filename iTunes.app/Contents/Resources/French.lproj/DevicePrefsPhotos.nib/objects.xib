@@ -1,0 +1,825 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="67" name="allObjects">
+    <object class="IBCarbonMenuItem" id="5219">
+      <string name="title">tous les événements</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <ostype name="command">0000</ostype>
+    </object>
+    <object class="IBCarbonMenuItem" id="5225">
+      <string name="title">les événements des 12 derniers mois</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <ostype name="command">0112</ostype>
+    </object>
+    <object class="IBCarbonHIView" id="5123">
+      <int name="controlID">7006</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>bcol</string>
+          <string>fsqr</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>f7f7f7</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 52 790 203 </string>
+      <array count="11" name="subviews">
+        <object class="IBCarbonRadioButton" id="5107">
+          <int name="controlID">7007</int>
+          <int name="initialState">1</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Tous les albums, photos, événements et visages</string>
+          <string name="viewFrame">12 8 480 18 </string>
+          <string name="bounds">60 52 78 532 </string>
+        </object>
+        <object class="IBCarbonRadioButton" id="5104">
+          <int name="controlID">7008</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Albums, événements et visages sélectionnés, et inclure automatiquement</string>
+          <string name="viewFrame">12 37 495 18 </string>
+          <string name="bounds">89 52 107 547 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="5103">
+          <int name="controlID">7009</int>
+          <boolean name="enabled">FALSE</boolean>
+          <int name="selectedItem">7</int>
+          <object name="menu" class="IBCarbonMenu" id="5108">
+            <string name="title">Menu local</string>
+            <array count="13" name="items">
+              <object class="IBCarbonMenuItem" id="5110">
+                <string name="title">aucun événement</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0255</ostype>
+              </object>
+              <reference idRef="5219"/>
+              <object class="IBCarbonMenuItem" id="5220">
+                <string name="title">l’événement le plus récent</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0001</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5114">
+                <string name="title">les 3 événements les plus récents</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0003</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5112">
+                <string name="title">les 5 événements les plus récents</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0005</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5111">
+                <string name="title">les 10 événements les plus récents</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0010</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5109">
+                <string name="title">les 20 événements les plus récents</string>
+                <boolean name="checked">TRUE</boolean>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0020</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5216">
+                <string name="title">-(</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0100</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5221">
+                <string name="title">les événements du mois dernier</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0101</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5222">
+                <string name="title">les événements des 2 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0102</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5223">
+                <string name="title">les événements des 3 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0103</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5224">
+                <string name="title">les événements des 6 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0106</ostype>
+              </object>
+              <reference idRef="5225"/>
+            </array>
+          </object>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>events</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">503 35 277 20 </string>
+          <string name="bounds">87 543 107 820 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5257">
+          <int name="controlID">7011</int>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">678 39 40 16 </string>
+          <string name="bounds">91 718 107 758 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="5242">
+          <int name="controlID">7010</int>
+          <boolean name="enabled">FALSE</boolean>
+          <int name="selectedItem">7</int>
+          <object name="menu" class="IBCarbonMenu" id="5243">
+            <string name="title">Menu local</string>
+            <array count="13" name="items">
+              <object class="IBCarbonMenuItem" id="5255">
+                <string name="title">aucun projet</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0255</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5250">
+                <string name="title">tous les projets</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0000</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5249">
+                <string name="title">le projet le plus récent</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0001</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5252">
+                <string name="title">les 3 projets les plus récents</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0003</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5253">
+                <string name="title">les 5 projets les plus récents</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0005</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5254">
+                <string name="title">les 10 projets les plus récents</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0010</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5256">
+                <string name="title">les 20 projets les plus récents</string>
+                <boolean name="checked">TRUE</boolean>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0020</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5251">
+                <string name="title">-(</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0100</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5248">
+                <string name="title">les projets du mois dernier</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0101</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5247">
+                <string name="title">les projets des 2 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0102</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5246">
+                <string name="title">les projets des 3 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0103</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5245">
+                <string name="title">les projets des 6 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0106</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5244">
+                <string name="title">les projets des 12 derniers mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0112</ostype>
+              </object>
+            </array>
+          </object>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>projects</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">503 58 277 20 </string>
+          <string name="bounds">110 543 130 820 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5230">
+          <int name="controlID">7013</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Synchroniser les photos avant tout autre contenu</string>
+          <string name="viewFrame">12 70 378 18 </string>
+          <string name="bounds">122 52 140 430 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5231">
+          <int name="controlID">7014</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Inclure les vidéos</string>
+          <string name="viewFrame">12 92 341 18 </string>
+          <string name="bounds">144 52 162 393 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5232">
+          <int name="controlID">7015</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Inclure les photos en pleine résolution</string>
+          <string name="viewFrame">12 114 341 18 </string>
+          <string name="bounds">166 52 184 393 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5233">
+          <int name="controlID">7016</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Copier les versions en pleine résolution de vos photos dans le dossier Photos de votre iPod, auquel vous pouvez accéder après en avoir activé l’utilisation comme disque dur. </string>
+          <string name="viewFrame">32 135 521 30 </string>
+          <string name="bounds">187 72 217 593 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5234">
+          <int name="controlID">7017</int>
+          <boolean name="autoToggle">FALSE</boolean>
+          <string name="title">Synchroniser les photos uniquement depuis</string>
+          <string name="viewFrame">12 168 314 18 </string>
+          <string name="bounds">220 52 238 366 </string>
+        </object>
+        <object class="IBCarbonPopupButton" id="5235">
+          <int name="controlID">7018</int>
+          <boolean name="enabled">FALSE</boolean>
+          <int name="selectedItem">5</int>
+          <object name="menu" class="IBCarbonMenu" id="5236">
+            <string name="title">Menu local</string>
+            <array count="5" name="items">
+              <object class="IBCarbonMenuItem" id="5240">
+                <string name="title">1 mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0001</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5237">
+                <string name="title">2 mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0002</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5238">
+                <string name="title">3 mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0003</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5239">
+                <string name="title">6 mois</string>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0006</ostype>
+              </object>
+              <object class="IBCarbonMenuItem" id="5241">
+                <string name="title">12 mois</string>
+                <boolean name="checked">TRUE</boolean>
+                <boolean name="updateSingleItem">TRUE</boolean>
+                <ostype name="command">0012</ostype>
+              </object>
+            </array>
+          </object>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>time range</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">328 167 110 20 </string>
+          <string name="bounds">219 368 239 478 </string>
+        </object>
+      </array>
+      <string name="bounds">52 40 255 830 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5209">
+      <int name="controlID">7021</int>
+      <string name="title">Projets et albums</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 25 301 23 </string>
+      <string name="bounds">280 40 303 341 </string>
+    </object>
+    <reference idRef="5253"/>
+    <object class="IBCarbonUserPane" id="5215">
+      <int name="controlID">7020</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 255 830 428 </string>
+      <array count="7" name="subviews">
+        <reference idRef="5209"/>
+        <object class="IBCarbonHIView" id="5210">
+          <int name="controlID">7022</int>
+          <string name="classID">com.apple.itunes.CheckListView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>albums</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 54 375 150 </string>
+          <string name="bounds">309 40 459 415 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5208">
+          <int name="controlID">7023</int>
+          <string name="title">Événements</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>3001</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">435 25 178 23 </string>
+          <string name="bounds">280 455 303 633 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5226">
+          <int name="controlID">7027</int>
+          <int name="justification">-1</int>
+          <string name="viewFrame">672 20 142 31 </string>
+          <string name="bounds">275 692 306 834 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5211">
+          <int name="controlID">7024</int>
+          <string name="classID">com.apple.itunes.CheckListView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>events</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">435 54 375 150 </string>
+          <string name="bounds">309 455 459 830 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5212">
+          <int name="controlID">7025</int>
+          <string name="title">Visages</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>3001</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 229 255 23 </string>
+          <string name="bounds">484 40 507 295 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5213">
+          <int name="controlID">7026</int>
+          <string name="classID">com.apple.itunes.CheckListView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>faces</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 258 375 150 </string>
+          <string name="bounds">513 40 663 415 </string>
+        </object>
+      </array>
+      <string name="bounds">255 20 683 850 </string>
+    </object>
+    <reference idRef="5216"/>
+    <reference idRef="5211"/>
+    <object class="IBCarbonMenuItem" id="5117">
+      <string name="title">Choisir un dossier…</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <ostype name="command">0020</ostype>
+    </object>
+    <reference idRef="5226"/>
+    <reference idRef="5114"/>
+    <reference idRef="5210"/>
+    <reference idRef="5236"/>
+    <reference idRef="5110"/>
+    <reference idRef="5254"/>
+    <object class="IBCarbonPopupButton" id="5102">
+      <int name="controlID">7004</int>
+      <int name="selectedItem">3</int>
+      <object name="menu" class="IBCarbonMenu" id="5115">
+        <string name="title">Menu local</string>
+        <array count="7" name="items">
+          <object class="IBCarbonMenuItem" id="5119">
+            <string name="title">Photoshop Album</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <ostype name="command">0003</ostype>
+          </object>
+          <object class="IBCarbonMenuItem" id="5228">
+            <string name="title">Photoshop Elements</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <ostype name="command">0004</ostype>
+          </object>
+          <object class="IBCarbonMenuItem" id="5229">
+            <string name="title">iPhoto</string>
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <ostype name="command">0001</ostype>
+          </object>
+          <object class="IBCarbonMenuItem" id="5118">
+            <string name="title">Aperture</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <ostype name="command">0005</ostype>
+          </object>
+          <object class="IBCarbonMenuItem" id="5116">
+            <string name="title">-(</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+          </object>
+          <reference idRef="5117"/>
+          <object class="IBCarbonMenuItem" id="5120">
+            <string name="title">Images</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <ostype name="command">0002</ostype>
+          </object>
+        </array>
+      </object>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>photo source</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">247 24 157 20 </string>
+      <string name="bounds">24 267 44 424 </string>
+    </object>
+    <reference idRef="5234"/>
+    <reference idRef="5251"/>
+    <reference idRef="5223"/>
+    <object class="IBCarbonCheckBox" id="5099">
+      <int name="controlID">7003</int>
+      <boolean name="autoToggle">FALSE</boolean>
+      <string name="title">Synchroniser les photos depuis</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3001</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 22 224 23 </string>
+      <string name="bounds">22 40 45 264 </string>
+    </object>
+    <reference idRef="5241"/>
+    <reference idRef="5238"/>
+    <reference idRef="5221"/>
+    <reference idRef="5111"/>
+    <reference idRef="5222"/>
+    <reference idRef="5120"/>
+    <reference idRef="5112"/>
+    <reference idRef="5230"/>
+    <reference idRef="5247"/>
+    <reference idRef="5240"/>
+    <reference idRef="5233"/>
+    <reference idRef="5255"/>
+    <reference idRef="5243"/>
+    <object class="IBCarbonStaticText" id="5122">
+      <int name="controlID">7005</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="justification">-1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3015</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">610 22 200 23 </string>
+      <string name="bounds">22 630 45 830 </string>
+    </object>
+    <reference idRef="5235"/>
+    <reference idRef="5116"/>
+    <reference idRef="5249"/>
+    <reference idRef="5119"/>
+    <reference idRef="5229"/>
+    <reference idRef="5245"/>
+    <reference idRef="5104"/>
+    <reference idRef="5256"/>
+    <reference idRef="5232"/>
+    <reference idRef="5109"/>
+    <reference idRef="5118"/>
+    <reference idRef="5244"/>
+    <object class="IBCarbonUserPane" id="5093">
+      <int name="controlID">7002</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 683 </string>
+      <array count="5" name="subviews">
+        <reference idRef="5099"/>
+        <reference idRef="5102"/>
+        <reference idRef="5122"/>
+        <reference idRef="5123"/>
+        <reference idRef="5215"/>
+      </array>
+      <string name="bounds">0 20 683 850 </string>
+    </object>
+    <reference idRef="5208"/>
+    <reference idRef="5108"/>
+    <object class="IBCarbonHIView" id="5092">
+      <int name="controlID">7001</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>7002</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 683 </string>
+      <array count="1" name="subviews">
+        <reference idRef="5093"/>
+      </array>
+      <string name="bounds">0 0 683 870 </string>
+    </object>
+    <reference idRef="5228"/>
+    <reference idRef="5250"/>
+    <reference idRef="5103"/>
+    <reference idRef="5246"/>
+    <reference idRef="5115"/>
+    <reference idRef="5252"/>
+    <reference idRef="5224"/>
+    <reference idRef="5107"/>
+    <reference idRef="5248"/>
+    <reference idRef="5257"/>
+    <reference idRef="5237"/>
+    <reference idRef="5220"/>
+    <reference idRef="5212"/>
+    <reference idRef="5239"/>
+    <reference idRef="5231"/>
+    <reference idRef="5242"/>
+    <reference idRef="5213"/>
+  </array>
+  <array count="67" name="allParents">
+    <reference idRef="5108"/>
+    <reference idRef="5108"/>
+    <reference idRef="5093"/>
+    <reference idRef="5215"/>
+    <reference idRef="5243"/>
+    <reference idRef="5093"/>
+    <reference idRef="5108"/>
+    <reference idRef="5215"/>
+    <reference idRef="5115"/>
+    <reference idRef="5215"/>
+    <reference idRef="5108"/>
+    <reference idRef="5215"/>
+    <reference idRef="5235"/>
+    <reference idRef="5108"/>
+    <reference idRef="5243"/>
+    <reference idRef="5093"/>
+    <reference idRef="5123"/>
+    <reference idRef="5243"/>
+    <reference idRef="5108"/>
+    <reference idRef="5093"/>
+    <reference idRef="5236"/>
+    <reference idRef="5236"/>
+    <reference idRef="5108"/>
+    <reference idRef="5108"/>
+    <reference idRef="5108"/>
+    <reference idRef="5115"/>
+    <reference idRef="5108"/>
+    <reference idRef="5123"/>
+    <reference idRef="5243"/>
+    <reference idRef="5236"/>
+    <reference idRef="5123"/>
+    <reference idRef="5243"/>
+    <reference idRef="5242"/>
+    <reference idRef="5093"/>
+    <reference idRef="5123"/>
+    <reference idRef="5115"/>
+    <reference idRef="5243"/>
+    <reference idRef="5115"/>
+    <reference idRef="5115"/>
+    <reference idRef="5243"/>
+    <reference idRef="5123"/>
+    <reference idRef="5243"/>
+    <reference idRef="5123"/>
+    <reference idRef="5108"/>
+    <reference idRef="5115"/>
+    <reference idRef="5243"/>
+    <reference idRef="5092"/>
+    <reference idRef="5215"/>
+    <reference idRef="5103"/>
+    <reference idRef="1"/>
+    <reference idRef="5115"/>
+    <reference idRef="5243"/>
+    <reference idRef="5123"/>
+    <reference idRef="5243"/>
+    <reference idRef="5102"/>
+    <reference idRef="5243"/>
+    <reference idRef="5108"/>
+    <reference idRef="5123"/>
+    <reference idRef="5243"/>
+    <reference idRef="5123"/>
+    <reference idRef="5236"/>
+    <reference idRef="5108"/>
+    <reference idRef="5215"/>
+    <reference idRef="5236"/>
+    <reference idRef="5123"/>
+    <reference idRef="5123"/>
+    <reference idRef="5215"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5092"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5258</unsigned_int>
+</object>

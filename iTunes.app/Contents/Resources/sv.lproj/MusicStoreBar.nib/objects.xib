@@ -1,0 +1,235 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="8" name="allObjects">
+    <object class="IBCarbonHIView" id="375">
+      <int name="controlID">34005</int>
+      <ostype name="command">Msvc</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>606</string>
+          <string>600</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">295 4 146 19 </string>
+      <string name="bounds">4 295 23 441 </string>
+    </object>
+    <object class="IBCarbonHIView" id="371">
+      <int name="controlID">34002</int>
+      <ostype name="command">Msgf</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>602</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">34 4 26 19 </string>
+      <string name="bounds">4 34 23 60 </string>
+    </object>
+    <object class="IBCarbonHIView" id="373">
+      <int name="controlID">34003</int>
+      <ostype name="command">Msgh</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">com.apple.itunes.uipicturebutton</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>626</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">67 4 32 19 </string>
+      <string name="bounds">4 67 23 99 </string>
+    </object>
+    <object class="IBCarbonWindow" id="318">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="hasCloseBox">FALSE</boolean>
+      <boolean name="hasCollapseBox">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Fält för iTunes Store</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="319">
+        <string name="viewFrame">0 0 448 28 </string>
+        <array count="1" name="subviews">
+          <object class="IBCarbonHIView" id="329">
+            <int name="controlID">34000</int>
+            <string name="classID">com.apple.itunes.uipicturebutton</string>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="2">
+                <string>hook</string>
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="2">
+                <string>PBUT</string>
+                <string>NOAX</string>
+              </array>
+              <string>types</string>
+              <array count="2">
+                <string>6</string>
+                <string>2</string>
+              </array>
+              <string>values</string>
+              <array count="2">
+                <string>612</string>
+                <string>true</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">0 0 448 28 </string>
+            <array count="5" name="subviews">
+              <object class="IBCarbonHIView" id="370">
+                <int name="controlID">34001</int>
+                <ostype name="command">Msgb</ostype>
+                <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                  <int name="bindingTopKind">1</int>
+                  <int name="bindingLeftKind">1</int>
+                </object>
+                <string name="classID">com.apple.itunes.uipicturebutton</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="1">
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="1">
+                    <string>PBUT</string>
+                  </array>
+                  <string>types</string>
+                  <array count="1">
+                    <string>6</string>
+                  </array>
+                  <string>values</string>
+                  <array count="1">
+                    <string>600</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">7 4 27 19 </string>
+                <string name="bounds">4 7 23 34 </string>
+              </object>
+              <reference idRef="371"/>
+              <object class="IBCarbonHIView" id="372">
+                <int name="controlID">34004</int>
+                <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                  <int name="bindingTopKind">1</int>
+                  <int name="bindingRightKind">2</int>
+                </object>
+                <string name="classID">com.apple.itunes.uipicturebutton</string>
+                <dictionary count="4" name="auxiliaryDictionary">
+                  <string>creators</string>
+                  <array count="2">
+                    <string>hook</string>
+                    <string>hook</string>
+                  </array>
+                  <string>tags</string>
+                  <array count="2">
+                    <string>PBUT</string>
+                    <string>TXTS</string>
+                  </array>
+                  <string>types</string>
+                  <array count="2">
+                    <string>6</string>
+                    <string>6</string>
+                  </array>
+                  <string>values</string>
+                  <array count="2">
+                    <string>644</string>
+                    <string>600</string>
+                  </array>
+                </dictionary>
+                <string name="viewFrame">234 4 54 19 </string>
+                <string name="bounds">4 234 23 288 </string>
+              </object>
+              <reference idRef="373"/>
+              <reference idRef="375"/>
+            </array>
+            <string name="bounds">0 0 28 448 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 28 448 </string>
+      </object>
+      <string name="windowRect">795 682 823 1130 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="329"/>
+    <reference idRef="372"/>
+    <reference idRef="319"/>
+    <reference idRef="370"/>
+  </array>
+  <array count="8" name="allParents">
+    <reference idRef="329"/>
+    <reference idRef="329"/>
+    <reference idRef="329"/>
+    <reference idRef="1"/>
+    <reference idRef="319"/>
+    <reference idRef="329"/>
+    <reference idRef="318"/>
+    <reference idRef="329"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Store Bar</string>
+    <reference idRef="318"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">381</unsigned_int>
+</object>

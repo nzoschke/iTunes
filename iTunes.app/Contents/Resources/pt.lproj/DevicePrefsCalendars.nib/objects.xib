@@ -1,0 +1,276 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="17" name="allObjects">
+    <object class="IBCarbonHIView" id="6377">
+      <int name="controlID">960</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>961</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 340 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="6379">
+          <int name="controlID">961</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 340 </string>
+          <array count="2" name="subviews">
+            <object class="IBCarbonCheckBox" id="6386">
+              <int name="controlID">953</int>
+              <string name="title">Sincronizar Calendários do iCal</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3001</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 22 489 23 </string>
+              <string name="bounds">22 40 45 529 </string>
+            </object>
+            <object class="IBCarbonHIView" id="6396">
+              <int name="controlID">952</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>bcol</string>
+                  <string>fsqr</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>f7f7f7</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 52 790 286 </string>
+              <array count="11" name="subviews">
+                <object class="IBCarbonRadioButton" id="6385">
+                  <int name="controlID">955</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <string name="title">Todos os calendários</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>AXDS</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>0</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>sync all calendars</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">95 12 300 18 </string>
+                  <string name="bounds">64 135 82 435 </string>
+                </object>
+                <object class="IBCarbonRadioButton" id="6384">
+                  <int name="controlID">956</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <string name="title">Calendários selecionados</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>AXDS</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>0</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>sync selected calendars</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">95 34 300 18 </string>
+                  <string name="bounds">86 135 104 435 </string>
+                </object>
+                <object class="IBCarbonHIView" id="6383">
+                  <int name="controlID">957</int>
+                  <string name="classID">com.apple.itunes.CheckListView</string>
+                  <string name="viewFrame">116 59 320 120 </string>
+                  <string name="bounds">111 156 231 476 </string>
+                </object>
+                <object class="IBCarbonCheckBox" id="6382">
+                  <int name="controlID">972</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <int name="initialState">1</int>
+                  <string name="title">Não sincronizar eventos anteriores a</string>
+                  <string name="viewFrame">95 188 258 18 </string>
+                  <string name="bounds">240 135 258 393 </string>
+                </object>
+                <object class="IBCarbonEditText" id="6391">
+                  <int name="controlID">973</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <boolean name="isUnicode">TRUE</boolean>
+                  <boolean name="isSingleLine">TRUE</boolean>
+                  <string name="viewFrame">354 189 44 16 </string>
+                  <string name="bounds">241 394 257 438 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="6392">
+                  <int name="controlID">981</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <string name="title">dias</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>NOAX</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>true</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">407 189 114 16 </string>
+                  <string name="bounds">241 447 257 561 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="6390">
+                  <int name="controlID">980</int>
+                  <string name="title">Colocar novos eventos criados neste iPhone no calendário:</string>
+                  <string name="viewFrame">95 212 375 18 </string>
+                  <string name="bounds">264 135 282 510 </string>
+                </object>
+                <object class="IBCarbonPopupButton" id="6381">
+                  <int name="controlID">971</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <object name="menu" class="IBCarbonMenu" id="6393">
+                    <string name="title">Popup</string>
+                    <array count="1" name="items">
+                      <object class="IBCarbonMenuItem" id="6394">
+                        <boolean name="checked">TRUE</boolean>
+                        <boolean name="updateSingleItem">TRUE</boolean>
+                      </object>
+                    </array>
+                  </object>
+                  <string name="viewFrame">469 211 141 20 </string>
+                  <string name="bounds">263 509 283 650 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="6380">
+                  <int name="controlID">987</int>
+                  <boolean name="hidden">TRUE</boolean>
+                  <int name="fontStyle">-2</int>
+                  <string name="viewFrame">96 236 649 45 </string>
+                  <string name="bounds">288 136 333 785 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="6389">
+                  <int name="controlID">985</int>
+                  <boolean name="hidden">TRUE</boolean>
+                  <string name="viewFrame">96 12 598 18 </string>
+                  <string name="bounds">64 136 82 734 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="6388">
+                  <int name="controlID">986</int>
+                  <boolean name="hidden">TRUE</boolean>
+                  <int name="fontStyle">-2</int>
+                  <string name="viewFrame">96 32 598 19 </string>
+                  <string name="bounds">84 136 103 734 </string>
+                </object>
+              </array>
+              <string name="bounds">52 40 338 830 </string>
+            </object>
+          </array>
+          <string name="bounds">0 20 340 850 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 340 870 </string>
+    </object>
+    <reference idRef="6382"/>
+    <reference idRef="6379"/>
+    <reference idRef="6386"/>
+    <reference idRef="6389"/>
+    <reference idRef="6393"/>
+    <reference idRef="6388"/>
+    <reference idRef="6380"/>
+    <reference idRef="6383"/>
+    <reference idRef="6396"/>
+    <reference idRef="6390"/>
+    <reference idRef="6384"/>
+    <reference idRef="6392"/>
+    <reference idRef="6391"/>
+    <reference idRef="6381"/>
+    <reference idRef="6394"/>
+    <reference idRef="6385"/>
+  </array>
+  <array count="17" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="6396"/>
+    <reference idRef="6377"/>
+    <reference idRef="6379"/>
+    <reference idRef="6396"/>
+    <reference idRef="6381"/>
+    <reference idRef="6396"/>
+    <reference idRef="6396"/>
+    <reference idRef="6396"/>
+    <reference idRef="6379"/>
+    <reference idRef="6396"/>
+    <reference idRef="6396"/>
+    <reference idRef="6396"/>
+    <reference idRef="6396"/>
+    <reference idRef="6396"/>
+    <reference idRef="6393"/>
+    <reference idRef="6396"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="6377"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">6397</unsigned_int>
+</object>

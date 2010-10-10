@@ -1,0 +1,315 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="16" name="allObjects">
+    <object class="IBCarbonButton" id="5600">
+      <int name="controlID">12209</int>
+      <int name="controlSize">1</int>
+      <int name="iconPosition">0</int>
+      <string name="title">Dodaj…</string>
+      <string name="viewFrame">303 3 84 20 </string>
+      <string name="bounds">418 637 438 721 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5604">
+      <int name="controlID">12221</int>
+      <string name="title">Udostępnianie plików</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 20 386 23 </string>
+      <string name="bounds">20 40 43 426 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5611">
+      <int name="controlID">12212</int>
+      <string name="foreColor">21626 21626 21626 </string>
+      <int name="justification">1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1216</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">81 122 350 58 </string>
+      <string name="bounds">241 415 299 765 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5612">
+      <int name="controlID">12224</int>
+      <boolean name="hidden">TRUE</boolean>
+      <string name="title">Udostępnianie plików jest wyłączone</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 20 545 23 </string>
+      <string name="bounds">20 40 43 585 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5571">
+      <int name="controlID">12204</int>
+      <string name="classID">com.apple.itunes.CheckListView</string>
+      <string name="viewFrame">20 50 274 322 </string>
+      <string name="bounds">119 40 441 314 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5591">
+      <int name="controlID">12203</int>
+      <string name="title">Programy</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 20 258 23 </string>
+      <string name="bounds">89 40 112 298 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="5602">
+      <int name="controlID">12223</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 69 830 402 </string>
+      <array count="6" name="subviews">
+        <reference idRef="5591"/>
+        <reference idRef="5571"/>
+        <object class="IBCarbonStaticText" id="5575">
+          <int name="controlID">12205</int>
+          <string name="title">Dokumenty</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>3001</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">314 20 496 23 </string>
+          <string name="bounds">89 334 112 830 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5574">
+          <int name="controlID">12206</int>
+          <string name="classID">com.apple.itunes.CheckListView</string>
+          <string name="viewFrame">314 50 496 297 </string>
+          <string name="bounds">119 334 416 830 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5592">
+          <int name="controlID">12208</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <string name="viewFrame">314 346 496 26 </string>
+          <array count="2" name="subviews">
+            <reference idRef="5600"/>
+            <object class="IBCarbonButton" id="5601">
+              <int name="controlID">12210</int>
+              <int name="controlSize">1</int>
+              <int name="iconPosition">0</int>
+              <string name="title">Zachowaj...</string>
+              <string name="viewFrame">399 3 84 20 </string>
+              <string name="bounds">418 733 438 817 </string>
+            </object>
+          </array>
+          <string name="bounds">415 334 441 830 </string>
+        </object>
+        <object class="IBCarbonHIView" id="5608">
+          <int name="controlID">12211</int>
+          <boolean name="enabled">FALSE</boolean>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>bcol</string>
+              <string>fsqr</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>f7f7f7</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">314 50 496 322 </string>
+          <array count="1" name="subviews">
+            <reference idRef="5611"/>
+          </array>
+          <string name="bounds">119 334 441 830 </string>
+        </object>
+      </array>
+      <string name="bounds">69 20 471 850 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5566">
+      <int name="controlID">12201</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <string name="viewFrame">0 0 870 471 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5568">
+          <int name="controlID">12202</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 471 </string>
+          <array count="2" name="subviews">
+            <object class="IBCarbonUserPane" id="5606">
+              <int name="controlID">12220</int>
+              <int name="featureBits">2</int>
+              <string name="viewFrame">0 0 830 70 </string>
+              <array count="3" name="subviews">
+                <reference idRef="5604"/>
+                <reference idRef="5612"/>
+                <object class="IBCarbonStaticText" id="5605">
+                  <int name="controlID">12222</int>
+                  <string name="foreColor">32767 32767 32767 </string>
+                  <int name="justification">-2</int>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>TXTS</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>6</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>1216</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">20 50 790 20 </string>
+                  <string name="bounds">50 40 70 830 </string>
+                </object>
+              </array>
+              <string name="bounds">0 20 70 850 </string>
+            </object>
+            <reference idRef="5602"/>
+          </array>
+          <string name="bounds">0 20 471 850 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 471 870 </string>
+    </object>
+    <reference idRef="5605"/>
+    <reference idRef="5592"/>
+    <reference idRef="5574"/>
+    <reference idRef="5606"/>
+    <reference idRef="5575"/>
+    <reference idRef="5568"/>
+    <reference idRef="5601"/>
+    <reference idRef="5608"/>
+  </array>
+  <array count="16" name="allParents">
+    <reference idRef="5592"/>
+    <reference idRef="5606"/>
+    <reference idRef="5608"/>
+    <reference idRef="5606"/>
+    <reference idRef="5602"/>
+    <reference idRef="5602"/>
+    <reference idRef="5568"/>
+    <reference idRef="1"/>
+    <reference idRef="5606"/>
+    <reference idRef="5602"/>
+    <reference idRef="5602"/>
+    <reference idRef="5568"/>
+    <reference idRef="5602"/>
+    <reference idRef="5566"/>
+    <reference idRef="5592"/>
+    <reference idRef="5602"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5566"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5613</unsigned_int>
+</object>

@@ -1,0 +1,380 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="13" name="allObjects">
+    <object class="IBCarbonUserPane" id="570">
+      <int name="controlID">1</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 860 439 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonHIView" id="589">
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>crtr</string>
+              <string>crtr</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>9200</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">30 45 800 350 </string>
+          <array count="11" name="subviews">
+            <object class="IBCarbonStaticText" id="574">
+              <string name="title">재생목록</string>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1210</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 30 289 48 </string>
+              <string name="bounds">75 70 123 359 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="571">
+              <string name="title">개인 음악 모음을 생성합니다.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1211</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 88 720 24 </string>
+              <string name="bounds">133 70 157 790 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="622">
+              <int name="controlID">110</int>
+              <string name="title">이 재생목록에 추가하려면, 보관함에서 노래를 선택한 다음 왼쪽에 있는 “^1”(으)로 드래그하십시오.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1211</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 120 720 53 </string>
+              <string name="bounds">165 70 218 790 </string>
+            </object>
+            <object class="IBCarbonHIView" id="596">
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9260</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 184 60 60 </string>
+              <string name="bounds">229 70 289 130 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="597">
+              <string name="title">음악을 CD로 굽습니다.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1212</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">115 181 214 20 </string>
+              <string name="bounds">226 145 246 359 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="599">
+              <string name="title">이 재생목록을 CD로 구운 다음 사용자의 자동차 또는 홈 스테레오에서 들을 수 있습니다.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1213</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">115 205 265 70 </string>
+              <string name="bounds">250 145 320 410 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="618">
+              <int name="controlID">101</int>
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="contentResID">671</int>
+              <int name="graphicAlignment">2</int>
+              <int name="textPlacement">2</int>
+              <int name="textAlignment">-2</int>
+              <int name="textOffset">5</int>
+              <string name="title">튜토리얼 보기</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1214</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">115 279 184 16 </string>
+              <string name="bounds">324 145 340 329 </string>
+            </object>
+            <object class="IBCarbonHIView" id="610">
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9261</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">420 184 60 60 </string>
+              <string name="bounds">229 450 289 510 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="611">
+              <string name="title">친구와 공유합니다.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1212</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">495 181 211 20 </string>
+              <string name="bounds">226 525 246 736 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="612">
+              <string name="title">이 재생목록을 iTunes Store에 iMix로 발행하거나 친구에게 선물로 줄 수 있습니다.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1213</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">495 205 265 70 </string>
+              <string name="bounds">250 525 320 790 </string>
+            </object>
+            <object class="IBCarbonBevelButton" id="620">
+              <int name="controlID">102</int>
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <int name="bevelThickness">1</int>
+              <int name="contentType">0</int>
+              <int name="contentResID">671</int>
+              <int name="graphicAlignment">2</int>
+              <int name="textPlacement">2</int>
+              <int name="textAlignment">-2</int>
+              <int name="textOffset">5</int>
+              <string name="title">추가 정보</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1214</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">495 279 184 16 </string>
+              <string name="bounds">324 525 340 709 </string>
+            </object>
+          </array>
+          <string name="bounds">45 30 395 830 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 439 860 </string>
+    </object>
+    <reference idRef="599"/>
+    <reference idRef="612"/>
+    <reference idRef="574"/>
+    <reference idRef="596"/>
+    <reference idRef="571"/>
+    <reference idRef="589"/>
+    <reference idRef="610"/>
+    <reference idRef="597"/>
+    <reference idRef="622"/>
+    <reference idRef="620"/>
+    <reference idRef="611"/>
+    <reference idRef="618"/>
+  </array>
+  <array count="13" name="allParents">
+    <reference idRef="1"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">623</unsigned_int>
+</object>

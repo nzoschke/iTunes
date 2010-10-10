@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="8" name="allObjects">
+    <object class="IBCarbonPicture" id="4625">
+      <int name="controlID">110</int>
+      <int name="contentResID">0</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">78 48 128 128 </string>
+      <string name="bounds">48 78 176 206 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4623">
+      <int name="controlID">141</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">iTunes가 보관함에서 노래를 임의 선택하여 iPod을 자동으로 채웁니다. iPod 재생목록의 자동 채우기를 눌러 다른 노래로 iPod을 채울 수도 있습니다.</string>
+      <string name="viewFrame">247 98 453 30 </string>
+      <string name="bounds">98 247 128 700 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="4624">
+      <int name="controlID">140</int>
+      <int name="initialState">1</int>
+      <string name="title">나의 iPod용 노래 자동으로 선택</string>
+      <string name="viewFrame">229 78 314 18 </string>
+      <string name="bounds">78 229 96 543 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4619">
+      <int name="controlID">143</int>
+      <boolean name="enabled">FALSE</boolean>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">-2</int>
+      <string name="title">iPod을 이동식 디스크로 사용하도록 허용하여, 모든 종류의 파일을 iPod에 저장할 수 있습니다.</string>
+      <string name="viewFrame">247 164 508 15 </string>
+      <string name="bounds">164 247 179 755 </string>
+    </object>
+    <object class="IBCarbonEditText" id="4622">
+      <int name="controlID">121</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="title">iPod</string>
+      <string name="viewFrame">272 44 239 16 </string>
+      <string name="bounds">44 272 60 511 </string>
+    </object>
+    <object class="IBCarbonHIView" id="4618">
+      <int name="controlID">100</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="7" name="subviews">
+        <reference idRef="4625"/>
+        <object class="IBCarbonStaticText" id="4620">
+          <int name="controlID">120</int>
+          <string name="title">이름:</string>
+          <string name="viewFrame">229 43 40 17 </string>
+          <string name="bounds">43 229 60 269 </string>
+        </object>
+        <reference idRef="4622"/>
+        <reference idRef="4624"/>
+        <reference idRef="4623"/>
+        <object class="IBCarbonCheckBox" id="4621">
+          <int name="controlID">142</int>
+          <boolean name="enabled">FALSE</boolean>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="title">디스크 사용 활성화</string>
+          <string name="viewFrame">229 144 223 18 </string>
+          <string name="bounds">144 229 162 452 </string>
+        </object>
+        <reference idRef="4619"/>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="4621"/>
+    <reference idRef="4620"/>
+  </array>
+  <array count="8" name="allParents">
+    <reference idRef="4618"/>
+    <reference idRef="4618"/>
+    <reference idRef="4618"/>
+    <reference idRef="4618"/>
+    <reference idRef="4618"/>
+    <reference idRef="1"/>
+    <reference idRef="4618"/>
+    <reference idRef="4618"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4618"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">4626</unsigned_int>
+</object>

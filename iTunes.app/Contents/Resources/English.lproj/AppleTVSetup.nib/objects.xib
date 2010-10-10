@@ -1,0 +1,274 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="10" name="allObjects">
+    <object class="IBCarbonHIView" id="5322">
+      <int name="controlID">115</int>
+      <string name="classID">ITCodeEntryView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>ccnt</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>5</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">215 68 214 44 </string>
+      <string name="bounds">173 298 217 512 </string>
+    </object>
+    <object class="IBCarbonPicture" id="5317">
+      <int name="controlID">520</int>
+      <string name="classID">ITImageView</string>
+      <int name="contentResID">3030</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>true</string>
+          <string>3030</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">124 32 40 19 </string>
+      <string name="bounds">52 139 71 179 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5321">
+      <int name="controlID">112</int>
+      <string name="title">Please enter the passcode displayed on your Apple TV to allow iTunes to sync or stream your media.</string>
+      <string name="viewFrame">133 12 380 40 </string>
+      <string name="bounds">117 216 157 596 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="5313">
+      <int name="controlID">100</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 810 350 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonHIView" id="5314">
+          <int name="controlID">101</int>
+          <string name="classID">com.apple.itunes.uiboxview</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>NOAX</string>
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>2</string>
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>true</string>
+              <string>102</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 16 810 327 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonUserPane" id="5315">
+              <int name="controlID">102</int>
+              <int name="featureBits">2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">15 4 780 318 </string>
+              <array count="3" name="subviews">
+                <object class="IBCarbonStaticText" id="5316">
+                  <int name="controlID">109</int>
+                  <string name="title">Set Up Your</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="2">
+                      <string>hook</string>
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="2">
+                      <string>TXTS</string>
+                      <string>AXDS</string>
+                    </array>
+                    <string>types</string>
+                    <array count="2">
+                      <string>7</string>
+                      <string>0</string>
+                    </array>
+                    <string>values</string>
+                    <array count="2">
+                      <string>3005</string>
+                      <string>Set Up Your Apple TV</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">1 32 126 27 </string>
+                  <string name="bounds">52 16 79 142 </string>
+                </object>
+                <reference idRef="5317"/>
+                <object class="IBCarbonHIView" id="5318">
+                  <int name="controlID">110</int>
+                  <string name="classID">ITImageView</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="3">
+                      <string>hook</string>
+                      <string>hook</string>
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="3">
+                      <string>frcl</string>
+                      <string>NOAX</string>
+                      <string>PBUT</string>
+                    </array>
+                    <string>types</string>
+                    <array count="3">
+                      <string>1</string>
+                      <string>2</string>
+                      <string>6</string>
+                    </array>
+                    <string>values</string>
+                    <array count="3">
+                      <string>b8b8b8</string>
+                      <string>true</string>
+                      <string>9300</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">0 65 780 205 </string>
+                  <array count="1" name="subviews">
+                    <object class="IBCarbonUserPane" id="5319">
+                      <int name="controlID">111</int>
+                      <int name="featureBits">2</int>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>NOAX</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">68 20 644 175 </string>
+                      <array count="3" name="subviews">
+                        <reference idRef="5321"/>
+                        <reference idRef="5322"/>
+                        <object class="IBCarbonStaticText" id="5320">
+                          <int name="controlID">116</int>
+                          <boolean name="hidden">TRUE</boolean>
+                          <int name="fontStyle">-2</int>
+                          <string name="title">The passcode you entered was incorrect. Please try again.</string>
+                          <int name="justification">1</int>
+                          <string name="viewFrame">132 138 380 20 </string>
+                          <string name="bounds">243 215 263 595 </string>
+                        </object>
+                      </array>
+                      <string name="bounds">105 83 280 727 </string>
+                    </object>
+                  </array>
+                  <string name="bounds">85 15 290 795 </string>
+                </object>
+              </array>
+              <string name="bounds">20 15 338 795 </string>
+            </object>
+          </array>
+          <string name="bounds">16 0 343 810 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 350 810 </string>
+    </object>
+    <reference idRef="5318"/>
+    <reference idRef="5315"/>
+    <reference idRef="5314"/>
+    <reference idRef="5319"/>
+    <reference idRef="5320"/>
+    <reference idRef="5316"/>
+  </array>
+  <array count="10" name="allParents">
+    <reference idRef="5319"/>
+    <reference idRef="5315"/>
+    <reference idRef="5319"/>
+    <reference idRef="1"/>
+    <reference idRef="5315"/>
+    <reference idRef="5314"/>
+    <reference idRef="5313"/>
+    <reference idRef="5318"/>
+    <reference idRef="5319"/>
+    <reference idRef="5315"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5313"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5323</unsigned_int>
+</object>

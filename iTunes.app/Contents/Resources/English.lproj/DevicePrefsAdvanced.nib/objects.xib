@@ -1,0 +1,169 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="11" name="allObjects">
+    <object class="IBCarbonCheckBox" id="6375">
+      <int name="controlID">10301</int>
+      <string name="title">Contacts</string>
+      <string name="viewFrame">112 42 197 18 </string>
+      <string name="bounds">94 152 112 349 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6377">
+      <int name="controlID">10306</int>
+      <int name="fontStyle">-2</int>
+      <string name="viewFrame">96 158 596 30 </string>
+      <string name="bounds">210 136 240 732 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="6379">
+      <int name="controlID">10303</int>
+      <string name="title">Mail Accounts</string>
+      <string name="viewFrame">112 86 197 18 </string>
+      <string name="bounds">138 152 156 349 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6382">
+      <int name="controlID">10307</int>
+      <string name="title">Advanced</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3001</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 22 270 23 </string>
+      <string name="bounds">22 40 45 310 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="6380">
+      <int name="controlID">10312</int>
+      <string name="title">Notes</string>
+      <string name="viewFrame">112 130 197 18 </string>
+      <string name="bounds">182 152 200 349 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="6376">
+      <int name="controlID">10305</int>
+      <string name="title">Replace information on this iPhone</string>
+      <string name="viewFrame">96 20 229 18 </string>
+      <string name="bounds">72 136 90 365 </string>
+    </object>
+    <object class="IBCarbonHIView" id="6370">
+      <int name="controlID">10310</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>10311</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 286 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="6371">
+          <int name="controlID">10311</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 286 </string>
+          <array count="2" name="subviews">
+            <reference idRef="6382"/>
+            <object class="IBCarbonHIView" id="6383">
+              <int name="controlID">10315</int>
+              <string name="classID">com.apple.itunes.uiboxview</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>bcol</string>
+                  <string>fsqr</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>f7f7f7</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 52 790 204 </string>
+              <array count="7" name="subviews">
+                <reference idRef="6376"/>
+                <reference idRef="6375"/>
+                <object class="IBCarbonCheckBox" id="6373">
+                  <int name="controlID">10302</int>
+                  <string name="title">Calendars</string>
+                  <string name="viewFrame">112 64 197 18 </string>
+                  <string name="bounds">116 152 134 349 </string>
+                </object>
+                <reference idRef="6379"/>
+                <object class="IBCarbonCheckBox" id="6381">
+                  <int name="controlID">10304</int>
+                  <string name="title">Bookmarks</string>
+                  <string name="viewFrame">112 108 197 18 </string>
+                  <string name="bounds">160 152 178 349 </string>
+                </object>
+                <reference idRef="6380"/>
+                <reference idRef="6377"/>
+              </array>
+              <string name="bounds">52 40 256 830 </string>
+            </object>
+          </array>
+          <string name="bounds">0 20 286 850 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 286 870 </string>
+    </object>
+    <reference idRef="6371"/>
+    <reference idRef="6383"/>
+    <reference idRef="6373"/>
+    <reference idRef="6381"/>
+  </array>
+  <array count="11" name="allParents">
+    <reference idRef="6383"/>
+    <reference idRef="6383"/>
+    <reference idRef="6383"/>
+    <reference idRef="6371"/>
+    <reference idRef="6383"/>
+    <reference idRef="6383"/>
+    <reference idRef="1"/>
+    <reference idRef="6370"/>
+    <reference idRef="6371"/>
+    <reference idRef="6383"/>
+    <reference idRef="6383"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="6370"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">6384</unsigned_int>
+</object>

@@ -1,0 +1,347 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="12" name="allObjects">
+    <object class="IBCarbonStaticText" id="571">
+      <string name="title">Dodane do iTunes książki i książki audio dostępne są w dziale Książki biblioteki iTunes. Aby odtworzyć książkę audio, kliknij w nią dwukrotnie. Aby przeczytać książkę, zsynchronizuj ją z iPadem.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1211</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">40 88 720 76 </string>
+      <string name="bounds">133 70 209 790 </string>
+    </object>
+    <object class="IBCarbonHIView" id="610">
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>9291</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">420 184 60 60 </string>
+      <string name="bounds">229 450 289 510 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="611">
+      <string name="title">Pobierz iBooks</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1212</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">495 181 265 20 </string>
+      <string name="bounds">226 525 246 790 </string>
+    </object>
+    <object class="IBCarbonHIView" id="596">
+      <ostype name="controlSignature">PShf</ostype>
+      <int name="controlID">5</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>9290</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">40 184 60 60 </string>
+      <string name="bounds">229 70 289 130 </string>
+    </object>
+    <object class="IBCarbonHIView" id="589">
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>crtr</string>
+          <string>crtr</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>9200</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">30 45 800 350 </string>
+      <array count="9" name="subviews">
+        <object class="IBCarbonStaticText" id="574">
+          <string name="title">Książki</string>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1210</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">40 30 514 48 </string>
+          <string name="bounds">75 70 123 584 </string>
+        </object>
+        <reference idRef="571"/>
+        <reference idRef="596"/>
+        <object class="IBCarbonStaticText" id="597">
+          <string name="title">Pobieraj książki audio.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1212</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">115 181 297 20 </string>
+          <string name="bounds">226 145 246 442 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="599">
+          <string name="title">Nowe bestsellerowe książki audio czekają na Ciebie w iTunes Store. Możesz odsłuchiwać fragmenty, kupować i pobierać książki audio o dowolnej porze dnia i nocy.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1213</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">115 205 297 90 </string>
+          <string name="bounds">250 145 340 442 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="618">
+          <int name="controlID">101</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="contentResID">671</int>
+          <int name="graphicAlignment">2</int>
+          <int name="textPlacement">2</int>
+          <int name="textAlignment">-2</int>
+          <int name="textOffset">5</int>
+          <string name="title">Kup książki audio w iTunes Store</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1214</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">115 294 234 16 </string>
+          <string name="bounds">339 145 355 379 </string>
+        </object>
+        <reference idRef="610"/>
+        <reference idRef="611"/>
+        <object class="IBCarbonStaticText" id="612">
+          <string name="title">iBooks oferuje doskonały sposób czytania i kupowania książek. Możesz czytać fragmenty, kupować i pobierać klasykę oraz bestsellery ze sklepu iBookstore.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1213</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">495 205 265 90 </string>
+          <string name="bounds">250 525 340 790 </string>
+        </object>
+      </array>
+      <string name="bounds">45 30 395 830 </string>
+    </object>
+    <reference idRef="612"/>
+    <object class="IBCarbonStaticText" id="617">
+      <int name="fontStyle">-2</int>
+      <string name="title">Dostęp do książek audio w iTunes Store możliwy jest tylko w niektórych krajach.</string>
+      <int name="justification">-2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>crtr</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1215</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">30 409 483 16 </string>
+      <string name="bounds">409 30 425 513 </string>
+    </object>
+    <reference idRef="599"/>
+    <reference idRef="574"/>
+    <object class="IBCarbonUserPane" id="570">
+      <int name="controlID">1</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 860 439 </string>
+      <array count="2" name="subviews">
+        <reference idRef="589"/>
+        <reference idRef="617"/>
+      </array>
+      <string name="bounds">0 0 439 860 </string>
+    </object>
+    <reference idRef="597"/>
+    <reference idRef="618"/>
+  </array>
+  <array count="12" name="allParents">
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="1"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">621</unsigned_int>
+</object>

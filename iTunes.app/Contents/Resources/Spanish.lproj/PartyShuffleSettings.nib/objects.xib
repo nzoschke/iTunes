@@ -1,0 +1,345 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="39" name="allObjects">
+    <object class="IBCarbonMenuItem" id="230">
+      <string name="title">25</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonMenuItem" id="233">
+      <string name="title">100</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonStaticText" id="218">
+      <int name="controlID">7</int>
+      <string name="title">próximas canciones</string>
+      <string name="viewFrame">188 56 137 16 </string>
+      <string name="bounds">56 188 72 325 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="242">
+      <int name="controlID">15</int>
+      <string name="title">Solicitar contraseña: </string>
+      <string name="viewFrame">54 279 153 18 </string>
+      <string name="bounds">279 54 297 207 </string>
+    </object>
+    <object class="IBCarbonPopupButton" id="211">
+      <int name="controlID">4</int>
+      <int name="selectedItem">2</int>
+      <object name="menu" class="IBCarbonMenu" id="212">
+        <string name="title">Menú local</string>
+        <array count="9" name="items">
+          <object class="IBCarbonMenuItem" id="227">
+            <string name="title">0</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="213">
+            <string name="title">5</string>
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="226">
+            <string name="title">10</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="228">
+            <string name="title">15</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="229">
+            <string name="title">20</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <reference idRef="230"/>
+          <object class="IBCarbonMenuItem" id="231">
+            <string name="title">50</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <object class="IBCarbonMenuItem" id="232">
+            <string name="title">75</string>
+            <boolean name="updateSingleItem">TRUE</boolean>
+            <string name="helpTagText"></string>
+            <string name="extendedHelpTagText"></string>
+          </object>
+          <reference idRef="233"/>
+        </array>
+      </object>
+      <string name="viewFrame">118 25 65 20 </string>
+      <string name="bounds">25 118 45 183 </string>
+    </object>
+    <reference idRef="231"/>
+    <object class="IBCarbonCheckBox" id="245">
+      <int name="controlID">13</int>
+      <string name="title">Activar las votaciones</string>
+      <string name="viewFrame">54 228 179 18 </string>
+      <string name="bounds">228 54 246 233 </string>
+    </object>
+    <object class="IBCarbonButton" id="223">
+      <int name="controlID">2</int>
+      <ostype name="command">not!</ostype>
+      <int name="buttonType">2</int>
+      <string name="title">Cancelar</string>
+      <string name="viewFrame">351 316 80 20 </string>
+      <string name="bounds">316 351 336 431 </string>
+    </object>
+    <object class="IBCarbonEditText" id="243">
+      <int name="controlID">16</int>
+      <boolean name="isPassword">TRUE</boolean>
+      <boolean name="isUnicode">TRUE</boolean>
+      <string name="viewFrame">213 279 279 16 </string>
+      <string name="bounds">279 213 295 492 </string>
+    </object>
+    <reference idRef="232"/>
+    <reference idRef="213"/>
+    <reference idRef="227"/>
+    <object class="IBCarbonMenuItem" id="235">
+      <string name="title">10</string>
+      <boolean name="checked">TRUE</boolean>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonEditText" id="225">
+      <int name="controlID">12</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <string name="viewFrame">57 174 435 47 </string>
+      <string name="bounds">174 57 221 492 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="236">
+      <string name="title">15</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonStaticText" id="247">
+      <int name="controlID">14</int>
+      <int name="controlSize">1</int>
+      <string name="title">Los invitados podrán votar para decidir cuándo se reproducirán las canciones.</string>
+      <string name="viewFrame">76 245 409 28 </string>
+      <string name="bounds">245 76 273 485 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="241">
+      <string name="title">100</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+      <string name="helpTagText"></string>
+      <string name="extendedHelpTagText"></string>
+    </object>
+    <object class="IBCarbonWindow" id="208">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="hasCloseBox">FALSE</boolean>
+      <boolean name="hasCollapseBox">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="liveResize">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="carbonWindowClass">4</int>
+      <int name="windowPosition">7</int>
+      <string name="title">Ajustes de iTunes DJ</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="209">
+        <string name="viewFrame">0 0 543 356 </string>
+        <array count="17" name="subviews">
+          <object class="IBCarbonStaticText" id="210">
+            <int name="controlID">3</int>
+            <string name="title">Mostrar:</string>
+            <string name="viewFrame">56 26 60 16 </string>
+            <string name="bounds">26 56 42 116 </string>
+          </object>
+          <reference idRef="211"/>
+          <object class="IBCarbonStaticText" id="214">
+            <int name="controlID">5</int>
+            <string name="title">últimas canciones reproducidas</string>
+            <string name="viewFrame">188 26 233 16 </string>
+            <string name="bounds">26 188 42 421 </string>
+          </object>
+          <object class="IBCarbonPopupButton" id="215">
+            <int name="controlID">6</int>
+            <int name="selectedItem">3</int>
+            <object name="menu" class="IBCarbonMenu" id="216">
+              <string name="title">Menú local</string>
+              <array count="9" name="items">
+                <object class="IBCarbonMenuItem" id="234">
+                  <string name="title">0</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="217">
+                  <string name="title">5</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <reference idRef="235"/>
+                <reference idRef="236"/>
+                <object class="IBCarbonMenuItem" id="237">
+                  <string name="title">20</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="238">
+                  <string name="title">25</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="240">
+                  <string name="title">50</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <object class="IBCarbonMenuItem" id="239">
+                  <string name="title">75</string>
+                  <boolean name="updateSingleItem">TRUE</boolean>
+                  <string name="helpTagText"></string>
+                  <string name="extendedHelpTagText"></string>
+                </object>
+                <reference idRef="241"/>
+              </array>
+            </object>
+            <string name="viewFrame">118 55 65 20 </string>
+            <string name="bounds">55 118 75 183 </string>
+          </object>
+          <reference idRef="218"/>
+          <object class="IBCarbonCheckBox" id="219">
+            <int name="controlID">8</int>
+            <string name="title">Reproducir más veces las canciones mejor puntuadas</string>
+            <string name="viewFrame">118 81 374 18 </string>
+            <string name="bounds">81 118 99 492 </string>
+          </object>
+          <object class="IBCarbonSeparator" id="220">
+            <int name="controlID">9</int>
+            <string name="viewFrame">31 107 482 1 </string>
+            <string name="bounds">107 31 108 513 </string>
+          </object>
+          <object class="IBCarbonCheckBox" id="221">
+            <int name="controlID">10</int>
+            <string name="title">Permitir a los invitados solicitar canciones con Remote para iPhone o iPod touch</string>
+            <string name="viewFrame">31 112 454 35 </string>
+            <string name="bounds">112 31 147 485 </string>
+          </object>
+          <object class="IBCarbonStaticText" id="222">
+            <int name="controlID">11</int>
+            <string name="title">Mensaje de bienvenida:</string>
+            <string name="viewFrame">54 151 153 16 </string>
+            <string name="bounds">151 54 167 207 </string>
+          </object>
+          <reference idRef="225"/>
+          <reference idRef="245"/>
+          <reference idRef="247"/>
+          <reference idRef="242"/>
+          <reference idRef="243"/>
+          <object class="IBCarbonRoundButton" id="244">
+            <int name="controlID">17</int>
+            <string name="viewFrame">18 315 25 25 </string>
+            <string name="bounds">315 18 340 43 </string>
+            <int name="contentType">132</int>
+            <int name="iconCreator">1835098995</int>
+            <int name="iconType">1751477360</int>
+          </object>
+          <reference idRef="223"/>
+          <object class="IBCarbonButton" id="224">
+            <int name="controlID">1</int>
+            <ostype name="command">ok  </ostype>
+            <int name="buttonType">1</int>
+            <string name="title">Aceptar</string>
+            <string name="viewFrame">443 316 80 20 </string>
+            <string name="bounds">316 443 336 523 </string>
+          </object>
+        </array>
+        <string name="bounds">0 0 356 543 </string>
+      </object>
+      <string name="windowRect">99 174 455 717 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="215"/>
+    <reference idRef="221"/>
+    <reference idRef="239"/>
+    <reference idRef="238"/>
+    <reference idRef="219"/>
+    <reference idRef="226"/>
+    <reference idRef="229"/>
+    <reference idRef="224"/>
+    <reference idRef="216"/>
+    <reference idRef="222"/>
+    <reference idRef="209"/>
+    <reference idRef="214"/>
+    <reference idRef="228"/>
+    <reference idRef="210"/>
+    <reference idRef="234"/>
+    <reference idRef="244"/>
+    <reference idRef="212"/>
+    <reference idRef="217"/>
+    <reference idRef="220"/>
+    <reference idRef="237"/>
+    <reference idRef="240"/>
+  </array>
+  <array count="39" name="allParents">
+    <reference idRef="212"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="212"/>
+    <reference idRef="212"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="1"/>
+    <reference idRef="209"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="215"/>
+    <reference idRef="209"/>
+    <reference idRef="208"/>
+    <reference idRef="209"/>
+    <reference idRef="212"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="211"/>
+    <reference idRef="216"/>
+    <reference idRef="209"/>
+    <reference idRef="216"/>
+    <reference idRef="216"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Window</string>
+    <reference idRef="208"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">248</unsigned_int>
+</object>

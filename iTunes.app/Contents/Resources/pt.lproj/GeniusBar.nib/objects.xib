@@ -1,0 +1,317 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="14" name="allObjects">
+    <object class="IBCarbonStaticText" id="448">
+      <ostype name="controlSignature">GBar</ostype>
+      <int name="controlID">5</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">Baseado em:</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1202</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">9 5 75 16 </string>
+      <string name="bounds">5 9 21 84 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="449">
+      <ostype name="controlSignature">GBar</ostype>
+      <int name="controlID">4</int>
+      <int name="fontStyle">-2</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="title">Limitar a:</string>
+      <int name="justification">-1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1201</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">324 5 61 16 </string>
+      <string name="bounds">5 324 21 385 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="450">
+      <ostype name="controlSignature">GBar</ostype>
+      <int name="controlID">8</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">yyy</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1203</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">133 5 22 16 </string>
+      <string name="bounds">5 133 21 155 </string>
+    </object>
+    <object class="IBCarbonButton" id="453">
+      <ostype name="controlSignature">GBar</ostype>
+      <int name="controlID">2</int>
+      <int name="controlSize">1</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="title">Atualizar</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>1202</string>
+          <string>1200</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">496 5 72 20 </string>
+      <string name="bounds">5 496 25 568 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="456">
+      <string name="title">50 músicas</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="457">
+      <string name="title">75 músicas</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenu" id="455">
+      <string name="title">Popup</string>
+      <array count="4" name="items">
+        <object class="IBCarbonMenuItem" id="459">
+          <string name="title">25 músicas</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="456"/>
+        <reference idRef="457"/>
+        <object class="IBCarbonMenuItem" id="458">
+          <string name="title">100 Músicas</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <object class="IBCarbonPopupButton" id="452">
+      <ostype name="controlSignature">GBar</ostype>
+      <int name="controlID">3</int>
+      <int name="controlSize">1</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <reference name="menu" idRef="455"/>
+      <int name="titleJustification">0</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>PBUT</string>
+          <string>TXTS</string>
+          <string>HOff</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>6</string>
+          <string>6</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>1204</string>
+          <string>1200</string>
+          <string>2</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">390 5 100 17 </string>
+      <string name="bounds">5 390 22 490 </string>
+    </object>
+    <object class="IBCarbonButton" id="454">
+      <ostype name="controlSignature">GBar</ostype>
+      <int name="controlID">1</int>
+      <int name="controlSize">1</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="title">Salvar Lista</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>1202</string>
+          <string>1200</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">575 5 179 20 </string>
+      <string name="bounds">5 575 25 754 </string>
+    </object>
+    <reference idRef="458"/>
+    <reference idRef="459"/>
+    <object class="IBCarbonUserPane" id="446">
+      <ostype name="controlSignature">GBBt</ostype>
+      <int name="controlID">1000</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 762 24 </string>
+      <array count="8" name="subviews">
+        <reference idRef="448"/>
+        <object class="IBCarbonStaticText" id="451">
+          <ostype name="controlSignature">GBar</ostype>
+          <int name="controlID">6</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">xxx</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1203</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">84 5 23 16 </string>
+          <string name="bounds">5 84 21 107 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="447">
+          <ostype name="controlSignature">GBar</ostype>
+          <int name="controlID">7</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">por</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1204</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">109 5 22 16 </string>
+          <string name="bounds">5 109 21 131 </string>
+        </object>
+        <reference idRef="450"/>
+        <reference idRef="449"/>
+        <reference idRef="452"/>
+        <reference idRef="453"/>
+        <reference idRef="454"/>
+      </array>
+      <string name="bounds">0 0 24 762 </string>
+    </object>
+    <reference idRef="451"/>
+    <reference idRef="447"/>
+  </array>
+  <array count="14" name="allParents">
+    <reference idRef="446"/>
+    <reference idRef="446"/>
+    <reference idRef="446"/>
+    <reference idRef="446"/>
+    <reference idRef="455"/>
+    <reference idRef="455"/>
+    <reference idRef="452"/>
+    <reference idRef="446"/>
+    <reference idRef="446"/>
+    <reference idRef="455"/>
+    <reference idRef="455"/>
+    <reference idRef="1"/>
+    <reference idRef="446"/>
+    <reference idRef="446"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Genius Bar View</string>
+    <reference idRef="446"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">460</unsigned_int>
+</object>

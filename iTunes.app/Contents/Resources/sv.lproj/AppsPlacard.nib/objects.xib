@@ -1,0 +1,118 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="3" name="allObjects">
+    <object class="IBCarbonBevelButton" id="419">
+      <int name="controlID">3182</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="contentResID">649</int>
+      <int name="graphicAlignment">2</int>
+      <int name="textPlacement">2</int>
+      <int name="textAlignment">-1</int>
+      <int name="textOffset">5</int>
+      <int name="graphicYOffset">1</int>
+      <string name="title">Leta efter uppdateringar</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>544</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">68 15 153 16 </string>
+      <string name="bounds">15 68 31 221 </string>
+    </object>
+    <object class="IBCarbonHIView" id="413">
+      <int name="controlID">3180</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1034</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 400 46 </string>
+      <array count="2" name="subviews">
+        <reference idRef="419"/>
+        <object class="IBCarbonBevelButton" id="418">
+          <int name="controlID">3184</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="contentResID">649</int>
+          <int name="graphicAlignment">2</int>
+          <int name="textPlacement">2</int>
+          <int name="textAlignment">-1</int>
+          <int name="textOffset">5</int>
+          <int name="graphicYOffset">1</int>
+          <string name="title">Hämta fler program</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>544</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">229 15 153 16 </string>
+          <string name="bounds">15 229 31 382 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 46 400 </string>
+    </object>
+    <reference idRef="418"/>
+  </array>
+  <array count="3" name="allParents">
+    <reference idRef="413"/>
+    <reference idRef="1"/>
+    <reference idRef="413"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="413"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">420</unsigned_int>
+</object>

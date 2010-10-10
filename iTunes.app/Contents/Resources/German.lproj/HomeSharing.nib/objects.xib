@@ -1,0 +1,396 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="13" name="allObjects">
+    <object class="IBCarbonBevelButton" id="599">
+      <int name="controlID">103</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <int name="bevelThickness">1</int>
+      <int name="contentType">0</int>
+      <int name="contentResID">671</int>
+      <int name="graphicAlignment">2</int>
+      <int name="textPlacement">2</int>
+      <int name="textAlignment">-2</int>
+      <int name="textOffset">5</int>
+      <string name="title">Einen iTunes-Account anlegen?</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1214</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">280 329 184 16 </string>
+      <string name="bounds">376 310 392 494 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="570">
+      <int name="controlID">1</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 860 475 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="589">
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>crtr</string>
+              <string>crtr</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>9200</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">30 47 800 379 </string>
+          <array count="9" name="subviews">
+            <object class="IBCarbonStaticText" id="574">
+              <string name="title">Privatfreigabe</string>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1210</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">105 30 289 48 </string>
+              <string name="bounds">77 135 125 424 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="571">
+              <string name="title">Mit der Privatfreigabe können Sie die iTunes-Sammlung Ihrer Familie verwalten, indem Sie Ihre Einkäufe aus dem iTunes Store zwischen den Computern zuhause kopieren. iTunes kann Neukäufe automatisch kopieren oder Sie wählen nur die Objekte, die Sie kopieren möchten.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1211</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 84 720 94 </string>
+              <string name="bounds">131 70 225 790 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="596">
+              <string name="title">Um die Privatfreigabe nutzen zu können, benötigen Sie einen iTunes Store-Account. Sie können denselben Account für alle freigegebenen Computer verwenden.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>7</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>1211</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">40 198 720 48 </string>
+              <string name="bounds">245 70 293 790 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="575">
+              <int name="controlID">111</int>
+              <string name="title">iTunes-Account:</string>
+              <int name="justification">-1</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">152 273 120 16 </string>
+              <string name="bounds">320 182 336 302 </string>
+            </object>
+            <object class="IBCarbonEditText" id="590">
+              <int name="controlID">101</int>
+              <boolean name="useInlineInput">TRUE</boolean>
+              <boolean name="isUnicode">TRUE</boolean>
+              <boolean name="isSingleLine">TRUE</boolean>
+              <string name="foreColor">0 0 0 </string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>AXDS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>0</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>iTunes Account</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">283 273 194 16 </string>
+              <string name="bounds">320 313 336 507 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="578">
+              <int name="controlID">112</int>
+              <string name="title">Kennwort:</string>
+              <int name="justification">-1</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">152 301 120 16 </string>
+              <string name="bounds">348 182 364 302 </string>
+            </object>
+            <object class="IBCarbonEditText" id="591">
+              <int name="controlID">102</int>
+              <boolean name="isPassword">TRUE</boolean>
+              <boolean name="useInlineInput">TRUE</boolean>
+              <boolean name="isUnicode">TRUE</boolean>
+              <boolean name="isSingleLine">TRUE</boolean>
+              <string name="foreColor">0 0 0 </string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>AXDS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>0</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>iTunes Account Password</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">283 301 194 16 </string>
+              <string name="bounds">348 313 364 507 </string>
+            </object>
+            <reference idRef="599"/>
+            <object class="IBCarbonHIView" id="601">
+              <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                <int name="bindingRightKind">2</int>
+              </object>
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>PBUT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>9270</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">35 15 60 60 </string>
+              <string name="bounds">62 65 122 125 </string>
+            </object>
+          </array>
+          <string name="bounds">47 30 426 830 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="594">
+          <int name="controlID">105</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="contentResID">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Nein</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">596 434 84 22 </string>
+          <string name="bounds">434 596 456 680 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="595">
+          <int name="controlID">106</int>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="contentResID">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">Privatfreigabe anlegen</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">689 434 141 22 </string>
+          <string name="bounds">434 689 456 830 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 475 860 </string>
+    </object>
+    <reference idRef="589"/>
+    <reference idRef="594"/>
+    <reference idRef="591"/>
+    <reference idRef="595"/>
+    <reference idRef="596"/>
+    <reference idRef="590"/>
+    <reference idRef="578"/>
+    <reference idRef="571"/>
+    <reference idRef="575"/>
+    <reference idRef="574"/>
+    <reference idRef="601"/>
+  </array>
+  <array count="13" name="allParents">
+    <reference idRef="589"/>
+    <reference idRef="1"/>
+    <reference idRef="570"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="570"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+    <reference idRef="589"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">602</unsigned_int>
+</object>

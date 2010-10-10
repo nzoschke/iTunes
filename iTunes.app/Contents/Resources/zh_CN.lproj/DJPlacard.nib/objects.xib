@@ -1,0 +1,188 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonPopupButton" id="516">
+      <int name="controlID">3202</int>
+      <ostype name="command">PSSP</ostype>
+      <object name="menu" class="IBCarbonMenu" id="520">
+        <string name="title">弹出式菜单</string>
+        <array count="1" name="items">
+          <object class="IBCarbonMenuItem" id="521">
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+          </object>
+        </array>
+      </object>
+      <int name="titleJustification">0</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>510</string>
+          <string>786</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">73 13 170 20 </string>
+      <string name="bounds">13 73 33 243 </string>
+    </object>
+    <object class="IBCarbonHIView" id="515">
+      <int name="controlID">3200</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>1034</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 594 46 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonStaticText" id="519">
+          <int name="controlID">3201</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">来源：</string>
+          <int name="justification">-1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>544</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">7 16 62 14 </string>
+          <string name="bounds">16 7 30 69 </string>
+        </object>
+        <reference idRef="516"/>
+        <object class="IBCarbonBevelButton" id="517">
+          <int name="controlID">3208</int>
+          <ostype name="command">PSSS</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">设置…</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">408 12 80 22 </string>
+          <string name="bounds">12 408 34 488 </string>
+        </object>
+        <object class="IBCarbonBevelButton" id="518">
+          <int name="controlID">3209</int>
+          <ostype name="command">PSRB</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingRightKind">2</int>
+          </object>
+          <int name="bevelThickness">1</int>
+          <int name="contentType">0</int>
+          <int name="textPlacement">3</int>
+          <boolean name="rounded">TRUE</boolean>
+          <string name="title">刷新</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>301</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">496 12 80 22 </string>
+          <string name="bounds">12 496 34 576 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 46 594 </string>
+    </object>
+    <reference idRef="521"/>
+    <reference idRef="520"/>
+    <reference idRef="519"/>
+    <reference idRef="517"/>
+    <reference idRef="518"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="515"/>
+    <reference idRef="1"/>
+    <reference idRef="520"/>
+    <reference idRef="516"/>
+    <reference idRef="515"/>
+    <reference idRef="515"/>
+    <reference idRef="515"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="515"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">522</unsigned_int>
+</object>

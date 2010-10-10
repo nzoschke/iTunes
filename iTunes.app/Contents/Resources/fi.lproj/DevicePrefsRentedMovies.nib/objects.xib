@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="7" name="allObjects">
+    <object class="IBCarbonStaticText" id="5065">
+      <int name="controlID">4054</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>3001</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">435 22 375 23 </string>
+      <string name="bounds">22 455 45 830 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5064">
+      <int name="controlID">4053</int>
+      <string name="title">Vuokraelokuvat</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>3001</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 22 375 23 </string>
+      <string name="bounds">22 40 45 415 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5067">
+      <int name="controlID">4055</int>
+      <string name="classID">com.apple.itunes.SimpleListView</string>
+      <string name="viewFrame">20 52 375 193 </string>
+      <string name="bounds">52 40 245 415 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5061">
+      <int name="controlID">4050</int>
+      <string name="classID">com.apple.itunes.uiboxview</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>4051</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 870 270 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="5063">
+          <int name="controlID">4051</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 270 </string>
+          <array count="5" name="subviews">
+            <reference idRef="5064"/>
+            <reference idRef="5065"/>
+            <reference idRef="5067"/>
+            <object class="IBCarbonHIView" id="5068">
+              <int name="controlID">4056</int>
+              <string name="classID">com.apple.itunes.SimpleListView</string>
+              <string name="viewFrame">435 52 375 193 </string>
+              <string name="bounds">52 455 245 830 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="5069">
+              <int name="controlID">4057</int>
+              <int name="fontStyle">-2</int>
+              <string name="title">Vuokraelokuvan siirtämiseen tarvitaan Internet-yhteys.</string>
+              <int name="justification">1</int>
+              <string name="viewFrame">124 249 580 16 </string>
+              <string name="bounds">249 144 265 724 </string>
+            </object>
+          </array>
+          <string name="bounds">0 20 270 850 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 270 870 </string>
+    </object>
+    <reference idRef="5068"/>
+    <reference idRef="5063"/>
+    <reference idRef="5069"/>
+  </array>
+  <array count="7" name="allParents">
+    <reference idRef="5063"/>
+    <reference idRef="5063"/>
+    <reference idRef="5063"/>
+    <reference idRef="1"/>
+    <reference idRef="5063"/>
+    <reference idRef="5061"/>
+    <reference idRef="5063"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5061"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5070</unsigned_int>
+</object>

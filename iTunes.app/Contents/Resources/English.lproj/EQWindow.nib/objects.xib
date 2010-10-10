@@ -1,0 +1,1174 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="59" name="allObjects">
+    <object class="IBCarbonMenuItem" id="379">
+      <string name="title">Acoustic</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="378">
+      <string name="title">Dance</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="372">
+      <string name="title">Edit List…</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonSlider" id="395">
+      <ostype name="controlSignature">EQsl</ostype>
+      <int name="controlID">107</int>
+      <boolean name="isLive">TRUE</boolean>
+      <int name="minimumValue">-1200</int>
+      <int name="maximumValue">1200</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>SlTr</string>
+          <string>SlTh</string>
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>6</string>
+          <string>6</string>
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>3210</string>
+          <string>3212</string>
+          <string>4 kilohertz</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">318 7 20 133 </string>
+      <string name="bounds">39 329 172 349 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="374">
+      <string name="title">Deep</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonStaticText" id="415">
+      <ostype name="controlSignature">Labl</ostype>
+      <int name="controlID">13</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">-12 dB</string>
+      <int name="justification">-1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>502</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">48 121 38 13 </string>
+      <string name="bounds">153 59 166 97 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="366">
+      <boolean name="separator">TRUE</boolean>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="365">
+      <string name="title">Treble Booster</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="381">
+      <string name="title">Electronic</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonStaticText" id="403">
+      <ostype name="controlSignature">Labl</ostype>
+      <int name="controlID">11</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">+12 dB</string>
+      <int name="justification">-1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>502</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">46 9 40 13 </string>
+      <string name="bounds">41 57 54 97 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="376">
+      <string name="title">R&amp;B</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonSlider" id="416">
+      <ostype name="controlSignature">EQsl</ostype>
+      <int name="controlID">102</int>
+      <boolean name="isLive">TRUE</boolean>
+      <int name="minimumValue">-1200</int>
+      <int name="maximumValue">1200</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>SlTr</string>
+          <string>SlTh</string>
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>6</string>
+          <string>6</string>
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>3210</string>
+          <string>3212</string>
+          <string>125 hertz</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">163 7 20 133 </string>
+      <string name="bounds">39 174 172 194 </string>
+    </object>
+    <object class="IBCarbonMenuItem" id="385">
+      <string name="title">Make Preset…</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonMenuItem" id="389">
+      <string name="title">Latin</string>
+      <boolean name="updateSingleItem">TRUE</boolean>
+    </object>
+    <object class="IBCarbonSlider" id="411">
+      <ostype name="controlSignature">EQsl</ostype>
+      <int name="controlID">109</int>
+      <boolean name="isLive">TRUE</boolean>
+      <int name="minimumValue">-1200</int>
+      <int name="maximumValue">1200</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>SlTr</string>
+          <string>SlTh</string>
+          <string>AXDS</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>6</string>
+          <string>6</string>
+          <string>0</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>3210</string>
+          <string>3212</string>
+          <string>16 kilohertz</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">380 7 20 133 </string>
+      <string name="bounds">39 391 172 411 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="405">
+      <ostype name="controlSignature">Labl</ostype>
+      <int name="controlID">204</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">500</string>
+      <int name="justification">1</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>TXTS</string>
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>501</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">223 142 24 13 </string>
+      <string name="bounds">174 234 187 258 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="392">
+      <int name="controlID">1000</int>
+      <int name="featureBits">2</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">11 32 420 165 </string>
+      <array count="25" name="subviews">
+        <object class="IBCarbonSlider" id="407">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">110</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>preamp</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">15 7 20 133 </string>
+          <string name="bounds">39 26 172 46 </string>
+        </object>
+        <object class="IBCarbonSlider" id="413">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">100</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>32 hertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">102 7 20 133 </string>
+          <string name="bounds">39 113 172 133 </string>
+        </object>
+        <object class="IBCarbonSlider" id="406">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">101</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>64 hertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">132 7 20 133 </string>
+          <string name="bounds">39 143 172 163 </string>
+        </object>
+        <reference idRef="416"/>
+        <object class="IBCarbonSlider" id="410">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">103</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>250 hertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">194 7 20 133 </string>
+          <string name="bounds">39 205 172 225 </string>
+        </object>
+        <object class="IBCarbonSlider" id="397">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">104</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>500 hertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">225 7 20 133 </string>
+          <string name="bounds">39 236 172 256 </string>
+        </object>
+        <object class="IBCarbonSlider" id="404">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">105</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>1 kilohertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">256 7 20 133 </string>
+          <string name="bounds">39 267 172 287 </string>
+        </object>
+        <object class="IBCarbonSlider" id="408">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">106</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>2 kilohertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">287 7 20 133 </string>
+          <string name="bounds">39 298 172 318 </string>
+        </object>
+        <reference idRef="395"/>
+        <object class="IBCarbonSlider" id="417">
+          <ostype name="controlSignature">EQsl</ostype>
+          <int name="controlID">108</int>
+          <boolean name="isLive">TRUE</boolean>
+          <int name="minimumValue">-1200</int>
+          <int name="maximumValue">1200</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="3">
+              <string>hook</string>
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="3">
+              <string>SlTr</string>
+              <string>SlTh</string>
+              <string>AXDS</string>
+            </array>
+            <string>types</string>
+            <array count="3">
+              <string>6</string>
+              <string>6</string>
+              <string>0</string>
+            </array>
+            <string>values</string>
+            <array count="3">
+              <string>3210</string>
+              <string>3212</string>
+              <string>8 kilohertz</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">349 7 20 133 </string>
+          <string name="bounds">39 360 172 380 </string>
+        </object>
+        <reference idRef="411"/>
+        <object class="IBCarbonStaticText" id="398">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">210</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Preamp</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">1 142 45 13 </string>
+          <string name="bounds">174 12 187 57 </string>
+        </object>
+        <reference idRef="403"/>
+        <object class="IBCarbonStaticText" id="402">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">12</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">0 dB</string>
+          <int name="justification">-1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>502</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">48 66 38 13 </string>
+          <string name="bounds">98 59 111 97 </string>
+        </object>
+        <reference idRef="415"/>
+        <object class="IBCarbonStaticText" id="396">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">200</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">32</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">100 142 24 13 </string>
+          <string name="bounds">174 111 187 135 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="399">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">201</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">64</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">131 142 24 13 </string>
+          <string name="bounds">174 142 187 166 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="400">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">202</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">125</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">161 142 24 13 </string>
+          <string name="bounds">174 172 187 196 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="394">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">203</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">250</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">192 142 24 13 </string>
+          <string name="bounds">174 203 187 227 </string>
+        </object>
+        <reference idRef="405"/>
+        <object class="IBCarbonStaticText" id="401">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">205</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">1K</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">254 142 24 13 </string>
+          <string name="bounds">174 265 187 289 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="412">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">206</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">2K</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">285 142 24 13 </string>
+          <string name="bounds">174 296 187 320 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="393">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">207</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">4K</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">316 142 24 13 </string>
+          <string name="bounds">174 327 187 351 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="409">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">208</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">8K</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">348 142 24 13 </string>
+          <string name="bounds">174 359 187 383 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="414">
+          <ostype name="controlSignature">Labl</ostype>
+          <int name="controlID">209</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">16K</string>
+          <int name="justification">1</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>TXTS</string>
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>501</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">378 142 24 13 </string>
+          <string name="bounds">174 389 187 413 </string>
+        </object>
+      </array>
+      <string name="bounds">32 11 197 431 </string>
+    </object>
+    <object class="IBCarbonMenu" id="363">
+      <string name="title">Popup</string>
+      <array count="28" name="items">
+        <reference idRef="385"/>
+        <reference idRef="372"/>
+        <reference idRef="366"/>
+        <object class="IBCarbonMenuItem" id="388">
+          <string name="title">Manual</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="383">
+          <boolean name="separator">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="370">
+          <string name="title">Presets</string>
+          <boolean name="disabled">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="379"/>
+        <object class="IBCarbonMenuItem" id="371">
+          <string name="title">Bass Booster</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="375">
+          <string name="title">Bass Reducer</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="377">
+          <string name="title">Classical</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="378"/>
+        <reference idRef="374"/>
+        <reference idRef="381"/>
+        <object class="IBCarbonMenuItem" id="386">
+          <string name="title">Flat</string>
+          <boolean name="checked">TRUE</boolean>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="382">
+          <string name="title">Hip-Hop</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="384">
+          <string name="title">Jazz</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="389"/>
+        <object class="IBCarbonMenuItem" id="367">
+          <string name="title">Loudness</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="364">
+          <string name="title">Lounge</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="390">
+          <string name="title">Piano</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="373">
+          <string name="title">Pop</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="376"/>
+        <object class="IBCarbonMenuItem" id="368">
+          <string name="title">Rock</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="369">
+          <string name="title">Small Speakers</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="387">
+          <string name="title">Spoken Word</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <reference idRef="365"/>
+        <object class="IBCarbonMenuItem" id="380">
+          <string name="title">Treble Reducer</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+        <object class="IBCarbonMenuItem" id="391">
+          <string name="title">Vocal Booster</string>
+          <boolean name="updateSingleItem">TRUE</boolean>
+        </object>
+      </array>
+    </object>
+    <reference idRef="414"/>
+    <reference idRef="377"/>
+    <reference idRef="410"/>
+    <reference idRef="390"/>
+    <reference idRef="388"/>
+    <reference idRef="386"/>
+    <reference idRef="387"/>
+    <reference idRef="370"/>
+    <reference idRef="400"/>
+    <reference idRef="384"/>
+    <reference idRef="373"/>
+    <reference idRef="393"/>
+    <reference idRef="397"/>
+    <reference idRef="407"/>
+    <reference idRef="396"/>
+    <reference idRef="408"/>
+    <reference idRef="402"/>
+    <reference idRef="369"/>
+    <reference idRef="406"/>
+    <reference idRef="382"/>
+    <reference idRef="401"/>
+    <reference idRef="391"/>
+    <reference idRef="364"/>
+    <reference idRef="417"/>
+    <reference idRef="371"/>
+    <object class="IBCarbonWindow" id="180">
+      <boolean name="receiveUpdates">FALSE</boolean>
+      <boolean name="hasHorizontalZoom">FALSE</boolean>
+      <boolean name="isResizable">FALSE</boolean>
+      <boolean name="hasVerticalZoom">FALSE</boolean>
+      <boolean name="metal">TRUE</boolean>
+      <boolean name="compositing">TRUE</boolean>
+      <boolean name="asyncDrag">TRUE</boolean>
+      <boolean name="isConstrained">FALSE</boolean>
+      <int name="scalingMode">1048576</int>
+      <string name="title">Equalizer</string>
+      <object name="rootControl" class="IBCarbonRootControl" id="181">
+        <string name="viewFrame">0 0 440 225 </string>
+        <array count="3" name="subviews">
+          <object class="IBCarbonCheckBox" id="361">
+            <ostype name="controlSignature">EQcb</ostype>
+            <int name="controlID">5000</int>
+            <ostype name="command">EQon</ostype>
+            <int name="initialState">1</int>
+            <string name="title">On</string>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="1">
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="1">
+                <string>TXTS</string>
+              </array>
+              <string>types</string>
+              <array count="1">
+                <string>6</string>
+              </array>
+              <string>values</string>
+              <array count="1">
+                <string>500</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">28 10 59 14 </string>
+            <string name="bounds">10 28 24 87 </string>
+          </object>
+          <object class="IBCarbonPopupButton" id="362">
+            <ostype name="controlSignature">EQpu</ostype>
+            <int name="controlID">5001</int>
+            <int name="selectedItem">14</int>
+            <reference name="menu" idRef="363"/>
+            <dictionary count="4" name="auxiliaryDictionary">
+              <string>creators</string>
+              <array count="2">
+                <string>hook</string>
+                <string>hook</string>
+              </array>
+              <string>tags</string>
+              <array count="2">
+                <string>PBUT</string>
+                <string>TXTS</string>
+              </array>
+              <string>types</string>
+              <array count="2">
+                <string>6</string>
+                <string>6</string>
+              </array>
+              <string>values</string>
+              <array count="2">
+                <string>786</string>
+                <string>510</string>
+              </array>
+            </dictionary>
+            <string name="viewFrame">114 6 164 20 </string>
+            <string name="bounds">6 114 26 278 </string>
+          </object>
+          <reference idRef="392"/>
+        </array>
+        <string name="bounds">0 0 225 440 </string>
+      </object>
+      <string name="windowRect">413 600 638 1040 </string>
+      <string name="ScreenRectAtEncodeTime">0 0 768 1024 </string>
+    </object>
+    <reference idRef="398"/>
+    <reference idRef="383"/>
+    <reference idRef="181"/>
+    <reference idRef="394"/>
+    <reference idRef="375"/>
+    <reference idRef="361"/>
+    <reference idRef="368"/>
+    <reference idRef="380"/>
+    <reference idRef="409"/>
+    <reference idRef="367"/>
+    <reference idRef="399"/>
+    <reference idRef="362"/>
+    <reference idRef="404"/>
+    <reference idRef="412"/>
+    <reference idRef="413"/>
+  </array>
+  <array count="59" name="allParents">
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="181"/>
+    <reference idRef="362"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="1"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="180"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="181"/>
+    <reference idRef="363"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="363"/>
+    <reference idRef="392"/>
+    <reference idRef="181"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+    <reference idRef="392"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>Contents</string>
+    <reference idRef="180"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">419</unsigned_int>
+</object>
