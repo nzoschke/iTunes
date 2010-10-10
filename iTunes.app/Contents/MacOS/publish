@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -va --no-g --exclude=.git /Users/vortex/Music/iTunes/ data@192.168.1.103:/home/data/Music/iTunes
