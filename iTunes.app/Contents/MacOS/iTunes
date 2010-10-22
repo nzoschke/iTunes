@@ -1,10 +1,37 @@
 #!/bin/bash
-set -x
-(
-	touch /tmp/iTunesReadOnly.log && chmod 666 /tmp/iTunesReadOnly.log # create log file
-	echo LAUNCHED `date`
-	echo FROM $0
-	rsync -v -a /Network/Music/iTunes/ ~/Music/iTunesReadOnly
-) >> /tmp/iTunesReadOnly.log
 
+# create logfile and redirect stderr/stdout
+touch /tmp/iTunesReadOnly.log && chmod 666 /tmp/iTunesReadOnly.log
+exec  >>/tmp/iTunesReadOnly.log 
+exec 2>>/tmp/iTunesReadOnly.log 
+
+echo LAUNCHED `date` FROM $0
+
+# set up dialog helpers
+CocoaDialog=`dirname $0`/../../../CocoaDialog.app/Contents/MacOS/CocoaDialog
+function errordialog() {
+    $CocoaDialog msgbox \
+    --title "iTunesReadOnly" --icon x --button1 "Exit" \
+    --text "${1}" --informative-text "${2}"
+    exit 1
+}
+
+function progressbar() {
+  $CocoaDialog progressbar --indeterminate --title "iTunesReadOnly" --text "${1}"
+}
+
+set -x
+
+# display error if git is missing
+PATH=$PATH:/usr/local/bin
+type -P git || errordialog "Fatal Error" "git is missing"
+
+# initial clone
+git clone --verbose https://github.com/nzoschke/iTunes.git ~/Music/iTunesReadOnly/ 2> >(progressbar "Cloning Library...")
+
+# subsequent pull
+cd ~/Music/iTunesReadOnly/ && git reset --hard || errordialog "Fatal Error" "Failed to reset Library."
+git pull --verbose 2> >(progressbar "Updating Library...")
+
+# launch iTunes!
 exec `dirname $0`/iTunes.orig
