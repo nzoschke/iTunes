@@ -33,5 +33,8 @@ git clone --verbose https://github.com/nzoschke/iTunes.git ~/Music/iTunesReadOnl
 cd ~/Music/iTunesReadOnly/ && git reset --hard || errordialog "Fatal Error" "Failed to reset Library."
 git pull --verbose 2> >(progressbar "Updating Library...")
 
+# check if proper library path is set
+# defaults read com.apple.iapps iTunesRecentDatabases
+
 # launch iTunes!
 exec `dirname $0`/iTunes.orig
