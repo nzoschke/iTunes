@@ -9,6 +9,12 @@ echo LAUNCHED `date` FROM $0
 
 # set up dialog helpers
 CocoaDialog=`dirname $0`/../../../CocoaDialog.app/Contents/MacOS/CocoaDialog
+function warningdialog() {
+    $CocoaDialog msgbox \
+    --title "iTunesReadOnly" --icon x --button1 "Continue" \
+    --text "${1}" --informative-text "${2}"
+}
+
 function errordialog() {
     $CocoaDialog msgbox \
     --title "iTunesReadOnly" --icon x --button1 "Exit" \
@@ -34,7 +40,10 @@ cd ~/Music/iTunesReadOnly/ && git reset --hard || errordialog "Fatal Error" "Fai
 git pull --verbose 2> >(progressbar "Updating Library...")
 
 # check if proper library path is set
-# defaults read com.apple.iapps iTunesRecentDatabases
+   defaults read com.apple.iTunes "alis:1:iTunes Library Location" \
+|  python -c "import sys; import binascii; hex = sys.stdin.read().replace(' ', '')[1:-2]; print binascii.a2b_hex(hex)" \
+|  strings | grep "Macintosh HD:.*:Music:iTunesReadOnly" \
+|| warningdialog "Warning" "iTunes is not pointing to iTunesReadOnly library. Hold down option to select."
 
 # launch iTunes!
 exec `dirname $0`/iTunes.orig
